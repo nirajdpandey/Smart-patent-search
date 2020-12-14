@@ -1,0 +1,52 @@
+ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.1//EN" "ep-patent-document-v1-1.dtd" 
+ ..BECHDE....FRGB......LUNLSE...................... B 0006408 EUROPÄISCHE PATENTANMELDUNG A1 19800109 EP 78101483.2 19781130 de de de 7819583  U 19780630 DE 19800109 198001 19800109 198001 3  3A 61F   1/00   A  3A 61F   1/03   B de In eine Markhöhle einsetzbares Hilfselement zur Sicherung des Sitzes eines Implantates en Auxiliary device insertable in a medullary canal for ensuring the fixation of an implanted prosthesis fr Elément  auxiliaire destiné à être inséré dans un canal médullaire pour garantir la fixation d'une prothèse implantée HOWMEDICA INTERNATIONAL, INC.
+Zweigniederlassung Kiel 00211730 28 880-19 Professor-Küntscher-Strasse 1-5 D-2314 Schönkirchen DE Seidel, Hartmut, Dr. med. Hochrad 19 D-2000 Hamburg 52 DE Richter, Karl M., Dipl.-Ing. Haferkamp 14 D-2304 Wendtorf DE Harder, Hans Erich Mecklenburger Strasse 32 D-2301 Probsteierhagen DE Behrens, Klaus, Ing. grad. Am Sportplatz 8 D-2351 Rickling DE Hauck, Hans, Dipl.-Ing. et al 00005031 Mozartstrasse 23 D-80336 München DE BE CH DE FR GB LU NL SE  EPO <DP n="1">  
+ 
+ In eine Markhöhle einsetzbares Hilfselement zur Sicherung des Sitzes eines mit Knochenzement fixierten Implantates. Dieses Hilfselement besteht aus einem Stopfen, der einen vorderen glatten Abschnitt (10) und einen hinteren Abschnitt größeren Durchmessers (11) aufweist, der mit Verriegelungsmitteln (13) versehen ist. 
+  EPO <DP n="2">  
+ 
+ Die Erfindung bezieht sich auf ein in eine Markhöhle einsetzbares Hilfselement zur Sicherung des Sitzes von mit Knochenzement gesicherten Implantaten. 
+ Implantate werden mit Hilfe eines sogenannten Knochenzementes in Markhöhlen fixiert. Es besteht jedoch Gefahr, daß nach einem mehr oder weniger langen Zeitraum sich das Implantat unter der ständigen Beanspruchung zu lockern beginnt. Dies wird zum Teil dadurch verursacht, daß das Implantat nicht wirksam genug im Knochenzement eingebettet ist. Denn durch das Einsetzen des Implantates besteht die Gefahr, daß der Zement in Längsrichtung des Knochens auswandert. 
+ Der Erfindung liegt die Aufgabe zugrunde, ein Hilfselement anzugeben, mit dem der oben beschriebene Nachteil verhindert   EPO <DP n="3">  wird und der zur Verbesserung der Sicherung des Sitzes eines Implantates beiträgt. 
+ Diese Aufgabe wird erfindungsgemäß gelöst durch einen in eine Knochenmarkhöhle einsetzbaren Stopfen, der einen vorderen glatten Abschnitt und einen hinteren Abschnitt größeren Durchmessers aufweist, der mit Verriegelungsmitteln versehen ist. 
+ Der glatte Abschnitt hat in etwa den Durchmesser der Markhöhle, während der hintere Teil etwas größeren Durchmesser besitzt. 
+ Der erfindungsgemäße Stopfen wird als erstes in die Knochenmarkhöhle eingeführt, bevor der Knochenzement eingegeben wird. Das einzusetzende Implantat preßt dann den Knochenzement seitlich in den spongiösen Teil des Knochens, und der erfindungsgemäße Stopfen verhindert das Auswandern des Zements in Längsrichtung des Knochens. Dadurch entsteht zwischen Knochen und Implantat mit Hilfe des Zements eine feste, porenfreie Verbindung, wodurch die Haftung des Implantats wesentlich erhöht wird. 
+ Der erfindungsgemäße Stopfen kann in geeigneter Weise unterschiedlich gestaltet werden. Eine Ausgestaltung der Erfindung sieht hierzu vor, daß der hintere Abschnitt flexibel gestaltet ist und einen größeren Außendurchmesser   EPO <DP n="4">  als der vordere Abschnitt aufweist. Der Vorderabschnitt ist an den Durchmesser der Markhöhle angepaßt, deshalb muß eine Reihe von Stopfen mit unterschiedlichem Außendurchmesser auf Vorrat vorhanden sein, damit für den jeweiligen Durchmesser der Knochenhöhle der geeignete Stopfen einsetzbar ist. Der hintere Abschnitt ist bei der beschriebenen Ausführungsform flexibel gestaltet und weist einen größeren Außendurchmesser als der Vorderabschnitt auf, so daß er beim Einsetzen radial nach innen verformt wird und dadurch einen Druck auf die Wandung der Knochenhöhle ausübt, um darin formschlüssig verankert zu werden. 
+ Zur Verbesserung der Verankerung sieht eine weitere Ausgestaltung der Erfindung vor, daß die Verriegelungsmittel von sägezahnartig umlaufenden Rippen gebildet sind. Die Sägezahnform der Rippen ist jedoch so angeordnet, daß der größere widerhakenförmige Widerstand in Einsetzrichtung des Stopfens stattfindet, während er in entgegengesetzter Richtung verhältnismäßig leicht herausgezogen werden kann. 
+ Eine besonders wirksame Formgebung besteht gemäß einer weiteren Ausgestaltung der Erfindung darin, daß der hintere Abschnitt sich nach hinten konisch erweitert. Zur Verbesserung der Flexiblität des hinteren Abschnitts ist erfindungsgemäß vorgesehen, daß die Wand des hohlen hinteren Abschnitts mindestens einen Längsschlitz aufweist.  EPO <DP n="5">  
+ Das Material des Stopfens besteht zweckmäßigerweise aus Polyethylen oder einem anderen bekannten Implantatematerial. 
+ Ein Ausführungsbeispiel der Erfindung wird nachfolgend anhand von Zeichnungen näher beschrieben.
+ 
+ Fig. 1 zeigt die Längsansicht eines Stopfens nach der Erfindung. 
+ Fig. 2 zeigt einen Schnitt durch den Stopfen nach Fig. 1. 
+ 
+ Der in den Figuren 1 und 2 gezeigte Stopfen, beispielsweise aus Polyethylen, besitzt einen vorderen, aus vollem Material hergestellten Abschnitt 10 und einen hinteren Abschnitt 11. Der hintere Abschnitt 11 ist kegelstunpfförmig gestaltet mit einer konischen Blindbohrung 12 im Inneren und sägezahnförmigen umlaufenden Rippen 13 außen. Außerdem erstrecken sich in Längsrichtung vier um 90 Umfangsabstand beabstandete Längsschlitze 14 durch die Wand des hinteren Abschnitts 11. 
+ Die Flanken zwischen den Rippen bilden einen Winkel von etwa 60°. Sie sind derart angeordnet, daß eine widerhakenartige Wirkung entsteht, wenn der Stopfen in Einsetzrichtung, d.h. mit dem vorderen Abschnitt 10 zuerst in eine Knochenhöhle eingeführt wird. In entgegengesetzter Richtung ermöglichen die oberen Flanken der Rippen 13 ein verhältnismäßig leichtgängiges Gleiten.  EPO <DP n="6">  
+ Beim Einsetzen des Stopfens nach den Figuren 1 und 2 in eine Markhöhle ist darauf zu achten, daß der Außendurchmesser des vorderen Abschnitts 10, der an der vorderen Stirnseite mit einer abgerundeten Kante 15 versehen ist, dem Durchmesser der Markhöhle entspricht. Demzufolge werden die vier durch die Schlitze 14 getrennten Abschnitte des hinteren Abschnitts radial nach innen gebogen, wobei die sägezahnartigen Rippen 13 wirksam in der Markhöhle verankert werden, so daß beim Einsetzen eines Impalntatos der Knochenzement an einem Auswandern in Längsrichtung des Knochens gehindert ist und seitlich in den spongiösen Teil des Knochens gepreßt wird. 
+ Bei eventuellen Reimplantationen wird der gezeigte Stopfen mit einem Spiralbohrer oder dergleichen durchbohrt. Mit einem Extraktionshaken, der durch das gebohrte Loch das Ende des Stopfens erfaßt, kann dieser herausgeschlagen werden. 
+ Die Bohrung 12 setzt sich im massiven Abschnitt 10 in einer Gewindebohrung 16 fort, mit welcher ein Einsetzgerät in Eingriff gebracht werden kann. Zusätzlich oder alternativ kann auch die Bohrung 12 mit Innengewinde versehen werden, z. B. um den Stopfen zu extrahieren. Die Bohrung 16 hat gegenüber der Bohrung 12 einen reduzierten Durchmesser. Eine Durchgangsbohrung 17 im massiven vorderen Abschnitt von noch geringerem Durchmesser dient   EPO <DP n="7">  beim Einsetzen des Stopfens in die Markhöhle zum Druckausgleich. 
+ Der gezeigte Stopfen hat Originalgröße für einen Durchmesser 12 mm. Normalerweise reicht eine Serie vom Innendurchmesser 10 bis 18 mm aus, um allen anfallenden Versorgungsfällen gerecht zu werden. 
+ In den Zeichnungen ist ein Stopfen mit einem massiven vorderen und einem hohlen flexiblen hinteren Teil dargestellt. Die Erfindung ist jedoch hierauf nicht beschränkt. Vielmehr erstreckt sich die Erfindung auf alle stopfenartigen Elemente, welche, in eine Markhöhle eingesetzt, eine Wanderung von Knochenzement in Längsrichtung des Knochens verhindern, indem das stopfenartige Element dem einen Widerstand entgegensetzt. 
+  EPO <DP n="8">  
+ 
+ 
+ 1. In eine Markhöhle einsetzbares Hilfselement zur Sicherung des Sitzes von mit Knochenzement fixierten Implantaten, gekennzeichnet durch einen in eine Knochenmarkhöhle einsetzbaren Stopfen, der einen vorderen glatten Abschnitt (10) und einen hinteren Abschnitt größeren Durchmessers (11) aufweist, der mit Verriegelungsmitteln (13) versehen ist. 
+ 
+ 2. Hilfselement nach Anspruch 1, dadurch gekennzeichnet, daß der hintere Abschnitt (11) flexibel gestaltet ist und einen größeren Außendurchmesser als der Vorderabschnitt (10) aufweist. 
+ 
+ 3. Hilfselement nach Anspruch 2, dadurch gekennzeichnet, daß die Verriegelungsmittel von sägezahnartig umlaufenden Rippen (13) gebildet dnd. 
+ 
+ 4. Hilfselement nach Anspruch 2 oder 3, dadurch gekennzeichnet, daß der hintere Abschnitt (11) sich nach hinten konisch erweitert. 
+ 
+ 5. Hilfselement nach einem der Ansprüche 2 bis 4, dadurch gekennzeichnet, daß die Wand des hohlen hinteren Abschnitts (11) mindestens einen Längsschlitz (14) aufweist.  EPO <DP n="9">  
+ 
+ 6. Hilfselement nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, daß der Stopfen aus Polyethylen oder einem anderen Implantatematerial besteht. 
+ 
+ 7. Hilfselement nach einem der Ansprüche 1 bis 6, dadurch gekennzeichnet, daß im vorderen massiven Abschnitt (10) eine Gewindebohrung (16) vorgesehen ist. 
+ 
+ 8. Hilfselement nach einem der Ansprüche 1 bis 6, dadurch gekennzeichnet, daß im vorderen massiven Abschnitt (10) eine Durohgangsbohrung (17) vorgesehen ist. 
+  EPO <DP n="10">  
+ 
+ 
+  EPO <DP n="11">  
+ 

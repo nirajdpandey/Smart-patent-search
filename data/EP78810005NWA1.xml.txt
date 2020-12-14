@@ -1,0 +1,68 @@
+ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.1//EN" "ep-patent-document-v1-1.dtd" 
+ ....CHDE....FRGB.................................. B 0006414 EUROPÄISCHE PATENTANMELDUNG A1 19800109 EP 78810005.5 19780629 de de de 19800109 198001 19800109 198001 3  3A 61F   1/00   A de Mit Kohlenstoffasern verstärkter Knochenzement en Carbon fiber reinforced bone cement fr Ciment orthopédique renforcé de fibres de carbone OSTEO AG 00202730 SE/ks/20 199/18 Bielstrasse 620 CH-2545 Selzach CH Mittelmeier, Heinz, Prof. An der Schutzhütte D- Blieskastel DE Moser, Heinz Späretweg 440 CH-2545 Selzach CH Leu, Beat Hintere Gasse 33 CH-2500 Biel CH Seehof, Michel et al 00026841 c/o AMMANN PATENTANWAELTE AG BERN
+Schwarztorstrasse 31 3001 Bern CH CH DE FR GB  EPO <DP n="1">  
+ 
+ Der Knochenzement mit Polymethylmetacrylat und Derivate wird zwecks Erhöhung der mechanischen Festigkeit und der Körperverträglichkeit mit einem Kohlefaser-Strumpf (1) verstärkt und mit der mineralischen Komponente des natürlichen Knochengewebes, Apatit, vermischt. 
+  EPO <DP n="2">  
+ 
+ Die vorliegende Erfindung bezieht sich auf ein Knochenzement aus autopolymerisierenden Kunststoffen, insbesondere mit Polymethylmetacrylat und Derivate. 
+ Seit etwa 1960 hat es sich eingebürgert, Endo-Prothesen, insbesondere Gelenkprothesen, mittels autopolymerisierenden Knochenzementen, vor allem Polymethylmetacrylat im Knochen zu befestigen. Der in der plastischen Polymerisationsphase eingebrachte Zement passt sich einerseits den Prothesenteilen, andererseits der Rauhigkeit des Knochens ideal an. Nach Abschluss des Polymerisationsvorganges und Aushärten des Knochenzementes besteht eine feste, mechanische Verzahnung der eigentlichen Prothesenkörper, mittels des Zementmantels im Knochengewebe. Der Knochenzement hat auch den Vorteil, dass infolge seines niedrigen Elastizitätsmoduls, die bei der Belastung auftretenden Verformungen und Relativbewegungen zwischen der Prothese und dem Knochengewebe reduziert werden. Dennoch kommt es im Laufe der Zeit oft zu einer aseptischen Prothesenlockerung, wofür es eine Anzahl von Gründen gibt. Einmal spielt die ungenügende mechanische Festigkeit des Knochenzementes eine Rolle und weiter eine Knochenresorptiohn infolge einer chemischtoxischen Fremdkörperreaktion, bedingt durch Abgabe von Restmonomeren und Oligomeren.  EPO <DP n="3">  
+ Es ist ein Ziel der vorliegenden Erfindung, einen Knochenzement anzugeben, der eine erhöhte mechanische Festigkeit und eine bessere Verträglichkeit aufweist. Dieses Ziel wird mit einem Knochenzement erreicht, der faserverstärkt, vorzugsweise kohlefaserverstärkt ist. In einer vorzugsweisen Ausführung liegen die Fasern in Form einer Textur, insbesondere in Form eines Schlauches vor und sind zweckmässig verteilt. Um die chemisch-toxische Fremdkörperreaktion herabzusetzen oder ganz zu eliminieren, wird dem faserverstärkten Knochenzement mineralische Komponenten des natürlichen Knochengewebes, Apatit, in Partikelform zugemischt. 
+ Die Erfindung wird nachfolgend anhand einer Zeichnung eines Ausführungsbeispiels näher erläutert werden, worin die einzige  
+Figur eine einzementierte Hüftgelenkprothese mit  
+einem Kohlefaser-Strumpf zeigt. 
+ Wie bereits eingangs erwähnt wurde, kann eine zu geringe mechanische Festigkeit des Knochenzementes zu einem Bruch oder zu einer bindegewebigen Abgrenzung des Knochengewebes vom Knochenzement führen. Es war daher nach einer Möglichkeit zu suchen, diesen Knochenzement zu verstärken und insbesondere eine Faserverstärkung zu suchen, deren Fasern aus einem Material mit einem hohen Elastizitätsmodul und hoher Streckfestigkeit bestehen, die sich mit dem Kunststoffzement gut verhaften und vor allem auch körperverträglich sind. Diese gesuchten Eigenschaften vereinigen die Kohlefasern in hohem Masse, wobei diese Kohlefasern in verschiedenen Ausführungsformen vorhanden sind. 
+ Es ist beispielsweise möglich, die Kohlefasern, die in verschiedener Form, als Pulver, Partikeln oder Faservlies vorliegen können, in einer tuchartigen Schicht mit Knochen  EPO <DP n="4">  zement zu begiessen und den Prothesenstiel damit einzuwickeln oder aber den Prothesenstiel mit zähflüssigem Kunststoff zu ummanteln, um dann einen Kohlefaserdocht oder ein entsprechend geformtes Kohlefaservlies darum zu wickeln. 
+ In einem bevorzugten Ausführungsbeispiel kann man dem Faserstoff eine vorgegebene Textur geben, dass dieselbe in Form eines in gewisser Länge begrenzten oder aufgerollten Schlauches vorliegt, der in gewünschter_Länge abgeschnitten werden kann. Dieser Schlauch kann dann an dem untersten Ende mit einem Faden oder dergleichen strumpfartig geschlossen werden oder auch gleich als unten geschlossener Strumpf hergestellt werden, wie in der Figur dargestellt ist. Man erkennt den Kohlefaserstrumpf 1, der mit dem Kunststoffzement 2 getränkt ist und in der Markhöhle 3 eines Oberschenkelknochens 5 eingebracht ist und den Prothesenschaft 4. Da die Zementhüllen um die Prothesenstiele sowohl Stauchungs- und Dehnungs- als auch Scher- und Torsionsbelastungen ausgesetzt sind, sollte durch eine entsprechende Verknüpfungsart, beispielsweise Stricken, Weben oder Vernetzung durch Kleben, eine derartige Textur beschaffen werden, dass Fasern sowohl in der Längs- als auch Quer-und Diagonalrichtung, eventuell in mehreren untereinander vernetzten Schichten übereinander vorliegen. Auf diese Weise wird eine zweckmässige optimale Verteilung der Fasern bewirkt und erreicht, dass sich eine geschlossene Zementschicht bildet, die beim Einführen des Prothesenschaftes nicht geteilt wird, wodurch die Gefahr einer Bildung einer Bruchstelle vermieden wird. 
+ Ein bekanntes Verfahren zur Herstellung von Kohlefasern beruht auf der Pyrolisierung von Acrylfasern. In diesem Falle ist es möglich, den Strumpf oder Schlauch aus Acrylfasern zu stricken, zu weben oder zu kleben und anschliessend den fertigen Strumpf oder Schlauch zu pyrolisieren. Es ist aber   EPO <DP n="5">  auch möglich, den Strumpf oder Schlauch direkt aus Kohlefasern herzustellen. Ueblicherweise liegt die Faserstärke von Kohlefasern im Bereich von 6 bis 15 µm. In gewissen Fällen kann es zweckdienlich sein, den Kohlefaser-Strumpf direkt auf den Prothesenstiel aufzubringen, wobei der Prothesenteil mit dieser Schicht vertrieben werden kann. 
+ Die chemisch-toxische Fremdkörperreaktion infolge Abgabe von Restmonomeren und Oligomeren löst am Körpergewebe eine abgrenzende Fremdkörperreaktion aus, die sich durch Abwehrzellen und Bindegewebe ausdrückt. Dies bewirkt, dass eine direkte chemische Verbindung zwischen den Knochen und den Prothesen mit ihren Zementhüllen nicht zustande kommt. Die Prothese ist dann nur mechanisch verankert, die nach bisherigen Erfahrungen im Laufe der Zeit vielfach versagt. In der Folge tritt gewöhnlich eine Prothesenlockerung auf, welche zu erheblichen Beschwerden Anlass gibt und schliesslich zur Prothesenentfernung mit Hinterlassung eines erheblichen, vielfach schmerzhaften Defektes führt. Offenbar kommt es im Körpermilieu auch zu einer Zementalterung mit Abbau der Polymerketten und Reduzierung der anfänglichen Zementfestigkeit. 
+ Um die mechanische Festigkeit noch weiter zu erhöhen, insbesondere die Dauerschwingfestigkeit und andererseits die Körperverträglichkeit zu vergrössern, möglichst derart, dass ein Anwachsen des Knochens an die Zementoberfläche möglich wird, wird der Knochenzement mit der mineralischen Komponente des natürlichen Knochengewebes, Apatit, in Partikelform vermischt. Beim Apatit handelt es sich chemisch um Ca 5  (P0 4 )  3  (OH). Dabei ist es sinnvoll, den Apatit in feinkörniger Form beizumischen, um im Zement eine gewisse Wabenstruktur zu erreichen. Einesteils ist der Knochen selbst ein Verbundwerkstoff zwischen kollagenen Faserstrukturen und feinstkörnigem Apatit; andererseits werden auch in der   EPO <DP n="6">  Werkstoff-Technik wabenförmige Strukturen verwendet, teils um Substanz zu sparen, teils um eine ausreichende Festigkeit zu erhalten. Eine grobe Porosität erscheint dabei nicht sinnvoll, da sie zur Festigkeitsminderung führt. Da der Apatit mit dem Zement offenbar keine chemische Bindung eingeht, entsteht keine Festigkeitsminderung des Zementes durch chemische Beeinflussung. Die Apatitbeimengung führt aber zweifellos dazu, dass Apatitpartikel auch an der Kontaktfläche des Zement/Apatitgemisches mit dem Knochengewebe vorliegen. Auf diese Weise wird die Oberflächentoxizität des Knochenzementes vermindert. Auch kann der Knochen in diesem Bereich mit den Apatitpartikelchen eine Bindung eingehen, welche die Befestigung der Prothese am Knochen verbessert. Ausserdem ist eine Verminderung der Polymertemperatur und damit der Hitzeschädigung und eine grössere Härte zu erwarten. Es ist auch denkbar, dass es im Laufe der Zeit an der Zementoberfläche zu einer teilweisen Eluierung der Apatitpartikel kommt, so dass eine feine zusätzliche Oberflächenporosität der Zementhülle entsteht, welche erwartungsgemäss zum Einwachsen neugebildeten Knochens und damit zur Vergrösserung der tragenden Oberfläche mit Reduzierung des Knochendruckes führt. 
+ Versuche haben ergeben, dass je nach Anwendungszweck, das heisst Einsatzort und Alter des Patienten, Beimengungen von Apatit zwischen 1 - 30 Gewichtsprozente gute Resultate liefern, während die Partikelgrössen in einem weiten Bereich zwischen 2/un und 3 mm schwanken.können. 
+ Es ist sehr vorteilhaft, wenn dem Knochenzement ferner Röntgenzusätze, wie beispielsweise Bariumsalze, beigefügt werden, wahrend Zusätze von sonstigen natürlichen Mineralien nützlich sein können. 
+ Es kann sowohl synthetisch hergestellter Apatit als auch   EPO <DP n="7">  Apatit verwendet werden, der aus natürlichen Knochen gewonnen wurde. Es kann ferner zweckmässig sein, ein Gemisch von Kalziumphosphaten beizumengen. 
+ Der Knochenzement mit den Apatitzusätzen kann dem Operateur auf verschiedene Weise zur Verfügung gestellt werden. Es ist denkbar, dass reiner, herkömmlicher Knochenzement genommen wird, welcher mit monomerer Mischflüssigkeit, in irgendeinem dem Fall angemessenen Verhältnis, vermengt wird, oder dass organisches Kunststoffpulver und der Apatitanteil in einem bereits bestimmten Mischverhältnis vorliegt, oder dass beide Anteile in Pulverform getrennt vorliegen und in einem gewollten Verhältnis gemischt werden. 
+ Im Hinblick auf ein erleichtertes Hineinbringen und Verwenden des Kohlefaser-Strumpfes kann es zweckmässig sein, an diesem einen Ueberwurfring anzubringen. 
+ Um den Knochenzement mit dem Kohlefaser-Strumpf in die Markhöhle des Knochens einzubringen wird vorteilhafterweise der Strumpf mit Knochenzement ausgegossen und im feuchten Zustand in die Markhöhle gebracht, und anschliessend wird der Prothesenschaft hineingetrieben. 
+  EPO <DP n="8">  
+ 
+ 
+ 1. Knochenzement aus autopolymerisierenden Kunststoffen, insbesondere mit Polymethylmetacrylat und Derivate, dadurch gekennzeichnet, dass er faserverstärkt ist. 
+ 
+ 2. Knochenzement gemäss Anspruch l, dadurch gekennzeichnet,  
+dass die Fasern Kohlefasern sind. 
+ 
+ 3. Knochenzement gemäss Anspruch 1 oder 2, dadurch gekennzeichnet,  
+dass die Fasern eine Textur aufweisen und insbesondere in Form eines Schlauches oder Strumpfes (1) vorliegen und zweckmässig verteilt sind. 
+ 
+ 4. Knochenzement gemäss Anspruch 3, dadurch gekennzeichnet,  
+dass die Textur durch eine Verknüpfungsart wie Weben, Stricken oder Vernetzung durch Kleben geschaffen ist. 
+ 
+ 5. Knochenzement gemäss Anspruch 3 oder 4, dadurch gekennzeichnet,  
+dass der Kohlenfaser-Strumpf (1) einen daran befestigten Ueberwurfring aufweist.  EPO <DP n="9">  
+ 
+ 6. Knochenzement gemäss Anspruch 3,  
+dadurch gekennzeichnet,  
+dass der Kohlefaser-Strumpf am Prothesenstiel befestigt ist. 
+ 
+ 7. Knochenzement gemäss einem der Ansprüche 1 - 6,  
+dadurch gekennzeichnet,  
+dass er mit der mineralischen Komponente des natürlichen Knochengewebes, Apatit, in Partikelform vermischt ist. 
+ 
+ 8. Knochenzement nach Anspruch 7,  
+dadurch gekennzeichnet,  
+dass der Apatit zwischen 1 - 30 Gewichtsprozent ausmacht. 
+ 
+ 9. Knochenzement nach Anspruch 7 oder 8,  
+dadurch gekennzeichnet,  
+dass er sowohl synthetisch hergestellten als auch aus natürlichen Knochen gewonnenen Apatit enthält. 
+ 
+ 10. Knochenzement gemäss einem der Ansprüche 1 - 9, dadurch gekennzeichnet,  
+dass er Röntgenzusätze wie Bariumsalze enthält. 
+ 
+ 11. Knochenzement gemäss einem der Ansprüche 1 - 10, dadurch gekennzeichnet,  
+dass er ein Gemisch von Kalziumphosphaten enthält. 
+  EPO <DP n="10">  
+ 
+ 
+  EPO <DP n="11">  
+  EPO <DP n="12">  

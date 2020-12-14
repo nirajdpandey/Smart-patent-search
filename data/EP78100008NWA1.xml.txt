@@ -1,0 +1,73 @@
+ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.1//EN" "ep-patent-document-v1-1.dtd" 
+ ..BECHDE....FRGB........NLSE...................... B 0006400 EUROPÄISCHE PATENTANMELDUNG A1 19800109 EP 78100008.8 19780913 de de de 19800109 198001 19800109 198001 3  3B 24D   9/04   A de Zylindrischer Spanndorn für ein Schleif- oder Polierblatt vorgegebener Grösse en Cylindrical mandrel for an abrasive sheet of a given size fr Mandrin cylindrique pour feuille abrasive de dimensions données Oberer, Walter 00200150 451.20.1PP/MVG/ Käferholzstrasse 167 CH-8046 Zürich CH Oberer, Walter Käferholzstrasse 167 CH-8046 Zürich CH BE CH DE FR GB NL SE  EPO <DP n="1">  
+ 
+ Bei einem Spezialschleifwerkzeug ist ein Klemmdorn (B) in Form einer mit Kerben (Ba) und Zacken (Be) versehener abgeflachten Spannadel, mittig tragender Stiftschraube (Bc) in den zylindrischen Spanndorn (A) derart eingeschraubt, daß das vordere Ende (Bb) gegenüber dem vorderen Ende des Spanndornes (A) vorsteht. Diese Vorstehung ermöglicht die mittige Aufnahme der Bestükkung (E) bei Parallelstellung der abgeflachten Klemmnadel (B) mit dem Spanndornschlitz (Ad). 
+ Hilfsvorrichtung (D) zum Befestigen eines Schleifblattes an dem Spanndorn, wobei diese Hilfsvorrichtung eine Längsbohrung (Da) und einen Schlitz (De) aufweist. 
+  EPO <DP n="2">  
+ 
+ Die Erfindung betrifft einen zylinderischen Spanndorn für ein Schleif- oder Polierblatt vorgegebener Grösse , der sich durch einen besonders festen Halt auch bei axialer Bewegung des Spanndornes auszeichnet. 
+ Es ist durch die US-PS 603 357 ein Spanndorn bekannt geworden, bei welchem der Klemmdorn in der-Längsrichtung an der Lein= wandseite des Schleifleinens angreift, Bei axialer Beanspru= chung des Schleifwerkzeuges ist aber dort ein leichtes abziehendes Schleifblattes vom Spanndorn möglich. 
+ Der vorliegenden Erfindung liegt die Aufgabe zu Grunde, auch bei axialer Beanspruchung des Schleifwerkzeuges mit Sicher= heit. und auf möglichst einfache Weise einen festen Halt zu erreichen. 
+ Die Aufgabe wird nach der Erfindung dadurch gelöst, dass bei einem Spanndorn, der aus einem mit einem Einspannschaft ver= sehenen Hohlzylinder mit Längsschlitz und einer Bohrung be= steht, in welcher ein Klemmdorn drehbar angeordnet ist, die Bohrung durchgehend und mittig angeordnet ist und ausserhalb des Bereiches des Schlitzes in eine Bohrung grössern Durch= messers übergeht, in welche eine den Klemmdorn in Form einer mit Kerben versehenen, abgeflachten Spannadel mittig tragen= de Stiftschraube eingeschraubt ist.  EPO <DP n="3">  
+ Durch diese Massnahme nach der Erfindung wird erreicht, dass die abgeflachte Spannadel an der mit dem Schleifmittel verse= henen Seite der umgebogenen Ränder des Schleifblattes anliegt und beim Verdehen der Spannadel um 90 Grad die zwischen den Kerben der Spannadel verbliebenen Teile ähnlich einem Gewinde= schneideisen tiefe Kratzspuren auf der mit Schleifmittel ver= sehenen Seite des Schleifblattes hinterlassen, die das Schleifblatt ähnlich einem Gewinde auch bei axialer Bean= spruchung des Spanndornes fest in der gewünschten Lage halten. 
+ Da ins besondere beim Feinschleifen einer kleinen Bohrung die nötige Verformung des Schleifblattes mühsam ist, emp= fiehlt es sich, gemäss der Erfindung eine Hilfsvorrichtung zu schaffen, die dadurch gekennzeichnet ist, dass ein Prisma eine Längsbohrung mit einem entsprechenden Durchmesser zur Aufnahme von Schleifblatt und Spanndorn aufweist und an einer Längskante einen spitzwinklig angeordneten Schlitz besitzt, dessen Tiefe der Einspannlänge der zu faltenden Schleifblat= tenden entspricht, 
+ Die Zeichnung gibt einen zyinderischen Spanndorn nach der Er= findung und das Hilfswerkzeug dafür beispielweise wieder, und zwar zeigt
+ 
+ Fig, 1 den zylinderischen Spanndorn nach der Erfindung von unten gesehen. 
+ Fig. 2 denselben Spanndorn im Längsschnitt und mit einer Ver= längerung versehen, wobei das freie Ende des Klemmdor= nes abgebrochen angenommen ist. 
+ Fig. 3 zeigt den Klemmdorn von der Schmalseite her gesehen und teilweise im Längsschnitt. 
+ Fig. 4 zeigt den Klemmdorn von unten gesehen und 
+ Fig. 5 denselben Klemmdorn von der Breitseite her gesehen in Seitenansicht. 
+ Fig. 6 zeigt die Hilfsvorrichtung dazu, auf der rechten Hälf= te im Längsschnitt und auf der linken Hälfte von der Seite gesehen, 
+ Fig. 7 zeigt die Hilfsvorrichtung von oben gesehen und mit dem Klemmdorn in Gebrauchsstellung.  EPO <DP n="4">  
+ Fig. 8 die Hilfsvorrichtung von oben gesehen, aber mit dem Klemmdorn in der Stellung zum Einfügen eines Schleif= blattes, wobei zugleich ein Schleifblatt am Ende sei= ner Verformung dargestellt ist. 
+ Fig. 9 zeigt das vorgeformte Schleifblatt fertig zum Ein= führen in den Spanndorn nach der Erfindung. 
+ 
+ Der Spanndorn nach der Erfindung besteht aus einem zylin= derischen Körper A mit abgestuften Teil Ab sowie mit klei= ner Bohrung Ac und Längsschlitz Ad an dem einem Ende und ei= ner erweiterten Bohrung Aa mit Schraubengewinde an dem ande= ren Ende. Das Schraubengewinde der Bohrung Aa dient zur auf= nahme einer Stiftschraube Bc mit Innensechskant- oder Vier= Bd, die mit einem Klemmdorn B fest verbunden ist, In das Schraubengewinde der Bohrung Aa passt auch der Gewindezapfen Va einer Verlängerung V,die eine mittlere Längsbohrung Vb aufweist. 
+ Der Klemmdorn B ist an seinem vorderem Ende stark abgeflacht und weist ausser einem schneidartig ausgebildeten vorderen Ende Bd an den Schmalseiten Kerben Ba auf, zwischen denen Zacken Be stehen bleiben. 
+ Die Hilfsvorrichtung dazu besteht aus einem Prisma D mit ei= nerLängsbohrung Da für die Aufnahme des Spanndornes A ein= schliesslich Schleifblatt E und mit einem spitzwinklig zur Längskante angeordeten Schlitz De, dessen Tiefe der Einspann= länge der zu faltenden Schleifblattenden Ea entspricht. Bei dieser Faltung liegt die Kornseite Eb des Schleifblattes E aussen, um zu erreichen, dass nach der Einführung des Schleifblattes E in der Stellung des Klemmdornes B gemäss Fig. 8 und dessen Verdrehen in die Stellurg gemäss Fig. 7 die zwischen dem Klemmdorn Ba liegenden Zacken Be sich in die Kornschicht auf der Seite Eb des Schleifblattes ähnlich ei= nem Gewindeschneideisen tief eingraben und so dem Schleif= blatt E die gewünschte unbedingt feste Lage auch beim Schleifen in axialer Richtung geben.  EPO <DP n="5">  
+ Legende: 
+ 
+ 
+ A Spanndorn 
+ 
+ Aa erweiterte Bohrung  
+ Ab abgestufter Teil von A  
+ Ac kleinere Bohrung  
+ Ad Schlitz 
+ 
+ B Klemmdorn 
+ 
+ Ba Kerbe  
+ Bb Dornende  
+ Bc Stiftschraube  
+ Bd Innenvierkant bzw.-Sechskant  
+ Be Zacke 
+ 
+ D Prisma 
+ 
+ Da Bohrung  
+ De Schlitz 
+ 
+ E Schleifblatt 
+ 
+ Ea Schleifblattende  
+ Eb Kornseite des Schleifblattes 
+ 
+ V Verlängerung 
+ 
+ Va Gewindezapfen 
+ Vb Längsbohrung 
+ 
+ 
+  EPO <DP n="6">  
+ 
+ 
+ 1. Zylinderischer Spanndorn für ein Schleif- oder Polierblatt vorgegebener Grösse, bestehend aus einem mit einem Einspannschaft versehenen Hohlzylinder mit Längsschlitz und einer Bohrung, in der ein Klemmdorn drehbar angeordnet ist, da= durch gekennzeichnet, dass die Bohrung (Ac) durchgehend und mittig angeordnet ist und ausserhalb des Bereichs des Schlitzes(Ad) in eine Bohrung (Aa) grösseren Durchmessers übergeht, in welche eine den Klemm-dorn (B) in Form einer mit Kerben (Ba) versehenen abgeflachten Spannadel mittig tragende Stiftschraube Stiftschraube (Bc) eingeschraubt ist. 
+ 
+ 2. Hilfsvorrichtung zum Befestigen eines Schleif- oder Polier= blattes vorgegebener Grösse an dem Spanndorn nach Anspruch 1, dadurch gekennzeichnet, dass ein Prisma eine Längsboh= rung (Da) mit einem entsprechenden Durchmesser zur Aufnah= me von Schleifblatt (E) und Spanndorn (A) aufweist und an einer Längskante einen spitzwinklig angeordneten Schlitz (De) besitzt, dessen Tiefe der Einspann-länge der zu fal= tenden Schleifblattenden (Ea) entspricht. 
+  EPO <DP n="7">  
+ 
+ 
+  EPO <DP n="8">  
+ 

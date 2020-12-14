@@ -1,0 +1,65 @@
+ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.1//EN" "ep-patent-document-v1-1.dtd" 
+ ..BE..DE....FRGB.................................. B 0006096 EUROPEAN PATENT APPLICATION A1 19800109 EP 78101441.0 19781122 en en en 854961 19771125 US 19800109 198001 19800109 198001 3  3C 08L  27/24   A de Zusammensetzung und Verfahren zur Verbesserung der Schlagfestigkeit eines nachchlorierten Vinylchloridharzes und modifiziertes nachchloriertes Vinylchloridharz en Composition and method for enhancing the impact resistance of chlorinated poly(vinyl chloride) and impact-modified chlorinated poly(vinyl chloride) fr Composition et procédé pour accroître la résistance aux chocs d'une résine de polychlorure de vinyle postchloré et polychlorure de vinyle postchloré ainsi modifié ROHM AND HAAS COMPANY 00211420 Sp-S/R 14-225EU Independence Mall West Philadelphia
+Pennsylvania 19105 US Lutz, John Thomas 4401 Yates Road
+Glen Ashton Farms Cornwell Heights, Pa. US Deufel, Paul, Dr. et al 00002961 Müller-Boré & Partner
+Patentanwälte
+Grafinger Strasse 2 81671 München DE BE DE FR GB  EPO <DP n="1">  
+ 
+ In the modification of the properties of thermoplastic polymers, a diene-based impact-modifying polymer and an antioxidant is used to retain the impact resistance, thermal and chemical stability of chlorinated poly(vinylchloride) over a suitable period of time. 
+  EPO <DP n="2">  
+ 
+ This invention relates to the impact modification of thermoplastic polymers. 
+ The invention is concerned with compositions and methods for enhancing the impact resistance properties of chlorinated poly(vinyl chloride) (CPVC) and with impact-modified CPVC. 
+ Chlorinated poly(vinyl chloride) without impact modification is too brittle for many uses. A number of materials have been used to modify the impact resistance of CPVC such as chlorinated polyethylene and acrylic modifiers, i.e. rubbery acrylate elastomers. Acrylic z modifiers can provide better impact resistance than chlorinated polyethylene but they perform poorly in chemical resistance tests. Diene-based modifiers have been thought to be unsuitable for CPVC because a major use of CPVC is in the manufacture of piping and CPVC containing such modifiers loses its impact strength on long term exposure to hot water, such as in hot water pipes. 
+ We have now found how to confer upon CPVC compositions improved impact strength which will not substantially degrade on long term hot water exposure or contact with chemicals. 
+ According to the invention there is provided a composition for enhancing the impact resistance properties of chlorinated pσly(vinyl chloride) characterized in that the   EPO <DP n="3">  composition comprises an impact modifying polymer containing units of at least one diene and from 0.5 to 20% by weight of the impact_modifying polymer of at least one antioxidant. 
+ Diene based impact modifiers are well known, any of them can be used in this invention. Although such modifiers are often prepared by processes using antioxidants to stabilize the polymer during isolation, insufficient antioxidant remains after polymerization and isolation to achieve the objectives-of this invention. 
+ Preferably the diene-based modifier contains units of 1,3-butadiene, isoprene or chloroprene. The modifier may be a simple copolymer or, more preferably, a multistage heteropolymer. In such multistage polymers the first stage preferably comprises from 60 to 100% by weight of dieneunits, preferably butadiene units. Other types of modifiers which are suitable include those formed from acrylonitrile, butadiene, styrene and optionally methyl methacrylate. Preferably the impact modifying polymer is a multistage heteropolymer having a first elastomeric stage containing units of butadiene and styrene, one or more optional intermediate stages and a final stage containing units of methyl methacrylate. 
+ The diene based modifier may contain from 20 to 99% by weight of diene units. The higher the level of diene, the more effective is the impact modifier, but there are upper limits to the amount of diene which can in practice be incorporated into a given polymer. 
+ The amount of diene-based impact modifier typically used in this invention is from 1 to 20 percent by weight of the chlorinated poly(vinyl chloride). Amounts below about 1 percent do not give sufficient impact improvement to made the addition worthwhile, and amounts above about 20 percent do not incrementally improve the impact strength enough to compensate for reduction in heat deformation resistance. Preferably amounts between about 5 and 15 percent are used and result in very significant, cost- effective improvements in the impact strength of CPVC.  EPO <DP n="4">  
+ The antioxidant preferably comprises from 0.5 to 5% by weight of the impact modifyingpolymer. Preferably the antioxidant comprises at least one hindered phenol, substituted amine or hydrocarbyl phosphite. Examples of suitable antioxidants are listed in Table B herein. Hindered phenols are the most preferred group of antioxidants, in particular, 1,3,5-trimethyl-2,4,6-tris[3,5-di-tert-butyl-4-hydroxyphenyl]benzene, bisphenol A, octadecyl-3-[3',5'-di-tert.-butyl-4-hydroxyphenyl]propionate and 2,6-di-tert.-butyl-p-cresol. The antioxidant is usually added after polymerization and isolation of the impact modifier polymer. 
+ The diene-based impact modifier/antioxidant composition of this invention is effective in preparing high impact strength, thermally and chemically stable CPVC compositions. 
+ Thus the invention also provides a method of enhancing the impact resistance properties of chlorinated poly (vinyl chloride) which comprises blending from 5 to 25 parts by weight of the diene-based modifier/antioxidant composition described herein with 100 parts by weight of chlorinated poly(vinyl chloride). 
+ The impact modified CPVC is also an aspect of this invention. Such compositions preferably comprise from 5 to 25 parts by weight of the diene-based modifier/antioxidant compositions described herein per 100 parts by weight of CPVC. 
+ The compositions of the invention may contain other additives which are conventionally added to CPVC formulations, such as stabilizers, lubricants, opacifying agents, processing aids, colorants, pigments and dyes. 
+ Some preferred embodiments of the invention will now be more particularly described in and by the following Examples, in which all parts and percentages are by weight.  EPO <DP n="5">  
+ EXAMPLE 1 
+ To each of the diene-based impact modifiers listed in Table A is added 1 percent based on weight of modifier of one of the antioxidants listed in Table B. The antioxidants are blended with the previously prepared and isolated modifier polymers, and the blends are all found useful for modifying CPVC. 
+ 
+ 
+ 
+ In the above Table, monomers copolymerized in a single stage are separated by a single slash, and each stage of polymerization is separated by a double slash with the first stage appearing first. The following abbreviations are used: butadiene = BD, styrene = St, methyl methacrylate = MMA, ethyl acrylate = EA, acrylonitrile = AN, isoprene = IP, and chloroprene = CP.  EPO <DP n="6">  
+ 
+ 
+ EXAMPLE 2 
+ Ten parts of the impact modifier (1) containing 1 percent of antioxidant (1) are blended with 100 parts of postchlorinated (to a total chlorine content of about 65%) polyvinyl chloride (CPVC) wherein the polyvinyl chloride, before post chlorination has an intrinsic viscosity of 1.08, a K value (DIN 53-726) of 67, and an Apparent Bulk Density (gms./cm. 3 ) of 0.69. 
+ Also added to the blend are 0.5 parts calcium-zinc fatty acid stabilizer, 2.5 parts methyl tin mercaptide stabilizer, 0.25 parts oxidized polyethylene lubricant, 1 part TiO 2  pigment, and 2 parts of lubricating processing aid of the formula BA/St/MMA//MMA/BA/St:23/35/21//38/1/1. 
+ The blend is milled for 5 minutes at 191°C and molded into 6.5" x 11.5" x 0.5" x 0.125" sheet for testing. The   EPO <DP n="7">  Izod impact strength is very substantially improved, and is substantially retained over a 63 day hot water immersion test at 82°C. 
+ EXAMPLE 3 
+ Example 2 is repeated, except using modifier (2) and antioxidant (10) with similar results. 
+ EXAMPLE 4 
+ Example 2 is repeated except using modifier (3) and antioxidant (12) with similar results. 
+ EXAMPLE 5 
+ Example 2 is repeated except using modifier (7) and antioxidant (15) with similar results. 
+  EPO <DP n="8">  
+ 
+ 
+ 1. A composition for enhancing the impact resistance propertie.s of chlorinated poly(vinyl chloride) characterized in that the composition comprises an impact modifying polymer containing units of at least one diene and from 0.5 to -20% by weight of the impact modifying polymer of at least one antioxidant. 
+ 
+ 2. A composition as claimed in claim 1 wherein the impact modifying polymer is a multistage, sequentially produced polymer having a first stage containing units of butadiene and styrene, one or more optional intermediate stages and a final stage containing units of methyl methacrylate. 
+ 
+ 3. A composition as claimed in claim 1 wherein the impact modifying polymer is a multistage, sequentially - produced polymer having a first stage containing from 60 to 100% by weight of units of butadiene. 
+ 
+ 4. A composition as claimed in any of claims 1 to 3 wherein the antioxidant comprises from 0.5 to 5% by weight of the impact modifying polymer. 
+ 
+ 5. A composition as claimed in any of claims 1 to 4 wherein the antioxidant comprises at least one hindered phenol, substituted amine or hydrocarbyl phosphite. 
+ 
+ 6. A composition as claimed in claim 5 wherein the antioxidant comprises at least one of 1,3,5-trimethyl-2,4,6-tris[3,5-di-t-butyl-4-hydroxyphenyl]benzene; bisphenol A; octadecyl-3-[3',5'-di-t-butyl-4-hydroxyphenyl]propionate and 2,6-di-t-butyl-p-cresol. 
+ 
+ 7. A composition as claimed in any preceding claim wherein the antioxidant is added to the impact modifying polymer after polymerization and isolation of said polymer.  EPO <DP n="9">  
+ 
+ 8. A method of enhancing the impact resistance properties of chlorinated poly(vinyl chloride) characterized in that from ; to 25 parts by weight of a composition according to any of claims 1 to 7 is blended with 100 parts by weight of chlorinated poly(vinyl chloride). 
+ 
+ 9. A chlorinated poly(vinyl chloride) composition characterized in that the composition comprises from 5 to 25 parts by weight of a composition according to any of claims 1 to 7 per 100 parts by weight of chlorinated poly(vinyl chloride). 
+  EPO <DP n="10">  
+ 

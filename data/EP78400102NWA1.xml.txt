@@ -1,0 +1,58 @@
+ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.1//EN" "ep-patent-document-v1-1.dtd" 
+ ..BECHDE....FRGB......LUNLSE...................... B 0006413 DEMANDE DE BREVET EUROPEEN A1 19800109 EP 78400102.6 19780915 fr fr fr 7820450 19780705 FR 19800109 198001 19800109 198001 3  3F 03B  17/00   A de Selbständig mit mechanischer Energie funktionierender Hydromotor en Autonomous hydromotor of mechanical energy fr Hydromoteur autonome d'énergie mécanique Commins, Eric Jean 00207500 Chemin Neuf F-97417 la Montagne
+Ile de la Réunion FR Commins, Eric Jean Chemin Neuf F-97417 la Montagne
+Ile de la Réunion FR BE CH DE FR GB LU NL SE  EPO <DP n="1">  
+ 
+ 
+ 
+ Hydromoteur autonome d'énergie mécanique utilisant la force gravité d'élément liquide dense et fluide, contenu dans cette machine. 
+ b) monté sur un chassis fixe, il comprend essentiellement les organes mécaniques suivants, à savoir:
+ 
+ 1) une roue (5) équipée d'augets (6), montée vertical- ment sur un axe horizontal, entraînant au moyen d'un pignon (1) et d'une chaîne, 
+ 2) un second axe au sommet du dispositif, lequel actionne à son tour, avec démultiplication, 
+ 3) une chaîne sans fin, équipée de godets (4), qui élèvent le liquide au fur et à mesure, du récipient inférieur (7) au sommet de la roue. Lequel actionne alors, par simple force de gravité la giration de la roue, et retombe ensuite dans le récipient d'alimentation, puis le cycle recommence. 
+ 
+ 
+  EPO <DP n="2">  
+ 
+ La présente invention a pour objet et se réfère aux moteurs fournissant une énergie mécanique utilisable, continue et gratuite. 
+ Le principe et la particularité revendiqués de la présente invention est la conception révolutionnaire d'un moteur rotatif d'énergie hydraulique, exploitant la force dynamique et l'énergie cinétique de liquide dense et fluide contenu dans cette machine. 
+ PRINCIPE ET FONCTIONNEMENT 
+ En la présente invention, la production d'énergie est dûe à l'action d'élément liquide agissant dans un mouvement descendant aux extrémités extérieures des rayons d'une roue motrice, provoquant un déséquilibre de poids, entraînant la giration de cette roue... de façon à produire une force supérieure, à l'énergie nécessaire pour remonter ce liquide, à son point de départ - par un élévateur prévu à cet effet. 
+ DESCRIPTION ET PRINCIPE DE FONCTIONNEMENT 
+ L'appareil dont il s'agit comprend principalement les éléments suivants, à savoir :
+ 
+ a) un chassis fixe sur lequel est montée une roue qui est disposée verticalement sur un arbre monté horizontalement sur palier (de coussinets ou roulements à billes), l'ensemble parfaitement équilibré dynamiquement, tournant sur lui-même. 
+ b) sur la partie extérieure de cette roue, et sur toute la circonférence de sa jante sont disposés «à intervalles réguliers et compacts» des augets. 
+ c) sur l'arbre de cette roue «avec un bon espacement de celle-ci» est monté un pignon de petit diamètre, qui servira à actionner «par l'intermédiaire d'une chaîne sans fin» un arbre secondaire situé au sommet du dispositif. 
+ d) cet arbre secondaire ainsi entraîné, disposé parallèlement à l'arbre de roue, monté également sur palier et dominant l'ensemble du dispositif, servira à son tour à transmettre le mouvement de giration «communiqué par l'arbre de roue» à une chaîne sans fin... équipée d'une série de godets, montée verticalement sur un pignon d'entraînement en surplomb de la roue. 
+ e) dominant directement la roue, un entonnoir disposé à l'intérieur du pignon d'entraînement des godets de la chaîne sans fin servira «à recueillir le liquide des godets et la déverser directement» au-dessus de la roue «à l'intérieur de ses augets».  EPO <DP n="3">  
+ f) et enfin, dans la partie inférieure du dispositif, sera placé un récipient contenant un liquide «à bonne densité» où viendront plonger et se remplir à chaque passage, les godets de la chaîne sans fin. 
+ 
+ le réservoir servira ainsi simultanément :
+ 
+ 1 .. à alimenter les godets de la chaîne sans fin. 
+ 2 .. puis, recueillir le liquide rejeté à leur point bas, par les augets extérieurs. 
+ 
+ Il en résulte le processus logique ci-après décrit, à savoir :
+ 
+ les poids du liquide dans les augets «points d'application» excentrés de la roue, la déséquilibre et lui imprime un mouvement giratoire vers le bas, avec une intensité proportionnelle à sa masse, cette roue actionne alors «avec démultiplication» par l'intermédiaire du pignon central de son arbre, l'arbre secondaire situé au sommet du dispositif, qui transmet à son tour le mouvement circulaire reçu, et anime ainsi les godets de la chaîne sans fin... qui enlèvent au fur et à mesure le liquide depuis le récipient inférieur, et le transvase par l'inclinaison automatique des godets «lors de leur passage sur. la partie supérieure du pignon surplombant la roue» à l'intérieur des augets - au moyen de l'entonnoir. 
+ 
+ Cet équilibre instable et renouvelé de poids, anime ainsi la giration de la roue «jusqu'à l'épuisement de la force dynamique et de l'énergie cinétique du liquide» au delà du point bas de chaque auget de la roue, d'où il retombe enfin dans le récipient inférieur... et le cycle recommence... 
+  EPO <DP n="4">  
+ 
+ 
+ 1 - Dispositif permettant de fournir de l'énergie mécanique utilisable continue et gratuite. 
+ 
+ II - Dispositif caractérisé par le fait que le continu déséquilibre des liquides entraîne la giration de la roue, par un simple moyen physique. 
+ 
+ III -Dispositif selon les revendications 1 et II, caractérisé par le fait qu'il comporte un moyen de production et de récupération d'énergie mécanique, par l'excentration cyclique des liquides à l'intérieur des augets de la roue.  
+Cette action cumulée et conjuguée des liquides à l'intérieur des godets et des augets leur permettent une ascension, puis une excentration importante au moyen de la roue, développe une force motrice utile et exploitable.  
+L'appareil dont ii s'agit «d'une grande simplicité de réalisation et d'entretien» peut être utilisé dans tous les cas, où une force motrice utile est envisagée, et dans les Secteurs les plus divers. 
+  EPO <DP n="5">  
+ 
+  EPO <DP n="6">  
+  EPO <DP n="7">  
+ 
+  EPO <DP n="8">  
+ 

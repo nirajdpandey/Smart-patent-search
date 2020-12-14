@@ -1,0 +1,466 @@
+ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.1//EN" "ep-patent-document-v1-1.dtd" 
+ ..BECHDE....FRGB......LUNLSE...................... B 0006407 EUROPEAN PATENT APPLICATION A1 19800109 EP 78100683.8 19780816 en en en 71236/78 19780613 JP 19800109 198001 19800109 198001 3  3C 07D 233/78   A  3C 07D 409/04   B  3A 61K  31/415  B de Hydantoinderivate, ihre Herstellung und sie enthaltende pharmazeutische Zusammensetzungen en Hydantoin derivatives, their preparation and pharmaceutical compositions containing them fr Dérivés de l'hydantoine, leur préparation et des compositions pharmaceutiques les contenant NIPPON ZOKI PHARMACEUTICAL CO. LTD. 00205630 MslN1301EUSchön 10, 2-chome Hirano-machi
+Higashi-ku Osaka-shi
+Osaka-fu JP Konishi, Jin-emon 21-13, Higashi-machi 3-chome Kichijoji, Musashino-shi
+Tokyo JP Schön, Alfred, Dr. et al 00010571 Patentanwälte Müller-Boré, Deufel, Schön, Hertel
+Lewald, Otto
+Isartorplatz 6
+Postfach 26 02 47 D-80059 München DE BE CH DE FR GB LU NL SE  EPO <DP n="1">  
+ 
+ Hydantoin derivatives, of formula:
+ a process for the preparation thereof and pharmaceutical compositions containing the derivatives as active ingredients, particularly remedies for treatment of dieseases caused by stress. 
+  EPO <DP n="2">  
+ 
+ The present invention relates to new hydantoin derivatives, a process for the preparation thereof and pharmaceutical compositions containing the derivatives as active ingredients, particularly remedies for treatment diseases caused by stress. 
+ In the current community of advanced civilization, stress due to human, internal or external causes are increasing. We suffer from complicated various diseases caused by the stress. As the causes of stress, there may be mentioned physical stimuli such as cold, noises and radiation, chemical stimuli such as deficiency in oxygen and chemicals (for example, ACTH and cortisone), biological stimuli such as bacteria and viruses and mental stimuli such as fear, anxiety and fretfulness. Many kinds of diseases are caused   EPO <DP n="3">  by the stress mainly in autonomic nervous system. 
+ It is well known that if those kinds of stress are not relieved properly by the protective controlling actions of the living body but they become chronic or they are fixed, there arise secondary adaptation diseases such as hypertension, nephrosclerosis, rheumatism, gastric ulcer and duodenal ulcer. 
+ Selye reported that as adaptation syndromes, the following phenomena arise:
+ 
+ 1) Hypertrophy of adrenal cortex, 
+ 2) Atrophy of thymus and lymphatic tissue, and 
+ 3) bleeding from or ulcer of the inside wall of the stomach and intestines. 
+ 
+ Various remedies for relieving the stress which causes the above mentioned various diseases have been developed. However, those remedies have demerits. For example, meprobamate used as an anti-anxiety agent is accompanied with addiction to drugs to cause convulsion and disturbance of consciousness as abstinence symptoms. Diazepam and chlordiazepoxide have the same demerits as above. Therefore, parting from those drugs is one of medical problems. 
+ An object of the present invention is to provide a remedy useful for the treatment of diseases caused by stress and free from side-effects. 
+ The compounds relating to the present invention are new hydantoin derivatives of general formula (I);  EPO <DP n="4">  
+ 
+ wherein
+ 
+ wherein at least one of R 1 , R 2  and R 3  represents a group other than hydrogen and R 1 , R 2  arid  R3  which may be the same or different represent hydrogen, a halogen, carboxyl group, sulfonic acid group, an alkyl group, a hydroxyalkyl group, a haloalkyl group or a group of the general formula OR 7  in which R 7  represents hydrogen, a saturated or unsaturated straight chain or branched aliphatic hydrocarbon group, an aralkyl group or an alkali metal atom, and  
+X represents an alkyl group, a heterocyclic group or a group of general formula (II);
+ 
+ in which R 4 , R 5  and R 6 which may be the same or different represent hydrogen, a halogen, carboxyl group, sulfonic acid group, an alkyl group, a hydroxyalkyl group, a haloalkyl group or a group of formula OR 7  (R 7  having the   EPO <DP n="5">  same meaning as above). 
+ 
+ Among hydantoin compounds having one or two substituents at 5-position, 5-ethyl-5-phenyl-hydantoin, 5,5-diphenyl- hydantoin (DPH), etc. have been known as anticenvulsants, Particularly, those compounds are used actually as anti- epilepsy drugs. 
+ After intensive investigations on various hydantoin compounds having substituents at 5-position, the inventors have found that some 5,5-disubstituted hydantoin compounds having at least one substituted phenyl group at 5-position have pharmacological effects remarkably effective against diseases caused by stress, particularly sedetive, analgesic, antiulcerogenic, prolongating of sleeping a time and anti- hypertensive effects. It has also been round that the compounds of the present invention act in cedative on the central nervous system in contrast with DPH which stimu- lately affect the central nervous system as anticonvulsants and that the former compounds have pharmacological effects utterly different from those of DPH as will be understood by pharmacological tests given below. 
+ Statement of Object. 
+ An object of the present invention is to provide new hydantoin derivatives useful as a remedy for diseases caused by stress. Another object cf. the present invention is to provide a process for preparing said derivatives from ketones as starting material. Still another object of the invention is to provide medical compositions comprising said derivatives and at least one pharmaceutically acceptable carrier or diluent.  EPO <DP n="6">  
+ Brief Description of the Drawings. 
+ 
+ 
+ Fig. 1 is a graph showing an effect of a compound of the present invention on increase in body weight of normal mice. 
+ Fig. 2 is a graph showing an effect of a compound of the present invention on decrease in body weight of SART stress mice. 
+ 
+ Summary of the Invention. 
+ The new hydantoin derivatives according to the present invention are characterized by their structure having at least one substituted phenyl group at 5-position of hydantoin. Structures of the hydantoin derivatives are shown by. general formula (I). Examples of groups of the compounds of the present invention and groups of the compounds preferred from pharmaceutical viewpoint will be shown below. 
+ In general formula (I), at least one of R 1 , R 2  and R 3  represents a group other than hydrogen and R1, R 2  and R 3  which may be the same or different each represent hydrogen or another substituent. The substituent may be selected from the group consisting of halogens such as fluorine, chlorine, bromine and iodine; carboxyl groups which may be in the form of free carboxyl group, carboxylic acid salts or carboxylic' acid esters; sulfonic acid groups which may be in the form of free sulfonic acid group, sulfonic acid salts or sulfonic acid esters; straight chain or branched alkyl groups, particularly straight chain or branched alkyl groups of 1-8 carbon atoms, preferably 1-5 carbon atoms, for example,methyl, ethyl, propyl, isopropyl, butyl, isobutyl, s.-butyl, t.-butyl, pentyl, isopentyl   EPO <DP n="7">  and t.-pentyl groups; monohydroxy-, dihydroxy-, tri- hydroxy-, tetrahydroxy- and/or other polyhydroxyalkyl groups such as hydroxyalkyl groups of preferably 1-4 carbon atoms, for example, hydroxymethyl, hydroxyethyl, dihydroxyethyl, hydroxypropyl, dihydroxypropyl, trihydroxypropyl, hydroxybutyl, dihydroxybutyl, trihydroxybutyl and tetra- hydroxybutyl groups; haloalkyl groups having one or more halogen'atoms such as fluorine, chlorine, bromine and iodine, preferably those of 1-4 carbon atoms such as chloromethyl, bromomethyl, iodomethyl, trifluoromethyl, chloroethyl, bromoethyl, iodoethyl, chloropropyl, bromopropyl, iodopropyl, chlorobutyl, bromobutyl and iodobutyl groups; and groups of formula OR 7 . 
+ Groups of formula OR 7  may be selected from the group consisting of hydroxyl group in which hydrogen atom may be substituted with an alkali metal atom such as sodium or potassium, groups in which aliphatic hydrocarbon moiety represents saturated or unsaturated straight chain or branched alkyl, alkenyl or alkynyl group, for example, alkoxy groups of 1-8 carbon atoms, preferably 1-4 carbon atoms such as methoxy, ethoxy, propoxy, isopropoxy, butoxy, isobutoxy, s-butoxy and t.-butoxy groups, alkenyloxy groups of 3-8 carbon atoms, preferably 3-5 carbon atoms such as allyloxy, 2-butene-1-oxy, 3-butene-1-oxy, 3-butene-2-oxy, 4-pentene-1-oxy; 4-pentene-2-oxy and 3-pentene-2-oxy groups and alkynyloxy groups of 3-8 carbon atoms, preferably 3-5 carbon atoms such as propargyloxy, 2-butyne-1-oxy, 3-butyne-2-oxy,' 2-pentyne-1-oxy and 2-methyl-3-butyne-2-oxy groups; and substituted or unsubstituted aralkyloxy groups, preferably such as benzyloxy, phenethyloxy and naphthylmethoxy groups.  EPO <DP n="8">  
+ Another substituent X at 5-position may be selected from alkyl groups, particularly straight chain or branched alkyl groups of 1-8 carbon atoms, preferably 1-5 carbon atoms such as methyl, ethyl, propyl, isopropyl, butyl, isobutyl, s.-butyl, t.-butyl, pentyl, isopentyl andt.-pentyl groups. 
+ Substituent X may be a heterocyclic group having one or more hetero-atoms such as nitrogen, sulfur and oxygen. It may be selected from the group consisting of furyl, thienyl, pyrrolyl, pyrrolidinyl, pyrrolidino, pyridil, piperidyl, piperidino, piperazino and morpholino groups. Particularly, furyl or thienyl group is preferred. 
+ Further, substituent X may be a group of formula (II);
+ 'wherein R 4 , R 5  and R 6  which may be the same or different each represent hydrogen or another substituent. The substituent may be selected from the substituents shown above as R 1 , R 2  and R3. 
+ In general formula (I) ;
+ 
+ When X represents an alkyl group, one of R 1 , R 2  and R 3  may represent preferably a group other than hydrogen, particularly a group of formula OR 7 , 
+ When X represents a heterocyclic group, particularly furyl or thienyl group, one of R 1 , R 2  and R 3  may re  EPO <DP n="9">  present preferably a group other than hydrogen, particularly a group of formula OR 7 , 
+ When X-represents a group of formula (II), in case all of R 4 , R 5  and R 6  represent hydrogen, one of R 1 , R 2  and R 3  may represent a group other than hydrogen, preferably a halogen or a group of formula OR 7 , one of R 4 , R 5  and R 6  and one of R 1 , R 2  and R 3  which may be the same or different may represent a group other than hydrogen, preferably a group of formula OR 7 , in case one of R 4 , R 5  and R 6  represents a group of formula OR 7 , one of R 1 , R 2  and R 3  may represent a group of formula OR 7  and the remaining one of R 1 , R 2  and R 3  may represent a halogen, an alkyl group, a hydroxyalkyl group or a group of formula OR 7 , 
+ in case one of R 4 , R 5  and R 6  represents a group of formula OR 7 , one, of R 1 , R 2  and R 3  may represent a group of formula OR 7  and the remaining two of R 1 , R 2 , and R 3  which may be the same or different may represent a halogen, an alkyl group, a hydroxyalkyl group or a group of formula OR 7 , 
+ two of R 4 , R 5  and R 6  and two of R 1 , R 2  and R 3  which may be the same or different may represent a halogen, carboxyl- group, an alkyl group, a hydroxyalkyl group, a haloalkyl group or a group of formula OR 7 , 
+ or R 1 , R 2 , R 3 , R 4 , R 5  and R 6  which may be the same or different may represent a halogen, an alkyl group or 
+ a group of formula OR 7 . 
+ 
+ The new hydantoin derivatives included by the present invention are, for example, the following compounds:
+ 
+ 5-Alkyl-5-halogenophenylhydantoins, 
+ 5-Alkyl-5-carboxyphenylhydantoins, 
+ 5-Alkyl-5-sulfophenylhydantoins, 
+ 5-Alkyl-5-alkylphenylhydantoins,  EPO <DP n="10">  
+ 5-Alkyl-5-hydroxyalkylphenylhydantoins, 
+ 5-Alkyl-5- haloalkylphenylhydantoins, 
+ 5-Alkyl-5-hydroxyphenylhydantoins, 
+ 5-Alkyl-5-alkoxyphenylhydantoins, 
+ 5-Alkyl-5-alkenyloxyphenylhydantoins, 
+ 5-Alkyl-5-alkynyloxyphenylhydantoins, 
+ 5-Alkyl-5-aralkyloxyphenylhydantoins, 
+ 5-Hetero cyclyl-5-halogenophenylhydantoins, 
+ 5-Heterocyclyl-5-carboxyphenylhydantoins, 
+ 5-Heterocyclyl-5-sulfophenylhydantoins, 
+ 5-Heterocyclyl-5-alkylphenylhydantoins, 
+ 5-Heterocyclyl-5-hydroxyalkylphenylhydantoins, 
+ 5-Heterocyclyl-5-haloalkylphenylhydantoins, 
+ 5-Heterocyclyl-5-hydroxyphenylhydantoins, 
+ 5-Heterocvclyl-5-alkoxyphenylhydantoins, 
+ 5-Heterocyclyl-5-alkenyloxyphenylhydantoins, 
+ 5-Heterocyclyl-5-alkynyloxyphenylhydantoins, 
+ 5-Heterocyclyl-5-aralkyloxyphenylhydantoins, 
+ 5-Furyl-5-halogenophenylhydantoins, 
+ 5-Furyl-5-carboxyphenylhydantoins, 
+ 5-Furyl-5-sulfophenylhydantoins, 
+ 5-Furyl-5-alkylphenylhydantoins, 
+ 5-Furyl-5-hydroxyalkylphenylhydantoins, 
+ 5-Furyl-5-haloalkylphenylhydantoins, 
+ 5-Furyl-5-hydroxyphenylhydantoins, 
+ 5-Furyl-5-alkoxyphenylhydantoins, 
+ 5-Furyl-5-alkenyloxyphenylhydantoins, 
+ 5-Furyl-5-alkynyloxyphenylhydantoins, 
+ 5-Furyl-5-aralkyloxyphenylhydantoins, 
+ 5-Thienyl-5-halogenophenylhydantoins, 
+ 5-Thienyl-5-carboxyphenylhydantoins, 
+ 5-Thienyl-5-sulfophenylhydantoins, 
+ 5-Thienyl-5-alkylphenylhydantoins, 
+ 5-Thienyl-5-hydroxyalkylphenylhydantoins,  EPO <DP n="11">  
+ 5-Thienyl-5-haloalkylphenylhydantoins, 
+ 5-Thienyl-5-hydroxyphenylhydantoins, 
+ 5-Thienyl-5-alkoxyphenylhydantoins, 
+ 5-Thienyl-5-alkenyloxyphenylhydantoins, 
+ 5-Thienyl-5-alkynyloxyphenylhydantoins, 
+ 5-Thienyl-5-aralkyloxyphenylhydantoins, 
+ 5-Halogenophenyl-5-phenylhydantoins, 
+ 5-Carboxyphenyl-5-phenylhydantoins, 
+ 5-Sulfophenyl-5-phenylhydantoins, 
+ 5-Alkylphenyl-5-phenylhydantoins, 
+ 5-Hydroxyalkylphenyl-5-phenylhydantoins, 
+ 5-Haloalkylphenyl-5-phenylhydantoins, 
+ 5-Hydroxyphenyl-5-phenylhydantoins, 
+ 5-Alkoxyphenyl-5-phenylhydantoins, 
+ 5-Alkenyloxyphenyl-5-phenylhydantoins, 
+ 5-Alkynyloxyphenyl-5-phenylhydantoins, 
+ 5-Aralkyloxyphenyl-5-phenylhydantoins, 
+ 5,5-Bis(halogenophenyl)hydantoins, 
+ 5,5-Bis(carboxyphenyl)hydantoins, 
+ 5,5-Bis(sulfophenyl)hydantoins, 
+ 5,5-Bis(alkylphenyl)hydantoins, 
+ 5,5-Bis (hydroxyalkylphenyl)hydantoins, 
+ 5,5-Bis(haloalkylphenyl)hydantoins, 
+ 5,5-Bis(hydroxyphenyl)hydantoins, 
+ 5,5-Bis(alkoxyphenyl)hydantoins, 
+ 5,5-Bis(alkenyloxyphenyl)hydantoins, 
+ 5,5-Bis(alkynyloxyphenyl)hydantoins, 
+ 5,5-Bis(aralkyloxyphenyl)hydantoins, 
+ 5-Hydroxyalkylphenyl-5-hydroxyphenylhydantoins, 
+ 5-Alkoxyphenyl-5-hydroxyphenylhydantoins, 
+ 5-Alkenyloxyphenyl-5-hydroxyphenylhydantoins, 
+ 5-Alkynyloxyphenyl-5-hydroxyphenylhydantoins, 
+ 5-(Halogeno-hydyoxyphenyl)-5-hydroxyphenylhydantoins, 
+ 5-(Alkyl-hydroxyphenyl)-5-hydroxyphenylhydantoins,  EPO <DP n="12">  
+ 5-(Hydroxyalkyl-hydroxyphenyl)-5-hydroxyphenyl- hydantoins, 
+ 5-Dihydroxyphenyl-5-hydroxyphenylhydantions, 
+ 5-(Halogeno-alkoxyphenyl)-5-alkoxyphenylhydantions, 
+ 5-(Alkyl-alkoxyphenyl)-5-alkoxyphenylhydantoins, 
+ 5-(Hydroxyalkyl-alkoxyphenyl)-5-alkoxyphenylhydantoins, 
+ 5-Dialkoxyphenyl-5-alkoxyphenylhydantoins, 
+ 5-(Halogeno-alkenyloxyphenyl)-5-alkenyloxyphenyl- hydantoins, 
+ 5-(Alkyl-alkenyloxyphenyl)-5-alkenyloxyphenylhydantoins, 
+ 5-(Hydroxyalkyl-alkenyloxyphenyl)-5-alkenyloxyphenyl- hydantoins, 
+ 5-Dialkenyloxyphenyl-5-alkenyloxyphenylhydantoins, 
+ 5-(Halogeno-alkynyloxyphenyl)-5-alkynyloxyphenyl- hydantoins, 
+ 5-(Alkyl-alkynyloxyphenyl)-5-alkynyloxyphenylhydantoins, 
+ 5-(Hydroxyalkyl-alkynyloxyphenyl)-5-alkynyloxyphenyl- hydantoins, 
+ 5-Dialkynyloxyphenyl-5-alkynyloxyphenylhydantoins, 
+ 5-(Halogeno-aralkyloxyphenyl)-5-aralkyloxyphenyl- hydantoins, 
+ 5-(Alkyl-aralkyloxyphenyl)-5-aralkyloxyphenylhydantoins, 
+ 5-(Hydroxyalkyl-aralkyloxyphenyl)-5-aralkyloxyphenyl- hydantoins, 
+ 5-Diaralkyloxyphenyl-5 - aralkyloxyphenylhydantoins, 
+ 5-(Dihalogeno-hydroxyphenyl)-5-hydroxyphenylhydantoins, 
+ 5-(Dialkyl-hydroxyphenyl)-5-hydroxyphenylhydantoins, 
+ 5- [Bis(hydroxyalkyl)-hydroxyphenyl] -5-hydroxyphenyl- hydantoins, 
+ 5-Trihydroxyphenyl-5-hydroxyphenylhydantoins, 
+ 5-(Dihalogeno-alkoxyphenyl)-5-alkoxyphenylhydantoins, 
+ 5-(Dialkyl-alkoxyphenyl)-5-alkoxyphenylhydantoins, 
+ 5- [Bis(hydroxyalkyl)-alkoxyphenyl] -5-alkoxyphenyl- hydantoins,  EPO <DP n="13">  
+ 5-Trialkoxyphenyl-5-alkoxyphenylhydantoins, 
+ 5-(Dihalogeno-alkenyloxyphenyl)-5-alkenyloxyphenyl- hydantoins, 
+ 5-(Dialkyl-alkenyloxyphenyl)-5-alkenyloxyphenyl- hydantoins, 
+ 5-(Dihalogeno-alicynyloxyphenyl)-5-alkynyloxyphenyl- hydantoins, 
+ 5-(Dialkyl-alkynylphenyl)-5-alkynyloxyphenylhydantoins, 
+ 5-(Dihalogeno-aralkyloxyphenyl)-5-aralkyloxyphenyl- hydantoins, 
+ 5-(Dialkyl-aralkyloxyphenyl)-5-aralkyloxyphenyl- hydantoins, 
+ 5,5-Bis(carboxy-hydraxyphenyl) hydantoins, 
+ 5,5-Bis(alkyl-hydroxyphenyl)hydantoins, 
+ 5,5-Bis(hydroxyalkyl-hydroxyphenyl)hydantoins, 
+ 5,5-Bis(dihydroxyphenyl)hydantoins, 
+ 5,5-Bis(halogeno-alkoxyphenyl)hydantoins, 
+ 5,5-Bis(carboxy-alkoxyphenyl)hydantoins, 
+ 5,5-Bis(alkyl-alkoxyphenyl)hydantoins, 
+ 5,5-Bis(hydroxyalkyl-alkoxypnenyl)hydantoins, 
+ 5,5-Bis(haloalkyl-alkoxyphenyl)hydantoins, 
+ 5,5-Bis(dialkoxyphenyl)hydantoins, 
+ 5,5-Bis(halogeno-alkenyloxyphenyl)hydantoins, 
+ 5,5-Bis(carboxy-alkenyloxyphenyl)hydantoins, 
+ 5,5-Bis(alkyl-alkenyloxyphenyl)hydantoins, 
+ 5,5-Bis(hydroxyalkyl-alkenyloxyphenyl)hydantoins, 
+ 5,5-Bis(haloalkyl-alkenyloxyphenyl)hydantoins, 
+ 5,5-Bis(dialkenyloxyphenyl)hydantoins, 
+ 5,5-Bis(halogeno-alkynyloxyphenyl)hydantoins, 
+ 5,5-Bis(carboxy-alkynyloxyphenyl)hydantoins, 
+ 5,5-Bis(alkyl-alkynyloxyphenyl)hydantoins, 
+ 5,5-Bis(hydroxyalkyl-alkynyloxyphenyl)hydantoins, 
+ 5,5-Bis(haloalkyl-alkynyloxyphenyl)hydantoins, 
+ 5,5-Bis(dialkynyloxyphenyl)hydantoins,  EPO <DP n="14">  
+ 5,5-Bis(alkyl-aralkyloxyphenyl)hydantoins, 
+ 5,5-Bis(hydroxyalkyl-aralkyloxyphenyl)hydantoins, 
+ 5,5-Bis(haloalkyl-aralkyloxyphenyl)hydantoins, 
+ 5,5-Bis(diaralkyloxyphenyl)hydantoins, 
+ 5,5-Bis (trihydroxyphenyl)hydantoins, 
+ 5,5-Bis(trialkoxyphenyl)hydantoins, and 
+ 5,5-Bis(dialkyl-halogenophenyl)hydantoins. 
+ 
+ The compounds of the present invention on which hydrogen atom of phenolic hydroxyl group is replaced'with an alkali metal atom such as sodium or potassium are also included in the compounds of the present invention. 
+ The present invention further includes pharmaceutically acceptable salts of the compounds of the present invention with inorganic or organic cations. As examples of the cations, there may be mentioned alkali metals such as sodium and potassium, alkaline earth metals such as calcium and magnesium and amines such as monoethanolamine, diethanolamine, dimethylaminoethanol, N-methyl- glucagon, tris(hydroxymethyl)aminomethane, piperidine, piperazine and morpholine. 
+ According to the present invention, the compounds of the present invention can be prepared by heating ketones of general formula (III);
+ 
+ 
+ wherein symbols have the same meanings as those of general formula (I) ; 
+ together with at least one of cyanides such as sodium   EPO <DP n="15">  cyanide, potassium cyanide, lithium cyanide and calcium cyanide and ammonium carbonate, ammonium hydrogencarbonate or a mixture thereof preferably in solvent. 
+ 
+ Those cyanides and ammonium compounds are preferably used in an excess amount as compared with the ketones in general. 
+ As the solvent to be used, there may be mentioned, for example, methanol, ethanol, propanol, ethyl acetate, dioxane, morpholine, formamide, acetamide or dimethylformamide. If desired, solvent mixtures of them with water or hydrous solvents may also be used. 
+ Heating temperature is generally 40-200°C and heating time is 1-100 hours. The temperature and time may be selected suitably according to starting materials and solvents. 
+ Further, the present invention provides a process for introducing hydroxyl group into phenyl group at 5-position of hydantoin, which process comprises dealkylating or dearalkylating the compounds of the present invention wherein the phenyl group at 5-position of hydantoin has alkoxy group or aralkyloxy group according to a known method per se. This process is particularly recommended when various by-products are formed and isolation or purification of the object compound is difficult during the preparation of the object compound from the ketone of formula (III) wherein the phenyl group has hydroxyl group, which is a starting material for preparation of the compound of the present invention. Namely, the compound of the present invention can be prepared by forming a compound of the invention from an alkoxy- or aralkyloxy-   EPO <DP n="16">  substituted starting ketone (III) by the above described process and, if necessary, dealkylating or dearalkylating the compound to form hydroxyl group so as to prepare other' compounds of the present invention. 
+ The dealkylation reaction can be carried out in a relatively short period of time, for example, by reacting the compound with anhydrous aluminum chloride in a substantially water-free solvent such as benzene or toluene. 
+ The dearalkylation reaction can be carried out by reacting the compound with hydrogen in the presence of a catalyst. For example, the reaction can be carried out by allowing the compound to absorb hydrogen gas in the presence of palladium-carbon in a solvent of dioxane and the like. 
+ The compounds of the present invention can be isolated or purified by a usual method. The object can be attained by reprecipitation and/or recrystallization by using a proper solvent. In addition, proper treatments such as decolorization may be effected. The compounds of the invention thus obtained can be identified by measuring melting points, IR analysis, elementary analysis and the like. 
+ The following examples illustrate the process for preparing compounds of the present invention, which by no means limit the invention.  EPO <DP n="17">  
+ Example 
+ 2.0 Grams of 2-(4-hydroxybenzoyl)thiophene were heated together with 5.3 g of potassium cyanide, 17.1 g of ammonium carbonate, 20 ml of formamide and 10 ml of water in a stainless steel bomb with occasional stirring at 120°C for 72 hours in total. The reaction liquid was adjusted to pH 4 with concentrated hydrochloric acid and then mixed with water to form precipitates. The precipitates thus formed were washed with water, filtered and extracted with ethanol while they were hot. The extract was heated together with a small amount of active carbon under reflux, filtered while it was hot and then cooled to obtain 2.0 g of 5-(4-hydroxyphenyl)-5-(2-thienyl) hydantoin as white crystals. 
+ Example 2 
+ 55.3 Grams of 3-chloro-4,4'-dimethoxybenzophenone, 65.1 g - of potassium cyanide, 96 g of ammonium carbonate and 94.8 g of ammonium hydrogencarbonate were charged in an autoclave together with 500 ml of formamide and 100 ml of water and the whole was heated at 120°C with stirring for 48 hours. The reaction liquid was made acidic with concentrated hydrochlorid acid, mixed with water and allowed to stand in a cool place overnight.Thus formed precipitates were washed with water and filtered out. The filtration residue was dissolved in 80% ethanol- water under heating, decolorized with active carbon and recrystallized from ethanol-chloroform to obtain .40.0 g of white crystals of 5-(3-chloro-4-methoxyphenyl)-5-(4-methoxyphenyl)hydantoin.  EPO <DP n="18">  
+ Example 3 
+ 34.5 Grams of 4,4'-demethoxy-3-methylbenzophenone, 66.7 g of potassium cyanide and 232.2 g of ammonium hydrogencarbonate were heated to 120°C together with 500 ml of formamide and 100 ml of water with stirring in an autoclave. After 72 hours the reaction liquid was made acidic with concentrated hydrochloric acid, mixed with water and allowed to stand overnight. Precipitates thus formed were filtered out. The precipitates were dissolved in acetone, decolorized by active carbon under heating and recrystallized from hexane-acetone to obtain 22.7 g of white crystals of 5-(4-methoxy-3-methylphenyl) -5-(4-methoxyphenyl)-hydantoin. 
+ Example 4 
+ 100 Grams of 4,4'-dihydroxybenzophenone, 152.1 g of potassium cyanide and 426.3 g of ammonium carbonate were heated to 120°C together with 750 ml of formamide and 150 ml of water with stirring in an autoclave for 48 hours. The reaction liquid was made acidic with concentrated hydrochloric acid, mixed with water and allowed to stand overnight. Precipitates thus formed were filtered out. The precipitates were decolorized by active carbon and recrystallized from 50 % methanol to obtain 111.4 g of white crystals of 5,5-Bis(4-hydroxyphenyl)-hydantoin. 
+ Examples 5-28 
+ Compounds where prepared in substantially the same manner as in Examples 1-4.  EPO <DP n="19">  
+ Examples of the compounds of the present invention obtained in Examples 1-28 are shown in Table 1.
+ 
+    EPO <DP n="20">  
+ 
+    EPO <DP n="21">  
+ 
+ 
+ Example 29 
+ 11.0 Grams of 5,5-Bis(2-Benzyloxyphenyl)hydantoin (Example 12) were reduced in 150 ml of dioxane in the presence of 2 g of palladium-carbon catalyst in an autoclave under a hydrogen pressure of 10 Kg/cm 2  at room temperature. After completion of the hydrogen absorption, the whole was heated at 80°C under a hydrogen pressure of 10 KG/cm 2  for about 5 hours. The reaction liquid was subjected to filtration to remove the catalyst and concentrated under reduced pressure and the resulting precipitates were filtered out. The product was recrystallized from a mixture of acetone- chloroform to obtain 3.4 g of 5,5-bis(2-Hydroxyphenyl)   EPO <DP n="22">  hydantoin as white crystals. 
+ Example 30 
+ 9.8 Gram of 5-(4-Methoxy-3-methylphenyl)-5-(4-methoxyphenyl)hydantoin (Example 3) were suspended in 600 ml of toluene. The resulting suspension was mixed with 40.0 g of anhydrous aluminum chloride, heated to 80°C and stirred for 3 hours. The reaction liquid was allowed to cool and poured into a mixture of diluted hydrochloric acid and ice and then diluted with benzene. The resulting precipitates were washed and dissolved in methanol. The solution was heated together with active carbon and filtered while it was hot. The filtrate was mixed with water and allowed to stand quietly in a cool place to precipitate 5-(4-Hydroxy-3-methylphenyl)-5-(4-hydroxyphenyl)-hydantoin as white granular crystals. The crystals were filtered out and dried. Yield 7.5 g. 
+ Examples 31-36 
+ Compounds were prepared in substantially the same manner as in Example 30. 
+ Examples of the compounds of the present invention obtained in Examples 29-36 are shown in Table 2.  EPO <DP n="23">  
+ 
+ 
+ The results of pharmacological tests of the compounds of the present invention will be shown below. The compounds are represented by number of examples given above.  EPO <DP n="24">  
+ 
+  EPO <DP n="25">  
+ I. Acute toxicity test. 
+ Toxicity tests were carried out by intraperitoneal administration of the compound of the present invention to groups each comprising 10 ICR-strain mice or SD-strain rats. LD 50  was calculated based on the number of death 72 hours after the administration by Litchfield-Wilcoxon method. 
+ Some of the results are shown in Table 3.  EPO <DP n="26">  
+ 
+ 
+ II. Pharmacological tests. 
+ Pharmacological effects of the compounds of the present invention were tested by using rats and mice. 
+ SART stress animals used in the tests described below were raised according to a method of Kita, et al. 
+ F olia Pharmacol. Japan 71, 195-210 (1975) . The SART stress animals raised by said method exhibit a severe stress condition such as decrease in body weight, increase of heart rate and elongation of QRS-time, and, therefore, they can be regarded to be animal models exhibiting human-like autonomic ataxia caused by rapid temperature change.  EPO <DP n="27">  
+ 1. Inhibitory effects on decrease in body weight of stress animals: 
+ Groups of mice each comprising 11-15 dd-strain male mice were divided into the following three groups and effect of inhibition according to the compounds of the present invention for reduction in body weight of the SART stress mice were examined.
+ 
+ Group A: The mice were raised under normal enviromental conditions and 10 ml/kg of isotonic sodium chloride solution or 0.5 % Tween 80 (registered trade mark) was given intraperitoneally once a day. 
+ Group B: The mice were raised unter SART stress conditions and 10 ml/kg of isotonic sodium chloride solution or 0.5 % Tween 80 was given intraperitoneally once a day, and 
+ Group C: the mice were raised under SART stress conditions and isotonic sodium chloride solution or 0.5 % Tween 80 containing a compound of the present invention or another comparative drug prepared in such a way that a dosage would be 10 ml/kg  '  was given intraperitoneally once a day. 
+ 
+ Examples of the results are shown in Table 4, Fig. 1 and Fig. 2. 
+ It is apparent in those results that as compared with the normal mice, the SART stress mice exhibited a remarkable decrease in body weight. The compounds of the present in  EPO <DP n="28">  vention well prevented the decrease and even an inclination of increase in body weight was observed, whereas antistress agents such as major tranquillizers, minor tranquillizers and antidepressives did not inhibit the same at all. 
+ No substantial difference in amount of feed intake was observed in the animals in said three groups.  EPO <DP n="29">  
+ 
+    EPO <DP n="30">  
+ 
+ 
+ 2. Inhibitory effect on increase of heart rate and elongation of QRS-time in stress animals: 
+ Groups of mice each comprising 11 or 12 dd-strain male mice were divided into three groups in the same manner as above and heart rate and QRS-time were determined on the 9th day after initiation of the tests. 
+ Examples of the results are shown in Table 5. 
+ The test results indicate that the compounds of the present invention inhibit increase of heart rate and elongation of QRS-time caused by SART stress.  EPO <DP n="31">  
+ 
+ 
+ 3. Effect of recovering acetylcholine (Ach) sensitivity of isolated intestinal tract: 
+ Groupseach comprising at least 10 dd-strain male mice were used. The compounds of the present invention and/ or other comparative drugs were given intraperitoneally once a day during the stress-causing operation. On the 6th day, Ach (10 -7  g/ml) sensitivity of isolated duodenum was examined according to Magnus method. 
+ Some of the results thus obtained are shown in Table 6.  EPO <DP n="32">  
+ In Table 6, it is recognized that Ach sensitivity of the isolated duodenum in SART stress mice is declined considerably as compared with that of normal mice. By using the compounds of the present invention, Ach sensitivity of the isolated duodenums in SART stress mice is recovered substantially to a normal value.  EPO <DP n="33">  
+ 
+ 
+ 
+ 4. Sedative effect: 
+ 4.1. Inhibitory effect on spontaneous motor activities: 
+ Groups each comprising 8-16 dd-strain male mice were used. The compounds of the present invention were given intraperitoneally. After 60 minutes, spontaneous motor activities for 15 minutes was mea  EPO <DP n="34">  sured by Animex method. 
+ 4.2. Inhibitory effect on exploratory movements: 
+ Groups each comprising 16- 35 dd-strain male mice were used. The compounds of the present invention were given intraperitoneally. After 60 minutes, exploratory movements for 15 minutes was measured with an exploratory movement recorder by a method of Tokyo Kyoiku University. 
+ Some of the results of the spontaneous motor activities tests and the exploratory movements tests are shown in Table 7. 
+ The compounds of the present invention exhibited a significant sedative effect.  EPO <DP n="35">  
+ 
+ 
+ 5. Analgesic effect: 
+ 5.1. Tail pressure method: 
+ Randall-Selitto's device for determing analgesic effect by pressure stimulation was used. Groups each comprising 7-13 ddY-strain male normal mice or 7-13 ddY-male SART stress mice to which SART stress was applied for at least 4 days were employed. The compounds of the present invention or other comparative drugs were given thereto and analgesic effect was   EPO <DP n="36">  determined. The efffect was judged by measuring pressure applied 60 minutes after the intraperitoneal administration of the compounds of the present invention. The pressure thus measured was divided by a pressure before the administraion. The value thus obtained was compared with that of a control group (to which 10 ml/kg of 0.5 % sodium salt of carboxymethylcellulose or 0.5 % Tween 80 was given). In case when the compounds of the present invention were given perorally and other comparative drugs were given an average of the pressure at 30, 60, 90 and 120 minutes after the administration was employed for evaluating the effect. Some of the results are shown in Table 8. 
+ In case when the compounds of the present invention were given perorally, an apparent persistent effect was observed.  EPO <DP n="37">  
+ 
+    EPO <DP n="38">  
+ 
+ 
+ 5.2. Acetic acid writhing method: 
+ 0.1 ml/10 g of isotonic sodium chloride solution containing 0.7 % acetic acid was given intraperitoneally to groups of mice each comprising 5 normal mice and 5 SART stress mice to which SART stress had been applied for 8 days. Writhing syndromes number appeared in 15 minutes after the administration was measured. The effect was evaluated by giving 100 mg/kg of the compounds of the present invention and/or DPH subcutaneously and comparing the writhing syndromes number of the mice with that of control mice.  EPO <DP n="39">  
+ Some of the results are shown in Table 9.
+ 
+ 
+ 5.3. D'Amour-Smith method: 
+ Groups each comprising 10 ddY-strain male normal mice and SART stress mice to which SART stress had been applied for 4 days were used. The root of the tail of mouse to which black ink was applied was irradiated with infrared rays for up to 15 seconds. Time required till escape response was obeserved was measured. The effect was shown by ratio of the mice in which an average value of the response time at 30,60, 90 and 120 minutes after the administration of the compounds of the present invention and/or other comparative drugs   EPO <DP n="40">  was elongated to at least 2 times as long as the time before the administration. 
+ Some of the results are shown in Table 10.  EPO <DP n="41">  
+ 
+    EPO <DP n="42">    
+ 5.4. Method of measuring a pain induced by Bradykinin: 
+ Groups each comprising 4-8 SD-strain male normal rats or SART stress rats to which SART stress had been applied for 4 days were used. The tests were carried out according to a method of Deffenu et. al. (Deffenu, G. Pegrassi, L. & Fumachi. B., J. Pharm. Pharmacol. 18, 135 (1966)) and Blane method (Blane G.F. : J. Pharm. Pharmacol. 19, 367 (1967)). The effect judged was shown by ratio of the rats in which the effect was recognized according to a method of Abe, et. al. (Abe, Kaneko & Takagi; Folia Pharmacol. Japan, 67, 9-14 (1971)). 
+ Some of the results are shown in Table 11.
+ 
+    EPO <DP n="43">    
+ 6. Antiulcerogenic effect: 
+ 6.1. Antiulcerogenic effect on Takagi's restraint-plus- water-immersing ulcer: 
+ Groups each comprising 8-26 dd-strain male mice were used. The tests were carried out according to a method of Takagi, et. al. (Chem. Pharm. Bull.; 12, 465 (1964)). Sum of length of diseased parts in the glandular stomach was measured and it was compared with that of control group. The compounds of the present invention and/or DPH was given intraperitoneally immediately before the restraint and immersion in water. 
+ Some of the results are shown in Table 12.  EPO <DP n="44">  
+ 
+ 
+ 6.2. Antiulcerogenic effect on Shay's ulcer (operative ulcer): 
+ Tests were carried out by using groups of rats each comprising 5-10 Wistar-strain male rats according to Shay method (Shay, Harry, Gastroenterology, 5, 43 (1945)). Ulcer in the anterior stomach were classified on the following basis:  EPO <DP n="45">  
+ 
+ O; no disease, 
+ 1; bleeding or erosion, 
+ 2; 1-5 small ulcers (diameter of less than 3 mm), 
+ 3; 6 or more small ulcers or one big ulcer (diameter of more than 3 mm) 
+ 4; two or more big ulcers, 
+ 5; perforating ulcer 
+ 
+ The compounds of the present invention were given intraperitoneally 10 times and atropine known as antiulcerogenic agent was given intraperitoneally 7 times in total over two days before the ligation of pylorus. 
+ Some of the results are shown in Table 13.  EPO <DP n="46">  
+ 
+    EPO <DP n="47">    
+ 7. Effect for prolongation of sleeping time: 
+ Groups of mice each comprising 10 ddY-strain male mice were used. Sodium salt of hexobarbital was given intraperitoneally. Thereafter, period of time in which righting reflex disappeared was measured. Effect was evaluated on the basis of prolongation of time of disappearance of righting reflex by the intraperitoneal administration'of the compounds of the present invention as compared with control mice. 
+ Some of the results are shown in Table 14.
+ 
+    EPO <DP n="48">  
+ 
+    EPO <DP n="49">    
+ 8. Antihypertensive effect: 
+ Groups of rats each comprising 6-9 spontaneously hypertensive rats (SHR) were used. The compounds of the present invention and/or DPH were given intraperitoneally. Rate of antihypertension 60 minutes after the administration was determined. 
+ Some of the results are shown in Table 15.
+ 
+ 
+ 9. Inhibitory effect on Tremorine-induced tremor: 
+ Groups of mice each comprising 10-40 dd-strain male mice were used. Effect of the compounds of the present invention on tremor caused by tremorine was examined. The compounds of the present invention and/or DPH was given intraperitoneally. 45 minutes thereafter, 10 mg/kg of   EPO <DP n="50">  tremorine was given intraperitoneally for inducing the tremor. The mice were observed to know whether the tremor was induced or not during the time from immediately after the administration till 30 minutes thereafter. 
+ Some of the results are shown in Table 16. 
+ As compared with control group, time till appearance of tremor was prolonged, significantly in the groups to which the compounds of the present invention were given. 
+ The results of the tests indicate that the compounds of the present invention can be used as a remedy or a supplementary remedy for the treatment of writer's cramp or Parkinson's disease. 
+ It was confirmed in the tests that by the intraperitoneal administration of 10 mg/kg of tremorine, diarrhea appeared in the mice in addition to the tremor. However, in the groups to which the compounds of the present invention were given, the diarrhea was relieved.  EPO <DP n="51">  
+ 
+ 
+ As apparently shown by the results of the above toxicity tests and pharmacological tests, the compounds of the present invention are characterized by their low toxicity and broad pharmacological effects, particularly relief of stress conditions and prevention, improved or treatment of various diseases caused by stress. Thus, the compounds of the present invention and pharmaceutically acceptable salts therof can be expected to have medical uses not only as sedative, analgesic, antiulcerogenic agent, hypnotic or antihypextensive drug but also as remedies, supplementary remedies or preventive medicines for the treatment of various diseases caused by stress, for example, nervous, muscular and skeletal diseases such as general malaise syndrom, cold constitutions, motion sickness, sleeplessness, neuralgia, paresthesia, chronic articular rheumatism, articular pain, back pain, low back pain, muscular convulsion, tremor, writer's cramp and cervical vertebral syndrome; circulating system diseases such as cardiac neurosis, stenocardia,   EPO <DP n="52">  essential hypertension, hypotension syndrome, and migraine; digestive system diseases such as chronic gastritis, hyperacidity, pyrosis, nervous vomiting, pylorospasm, peptic ulcer, ulcerative colitis, chronic constipation, hypersensitive large intestine and anorexia nervosa; diseases of internal secretion and metabolism systems such as menstrual disorder, obesity, diabetes mellitus, chronic fatigue and hyperthyroidism; diseases of urinary organs and genital organs such as dysuria, neuropathic pollakiuria, enuresis nocturna, dysmenorrhea, premenstrual tension, frigidity mammalgia and impotence; dermal and oral diseases such as neuropathic dermatitis, pruritus, cutaneus, atopic dermatitis, allergic dermatitis, chronic urticaria, eczema abnormal salivation, aphtous stomatitis, toothache and grinding and diseases of sense organs such as eye strain, glaucoma primarium, Meniere's syndrome, hearing impairment, tinnitus, giddiness, rhinitis and dysosmia. 
+ Further, as apparently shown by the comparative tests with DPH, the pharmacological effects of the compounds of the present invention are utterly different from those of DPH and such effects could not be anticipated from effects of known compounds at all. 
+ From pharmacological viewpoint, among the compounds of the present invention, those in which the phenyl group at 5-position of hydantoin is substituted with halogen, OR 7  and/or, in some cases with other substituents are preferred. Examples of the preferred compounds will be shown below:  EPO <DP n="53">  
+ 
+ 5-Alkyl-5-OR 7 -substituted phenylhydantoins, 
+ 5-Heterocyclyl-5-OR 7 -substituted phenylhydantoins, 
+ 5-Halogenophenyl-5-phenylhydantoins, 
+ 5-OR 7 -substituted phenyl-5-phenylhydantoins, 
+ 5,5-Bis(OR 7 -substituted phenyl)hydantoins, 
+ 5-(Halogeno-OR 7 -substituted phenyl)-5-OR 7 -substituted phenylhydantoins, 
+ 5-(Alkyl-OR 7 -substituted phenyl)-5-OR 7 -substituted phenylhydantoins, 
+ 5-(Di-OR 7 -substituted phenyl)-5-OR 7 -substituted phenylhydantoins, and 
+ 5,5-Bis(tri-OR 7 -substituted phenyl)hydantoins. 
+ 
+ As concrete examples of the above compounds, the following compounds may be mentioned:
+ 
+ 5-Ethyl-5-(4-hydroxyphenyl)hydantoin, 
+ 5-Ethyl-5-(2-hydroxyphenyl)hydantoin, 
+ 5-(4-Hydroxyphenyl)-5-(2-thienyl)hydantoin, 
+ 5-(4-Fluorophenyl)-5-phenylhydantoin, 
+ 5-(2-Hydraxyphenyl)-5-phenylhydantoin, 
+ 5-(4-Hydroxyphenyl)-5-phenylhydantoin, 
+ 5,5-Bis(4-Hydroxyphenyl)hydantoin, 
+ 5,5-Bis(3-Hydroxyphenyl)hydantoin, 
+ 5,5-Bis(2-Propoxyphenyl)hydantoin, 
+ 5-(3-Chloro-4-hydroxyphenyl)-5-(4-hydroxyphenyl)hydsntoin, 
+ 5- (3-Chloro-.4-methoxyphenyl) -5- (4-methoxyphenyl) hydantoin, 
+ 5-(4-Hydroxy-3-methylphenyl)-5-(4-hydroxyphenyl)hydantoin, 
+ 5-(4-Methoxy-3-methylphenyl)-5-(4-methoxyphenyl)hydantoin, 
+ 5-(3,4-Dihydroxyphenyl)-5-(4-hydroxyphenyl)hydantoin, 
+ 5,5-Bis(3,4,5-Trihydroxyphenyl)hydantoin, and 
+ 5,5-Bis(3,4,5-Trimethoxyphenyl)hydantoin.  EPO <DP n="54">  
+ 
+ As remedies, the compounds of the present invention can be used singly or in the form of an appropriate combination of some of them. The compounds can be also used in combination with other suitable medicines. The compounds can be also used in combination with suitable medical carriers or diluents. The compounds of the present invention may be given either perorally or non-perorally they can be prescribed by conventional methods. 
+ They can be prescribed in any of capsules, tablets, pills, powders and granules to be given perorally. The compounds of the present invention can be mixed with at least one vehicle such as sucrose, lactose, starch or carboxymethylcellulose for the preparation thereof. 
+ Further, the preparations may contain ordinary additives, other than said vehicles, such as lubricants, for example, stearic acid salts and talc, binders, for example, dextrin, crystalline cellulose and acacia gum, disintegrators and/or coating agents, if necessary. Further, if desired, flavors and/or sweetening agents may be incorporated therein. 
+ Another form of the preparations is a syrup, i.e. the compound is dissolved in a sucrose solution. 
+ As non-peroral preparations, there may be mentioned sterilized aqueous or non-aqueous solutions for injection. The preparations of this type may contain adjuvants such as isotonizing agents, antiseptics, solubilizers and stabilizers. The preparations can be subjected to sterilization treatments, as filtration, intruduction of a sterilizer, use of a sterilizing irradiation or heating of the compositions.)Th,e preparation of this type may be made in the form of a sterilized solid   EPO <DP n="55">  composition which is to be dissolved in sterilized water or a sterilized injection medium before use. 
+ As other non-oral preparations, there may be mentioned suppositories and ointments made by mixing the compounds with suitable bases. 
+ Amount of the compound of the present invention to be contained in the composition may be varied suitably, but it must be determined so as to obtain a suitable dosage. The dosage is variable according to the desired treatment effect, route of administration, subject and period of treatment. Generally, for adults, peroral administration of 1-5000 mg/day of the compounds of the present invention or non-peroral administration of 0.1-1000 mg/day thereof is preferable. The desired effects can be obtained by administration of one to several units/day of a peroral preparation containing 1-500 mg of the compounds of the present invention or a non-peroral preparation containing 0.1-300 mg thereof. 
+ Examples of pharmaceutical formulations containing the compounds of the present invention as active ingredients will be given below, which by no means limit the invention. 
+ i) Tablets: 
+ A typical example of tablets containing 50 mg of a compound of the present invention in a tablet will be given below:  EPO <DP n="56">  
+ 
+ 
+ Above components (a) through (d) are equally mixed together. The Mixture is kneaded together with water as granulation medium. The mixture is shaped into granules by a granulating machine having a 20 mesh screen. The granules are dried with warm air. Thus dried granules are passed through a 14 mesh sieve, then mixed with component (e) and shaped into tablets by a proper tablet machine. 
+ ii) Capsules : 
+ Examples of capsules containing 50 mg and 100 mg of a compound of the present invention per capsule will be given below:
+ 
+    EPO <DP n="57">  
+ 
+ 
+ The above components are equally mixed together and charged in hard capsules. 
+ iii) Injections: 
+ An example of injections containing 1 mg of a compound of the present invention per one ampoule (1 ml) will be given below:
+ 
+ 
+ The above components are mixed together to form a solution, which is then filtered and charged in 1 ml ampoule. The ampoule is closed by fusion and sterilized. 
+  EPO <DP n="58">  
+ 
+ 
+ (1) New hydantoin derivatives of general formula (I):
+ wherein at least one of R 1 , R 2  and R 3  represents a group other than hydrogen and R 1 , R 2  and R 3  which may be the same or different represent hydrogen, a halogen, carboxyl group, sulfonic acid group, an alkyl group, a hydroxyalkyl group, a haloalkyl group or a group of the general formula OR 7  in which R 7  represents hydrogen, a saturated or unsaturated straight chain or branched aliphatic hydrocarbon group, an aralkyl group or an alkali metal atom, and  
+ X  represents an alkyl group, a heterocyclic group or a group of general formula (II);
+    EPO <DP n="59">   in which R 4 , R 5  and R 6 which may be the same or different represent hydrogen, a halogen, carboxyl group, sulfonic acid group, an alkyl group, a hydroxyalkyl group, a haloalkyl group or a group of the formula O R7  (R 7  having the same meaning as above) and pharmaceutically acceptable salts of the derivatives. 
+ 
+ (2) Derivatives of general formula (I) and salts thereof according to claim 1 wherein X represents an alkyl group. 
+ 
+ (3) Derivatives of general formula (I) and salts thereof according to claim 2 wherein X represents an alkyl group and one of R 1 , R 2  and R 3  represents a group other than hydrogen. 
+ 
+ (4) Derivatives of general formula (I) and salts thereof according to claim 3 wherein X represents an alkyl group and one of R 1 , R 2  and R 3  represents a group of formula OR 7 . 
+ 
+ .(5) Derivatives of general formula (I) and salts therof according to claim 1 wherein X represents a heterocyclic group. 
+ 
+ (6) Derivatives of general formula (I) and salts thereof according to claim 5 wherein X represents furyl group or thienyl group and one of R 1 , R 2  and R 3  represents a group other than hydrogen. 
+ 
+ (7) Derivatives of general formula (I) and salts therof according to claim 6 wherein X represents furyl group or thienyl group and one of R1, R 2  and R 3  represents a group of general formula OR 7 .  EPO <DP n="60">  
+ 
+ (8) Derivatives of general formula (I) and salts thereof according to claim 1 wherein X represents a group of formula (II). 
+ 
+ (9) Derivatives of general formula (I) and salts thereof according to claim 8 wherein X represents phenyl group and one of R 1 , R 2  and R 3  represents a group other than hydrogen. 
+ 
+ (10) Derivatives of general formula (I) and salts thereof according to claim 9 wherein X represents phenyl group and one of R 1 , R 2  and R 3  represents a halogen or a group of formula OR 7 . 
+ 
+ (11) Derivatives of general formula (I) and salts therof according to claim 8 wherein X represents a group of formula (II) and one of R 4 , R 5  and R 6  and one of R 1 , R 2  and R 3  represent the same or different groups other than hydrogen. 
+ 
+ (12) Derivatives of general formula (I) and salts thereof according to claim 11 wherein X represents a group of formula (II) and one of R 4 , R 5  and R 6  and one of R 1 , R 2 -and R 3  represent the same or different groups of formula OR 7 . 
+ 
+ (13) Derivatives of general formula (I) and salts thereof according to claim 8 wherein X represents a group of formula (II), and one of R 4 , R 5  and R 6  represents a group of formula OR 7 , and one of R 1 , R 2  and R 3  represents a group of formula OR 7  and the remaining one of  R 1 , R 2  or R 3  represents a halogen, an alkyl group, a hydroxy alkyl group or a group of formula OR 7 .  EPO <DP n="61">  
+ 
+ (14) Derivatives of general formula (I) and salts thereof according to claim 8 wherein X represents a group of formula (II), one of R , R 5  and R 6  represents a group of formula OR 7 , one of R 1 , R 2  and R 3  represents a group of formula OR 7  and the remaining two of R 1 , R 2  and R 3  which may be the same or different represent a halogen, an alkyl group, a hydroxyalkyl group or a group of formula OR 7 . 
+ 
+ (15) Derivatives of general formula (I) and salts thereof according to claim 8 wherein X represents a group of formula (II), two of R 4 , R 5  and R 6  and two of R 1 , R 2  and R 3  which may be the same or different represent a.halogen, carboxyl group, an alkyl group, a hydroxyalkyl group, a haloalkyl group or a group of formula OR 7 . 
+ 
+ (16) Derivatives of general formula (I) and salts thereof according to claim 8 wherein X represents a group of formula (II) and R1, R 2 , R 3 , R 4 , R 5  and R 6  which may be the same or different represent a halogen, an alkyl group or a group of formula OR 7 . 
+ 
+ (17) A process for preparing new hydantoin derivatives of general formula (I);
+    EPO <DP n="62">   wherein at least one of R 1 , R 2  and R 3  represents a group other than hydrogen and R 1 , R 2  and R 3  which may be the same or different represent hydrogen, a halogen, carboxyl group, sulfonic acid group, an alkyl group, a hydroxyalkyl group, a haloalkyl group or a group of the formula OR 7  in which R 7  represents hydrogen, a saturated or unsaturated straight chain or branched aliphatic hydrocarbon group, an aralkyl group or an alkali metal atom, and X represents an alkyl group, a heterocyclic group or a group of general formula (II) ;
+ in which R 4 , R 5  and R 6  which may be the same or different represent hydrogen, a halogen, carboxyl group, sulfonic acid group, an alkyl group, a hydroxyalkyl group, a haloalkyl group or a group of formula OR 7  (R 7  having the same meaning as above) and pharmaceutically acceptable salts of the derivatives, characterized in that compound of general formula (III);
+    EPO <DP n="63">   wherein R 1 , R 2 , R 3  and X have the same meanings as above are reacted with a cyanide and ammonium carbonate, ammonium hydrogencarbonate or a mixture thereof and, if desired, the resulting products are dealkylated or dearalkylated. 
+ 
+ (18) A remedy for the treatment of diseases caused by stress containing as active ingredient at least one new hydantoin derivative of general formula (I);
+ 
+ -wherein at least one of R 1 , R 2  and R 3  represents a group other than hydrogen and R 1 , R 2  and R 3  which may be the same or different represent hydrogen, a halogen, 
+ - carboxyl group, sulfonic acid group, an alkyl group, a hydroxyalkyl group, a haloalkyl group or a group of formula OR 7  in which R 7  represents hydrogen, a saturated or unsaturated straight chain or branched aliphatic hydrocarbon group, an aralkyl group or an alkali metal . atom, and 
+ X represents an alkyl group, a heterocyclic group or a group of general formula (II);  EPO <DP n="64">  
+ 
+ in which R 4 , R 5  and R 6  whien may be the same or different represent hydrogen, a halogen, carboxyl group, sulfonic acid group, an alkyl group, a hydroxyalkyl group, a haloalkyl group or a group of formula. OR 7  (R 7  having the same meaning as above) or pharma- cautically acceptable salts thereof. 
+ 
+ (23) A remedy for the treatment of diseases caused by stress according to claim 18 which is an antihypertensive drug. 
+  EPO <DP n="65">  
+ 
+  EPO <DP n="66">  
+ 
+  EPO <DP n="67">  
+ 

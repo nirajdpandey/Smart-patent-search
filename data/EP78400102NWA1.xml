@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.1//EN" "ep-patent-document-v1-1.dtd">
+<ep-patent-document id="EP78400102A1" file="EP78400102NWA1.xml" lang="fr" country="EP" doc-number="0006413" kind="A1" date-publ="19800109" status="n" dtd-version="ep-patent-document-v1-1">
+<SDOBI lang="fr"><B000><eptags><B001EP>..BECHDE....FRGB......LUNLSE......................</B001EP><B005EP>B</B005EP></eptags></B000><B100><B110>0006413</B110><B120><B121>DEMANDE DE BREVET EUROPEEN</B121></B120><B130>A1</B130><B140><date>19800109</date></B140><B190>EP</B190></B100><B200><B210>78400102.6</B210><B220><date>19780915</date></B220><B230></B230><B240></B240><B250>fr</B250><B251EP>fr</B251EP><B260>fr</B260></B200><B300><B310>7820450</B310><B320><date>19780705</date></B320><B330><ctry>FR</ctry></B330></B300><B400><B405><date>19800109</date><bnum>198001</bnum></B405><B430><date>19800109</date><bnum>198001</bnum></B430></B400><B500><B510><B516>3</B516><B511> 3F 03B  17/00   A</B511></B510><B540><B541>de</B541><B542>Selbständig mit mechanischer Energie funktionierender Hydromotor</B542><B541>en</B541><B542>Autonomous hydromotor of mechanical energy</B542><B541>fr</B541><B542>Hydromoteur autonome d'énergie mécanique</B542></B540><B560></B560></B500><B700><B710><B711><snm>Commins, Eric Jean</snm><iid>00207500</iid><adr><str>Chemin Neuf</str><city>F-97417 la Montagne
+Ile de la Réunion</city><ctry>FR</ctry></adr></B711></B710><B720><B721><snm>Commins, Eric Jean</snm><adr><str>Chemin Neuf</str><city>F-97417 la Montagne
+Ile de la Réunion</city><ctry>FR</ctry></adr></B721></B720></B700><B800><B840><ctry>BE</ctry><ctry>CH</ctry><ctry>DE</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>LU</ctry><ctry>NL</ctry><ctry>SE</ctry></B840></B800></SDOBI><!-- EPO <DP n="1"> -->
+<abstract id="abst" lang="fr">
+<p id="pa01" num="0001">
+<ul id="ula01" list-style="none">
+<li>Hydromoteur autonome d'énergie mécanique utilisant la force gravité d'élément liquide dense et fluide, contenu dans cette machine.</li>
+<li>b) monté sur un chassis fixe, il comprend essentiellement les organes mécaniques suivants, à savoir:
+<ul id="ula02" list-style="none">
+<li>1) une roue (5) équipée d'augets (6), montée vertical- ment sur un axe horizontal, entraînant au moyen d'un pignon (1) et d'une chaîne,</li>
+<li>2) un second axe au sommet du dispositif, lequel actionne à son tour, avec démultiplication,</li>
+<li>3) une chaîne sans fin, équipée de godets (4), qui élèvent le liquide au fur et à mesure, du récipient inférieur (7) au sommet de la roue. Lequel actionne alors, par simple force de gravité la giration de la roue, et retombe ensuite dans le récipient d'alimentation, puis le cycle recommence.</li>
+</ul><img id="iaf01" file="imgaf001.tif" wi="66" he="80" img-content="drawing" img-format="tif" inline="no"/></li>
+</ul></p>
+</abstract><!-- EPO <DP n="2"> -->
+<description id="desc" lang="fr">
+<p id="p0001" num="0001">La présente invention a pour objet et se réfère aux moteurs fournissant une énergie mécanique utilisable, continue et gratuite.</p>
+<p id="p0002" num="0002">Le principe et la particularité revendiqués de la présente invention est la conception révolutionnaire d'un moteur rotatif d'énergie hydraulique, exploitant la force dynamique et l'énergie cinétique de liquide dense et fluide contenu dans cette machine.</p>
+<heading id="h0001">PRINCIPE ET FONCTIONNEMENT</heading>
+<p id="p0003" num="0003">En la présente invention, la production d'énergie est dûe à l'action d'élément liquide agissant dans un mouvement descendant aux extrémités extérieures des rayons d'une roue motrice, provoquant un déséquilibre de poids, entraînant la giration de cette roue... de façon à produire une force supérieure, à l'énergie nécessaire pour remonter ce liquide, à son point de départ - par un élévateur prévu à cet effet.</p>
+<heading id="h0002">DESCRIPTION ET PRINCIPE DE FONCTIONNEMENT</heading>
+<p id="p0004" num="0004">L'appareil dont il s'agit comprend principalement les éléments suivants, à savoir :
+<ul id="ul0001" list-style="none">
+<li>a) un chassis fixe sur lequel est montée une roue qui est disposée verticalement sur un arbre monté horizontalement sur palier (de coussinets ou roulements à billes), l'ensemble parfaitement équilibré dynamiquement, tournant sur lui-même.</li>
+<li>b) sur la partie extérieure de cette roue, et sur toute la circonférence de sa jante sont disposés «à intervalles réguliers et compacts» des augets.</li>
+<li>c) sur l'arbre de cette roue «avec un bon espacement de celle-ci» est monté un pignon de petit diamètre, qui servira à actionner «par l'intermédiaire d'une chaîne sans fin» un arbre secondaire situé au sommet du dispositif.</li>
+<li>d) cet arbre secondaire ainsi entraîné, disposé parallèlement à l'arbre de roue, monté également sur palier et dominant l'ensemble du dispositif, servira à son tour à transmettre le mouvement de giration «communiqué par l'arbre de roue» à une chaîne sans fin... équipée d'une série de godets, montée verticalement sur un pignon d'entraînement en surplomb de la roue.</li>
+<li>e) dominant directement la roue, un entonnoir disposé à l'intérieur du pignon d'entraînement des godets de la chaîne sans fin servira «à recueillir le liquide des godets et la déverser directement» au-dessus de la roue «à l'intérieur de ses augets».</li><!-- EPO <DP n="3"> -->
+<li>f) et enfin, dans la partie inférieure du dispositif, sera placé un récipient contenant un liquide «à bonne densité» où viendront plonger et se remplir à chaque passage, les godets de la chaîne sans fin.</li>
+</ul></p>
+<p id="p0005" num="0005">le réservoir servira ainsi simultanément :
+<ul id="ul0002" list-style="none">
+<li>1 .. à alimenter les godets de la chaîne sans fin.</li>
+<li>2 .. puis, recueillir le liquide rejeté à leur point bas, par les augets extérieurs.</li>
+</ul></p>
+<p id="p0006" num="0006">Il en résulte le processus logique ci-après décrit, à savoir :
+<ul id="ul0003" list-style="none">
+<li>les poids du liquide dans les augets «points d'application» excentrés de la roue, la déséquilibre et lui imprime un mouvement giratoire vers le bas, avec une intensité proportionnelle à sa masse, cette roue actionne alors «avec démultiplication» par l'intermédiaire du pignon central de son arbre, l'arbre secondaire situé au sommet du dispositif, qui transmet à son tour le mouvement circulaire reçu, et anime ainsi les godets de la chaîne sans fin... qui enlèvent au fur et à mesure le liquide depuis le récipient inférieur, et le transvase par l'inclinaison automatique des godets «lors de leur passage sur. la partie supérieure du pignon surplombant la roue» à l'intérieur des augets - au moyen de l'entonnoir.</li>
+</ul></p>
+<p id="p0007" num="0007">Cet équilibre instable et renouvelé de poids, anime ainsi la giration de la roue «jusqu'à l'épuisement de la force dynamique et de l'énergie cinétique du liquide» au delà du point bas de chaque auget de la roue, d'où il retombe enfin dans le récipient inférieur... et le cycle recommence...</p>
+</description><!-- EPO <DP n="4"> -->
+<claims id="claims01" lang="fr">
+<claim id="c-fr-0001" num="">
+<claim-text>1 - Dispositif permettant de fournir de l'énergie mécanique utilisable continue et gratuite.</claim-text></claim>
+<claim id="c-fr-0002" num="">
+<claim-text>II - Dispositif caractérisé par le fait que le continu déséquilibre des liquides entraîne la giration de la roue, par un simple moyen physique.</claim-text></claim>
+<claim id="c-fr-0003" num="">
+<claim-text>III -Dispositif selon les revendications 1 et II, caractérisé par le fait qu'il comporte un moyen de production et de récupération d'énergie mécanique, par l'excentration cyclique des liquides à l'intérieur des augets de la roue. <br/>
+Cette action cumulée et conjuguée des liquides à l'intérieur des godets et des augets leur permettent une ascension, puis une excentration importante au moyen de la roue, développe une force motrice utile et exploitable. <br/>
+L'appareil dont ii s'agit «d'une grande simplicité de réalisation et d'entretien» peut être utilisé dans tous les cas, où une force motrice utile est envisagée, et dans les Secteurs les plus divers.</claim-text></claim>
+</claims><!-- EPO <DP n="5"> -->
+<drawings id="draw" lang="fr">
+<figure id="f0001" num=""><img id="if0001" file="imgf0001.tif" wi="175" he="243" img-content="drawing" img-format="tif" inline="no"/></figure><!-- EPO <DP n="6"> -->
+<figure id="f0002" num=""><img id="if0002" file="imgf0002.tif" wi="154" he="249" img-content="drawing" img-format="tif" inline="no"/></figure><!-- EPO <DP n="7"> -->
+<figure id="f0003" num=""><img id="if0003" file="imgf0003.tif" wi="170" he="232" img-content="drawing" img-format="tif" inline="no"/></figure>
+</drawings><!-- EPO <DP n="8"> -->
+<search-report-data id="srep" lang="fr" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="187" he="275" type="tif"/></search-report-data>
+</ep-patent-document>

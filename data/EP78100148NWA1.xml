@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.1//EN" "ep-patent-document-v1-1.dtd">
+<ep-patent-document id="EP78100148A1" file="EP78100148NWA1.xml" lang="de" country="EP" doc-number="0006090" kind="A1" date-publ="19800109" status="n" dtd-version="ep-patent-document-v1-1">
+<SDOBI lang="de"><B000><eptags><B001EP>..BECHDE....FRGB......LUNL........................</B001EP><B005EP>B</B005EP></eptags></B000><B100><B110>0006090</B110><B120><B121>EUROPÄISCHE PATENTANMELDUNG</B121></B120><B130>A1</B130><B140><date>19800109</date></B140><B190>EP</B190></B100><B200><B210>78100148.2</B210><B220><date>19780612</date></B220><B240></B240><B250>de</B250><B251EP>de</B251EP><B260>de</B260></B200><B400><B405><date>19800109</date><bnum>198001</bnum></B405><B430><date>19800109</date><bnum>198001</bnum></B430></B400><B500><B510><B516>3</B516><B511> 3C 07J  41/00   A</B511><B512> 3A 61K  31/57   B</B512><B512> 3C 07J  43/00   B</B512><B512> 3A 61K  31/58   B</B512></B510><B540><B541>de</B541><B542>Neue Kortikoide, Verfahren zu ihrer Herstellung und diese enthaltende pharmazeutische Präparate</B542><B541>en</B541><B542>New corticoids, processes for their preparation and pharmaceutical compositions containing them</B542><B541>fr</B541><B542>Nouveaux corticoides, procédés pour leur préparation et compositions pharmaceutiques les contenant</B542></B540><B560></B560></B500><B700><B710><B711><snm>SCHERING AKTIENGESELLSCHAFT</snm><iid>00201582</iid><irf>P. 1941.00</irf><adr><str></str><city>D-13342 Berlin</city><ctry>DE</ctry></adr></B711></B710><B720><B721><snm>Laurent, Henry, Dr.</snm><adr><str>Glambecker Weg 21</str><city>D-1000 Berlin 28</city><ctry>DE</ctry></adr></B721><B721><snm>Wiechert, Rudolf, Prof.</snm><adr><str>Petzower Strasse 8a</str><city>D-1000 Berlin 39</city><ctry>DE</ctry></adr></B721><B721><snm>Töpert, Michael, Dr.</snm><adr><str>Askaloner Weg 11</str><city>D-1000 Berlin 28</city><ctry>DE</ctry></adr></B721><B721><snm>Kapp, Joachim-Friedrich, Dr.</snm><adr><str>Ludolfinger Weg 51</str><city>D-1000 Berlin 28</city><ctry>DE</ctry></adr></B721></B720></B700><B800><B840><ctry>BE</ctry><ctry>CH</ctry><ctry>DE</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>LU</ctry><ctry>NL</ctry></B840></B800></SDOBI><!-- EPO <DP n="1"> -->
+<abstract id="abst" lang="de">
+<p id="pa01" num="0001">Kortikoide der allgemeinen Formel I
+<chemistry id="chema01" num="0001"><img id="ia01" file="imga0001.tif" wi="67" he="50" img-content="chem" img-format="tif" inline="no"/></chemistry>worin
+<ul id="ula01" list-style="none">
+<li>die Bindung ...... eine Einfachbindung oder eine Doppelbindung</li>
+<li>R<sub>2</sub> ein Wasserstoffatom oder ein Chloratom,</li>
+<li>R<sub>6</sub> ein Wasserstoffatom oder ein Fluoratom und</li>
+<li>R,<sub>6</sub> ein Wasserstoffatom oder eine Methylgruppe bedeuten, worin</li>
+<li>R<sub>9</sub> ein Wasserstoffatom, ein Fluoratom oder ein Chloratom und</li>
+<li>R<sub>11α</sub> und R<sub>11β</sub> gemeinsam eine Oxogruppe oder R<sub>11α</sub> ein Wasserstoffatom und R<sub>11β</sub>eine Hydroxygruppe oder falls R<sub>9</sub> ein Chloratom ist auch ein Fluoratom oder ein Chloratom darstellen und worin</li>
+<li>R<sub>21a</sub> und R<sub>2</sub>,<sub>b</sub> gleich oder verschieden sind und Wasserstoff oder einen gegebenenfalls durch Sauerstoff unterbrochenen 1 bis 8 Kohlenstoffatome enthaltenden Kohlenwasserstoffrest darstellen, sind pharmakologisch wirksame Substanzen, die sich insbesondere zur Behandlung entzündlicher Erkrankungen eignen.</li>
+</ul></p>
+</abstract><!-- EPO <DP n="2"> -->
+<description id="desc" lang="de">
+<p id="p0001" num="0001">Die Erfindung betrifft neue Kortikoide, ein Verfahren zu ihrer Herstellung und pharmazeutische Präparate, die diese Kortikoide als Wirkstoff enthalten.</p>
+<p id="p0002" num="0002">Die neuen Kortikoide sind gekennzeichnet durch die allgemeine Formel I
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="130" he="59" img-content="chem" img-format="tif" inline="no"/></chemistry>worin
+<ul id="ul0001" list-style="none">
+<li>die Bindung ...... eine Einfachbindung oder eine Doppelbindung</li>
+<li>R<sub>2</sub> ein Wasserstoffatom oder ein Chloratom,</li>
+<li>R<sub>6</sub> ein Wasserstoffatom oder ein Fluoratom und</li>
+<li>R<sub>16</sub> ein Wasserstoffatom oder eine Methylgruppe bedeuten, worin</li>
+<li>R<sub>9</sub> ein Wasserstoffatom, ein Fluoratom oder ein Chloratom und</li>
+<li>R<sub>11α</sub> und R<sub>11β</sub> gemeinsam eine Oxogruppe oder R<sub>11α</sub> ein Wasserstoffatom und R<sub>11β</sub> eine Hydroxygruppe oder falls R<sub>9</sub> ein Chloratom ist auch ein Fluoratom oder ein Chloratom darstellen und worin<!-- EPO <DP n="3"> --></li>
+<li>R<sub>21a</sub> und R<sub>21b</sub> gleich oder verschieden sind und Wasserstoff oder einen gegebenenfalls durch Sauerstoff oder Stickstoff unterbrochenen 1 bis 8 Kohlenstoffatome enthaltenden Kohlenwasserstoffrest darstellen.</li>
+</ul></p>
+<p id="p0003" num="0003">Als Kohlenwasserstoffrest R<sub>21a</sub> und/oder R<sub>21b</sub> kommen beispielsweise Alkylreste oder Cycloalkylreste in Betracht. Geeignete Reste sind zum Beispiel: Der Methylrest, der Äthylrest, der Propylrest, der Isopropylrest,der Butylrest, der sek.-Butylrest, der Pentylrest, der Cyclopentylrest, der Hexylrest oder der Cyclohexylrest. Ein geeigneter Kohlenwasserstoffrest ist ferner der Benzylrest.</p>
+<p id="p0004" num="0004">Ferner können die Reste R<sub>21a</sub> und R<sub>21b</sub> auch gemeinsam eine gegebenenfalls durch Sauerstoff unterbrochene Alkylengruppe bedeuten, wie zum Beispiel die Tetramethylengruppe, die Pentamethylengruppe, die 3-Oxopentamethylengruppe oder die 3-Azapentamethylengruppe.</p>
+<p id="p0005" num="0005">Das erfindungsgemäße Verfahren zur Herstellung der neuen Kortikoide ist dadurch gekennzeichnet, daß man in an sich bekannter Weise
+<ul id="ul0002" list-style="none">
+<li>a) eine Carbonsäure der allgemeinen Formel II<!-- EPO <DP n="4"> -->
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="125" he="59" img-content="chem" img-format="tif" inline="no"/></chemistry><sup>R</sup>l<sup>lß</sup> worin .....,R<sub>2</sub>, R<sub>6</sub>, <sup>R</sup><sub>9</sub>, R<sub>11α</sub>√und R<sub>16</sub> die obengenannte Bedeutung besitzen, oder ein reaktionsfähiges Derivat dieser Säure mit einem Amin der allgemeinen Formel III
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="100" he="25" img-content="chem" img-format="tif" inline="no"/></chemistry>worin R<sub>21a</sub> und R<sub>21b</sub> die obengenannte Bedeutung besitzen, kondensiert, oder</li>
+<li>b) zur Herstellung von Kortikoiden mit R<sub>9</sub> in der Bedeutung eines Chloratoms an die 9(11)-Doppelbindung einer Verbindung der allgemeinen Formel IV 
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="131" he="61" img-content="chem" img-format="tif" inline="no"/></chemistry>worin R<sub>2</sub>, R<sub>6</sub>, R<sub>16</sub>, R<sub>21a</sub> und R<sub>21b</sub> die obengenannte Bedeutung <!-- EPO <DP n="5"> -->besitzen, unterchlorige Säure, Fluor und Chlor oder Chlor anlagert.</li>
+<li>c) Zur Herstellung von Kortikoiden mit R<sub>11β</sub> in der Bedeutung einer Hydroxygruppe und R<sub>9</sub> in der Bedeutung eines Fluoratoms oder eines Chloratoms den 9,11-Epoxydring einer Verbindung der allgemeinen Formel V
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="119" he="62" img-content="chem" img-format="tif" inline="no"/></chemistry>mit Fluorwasserstoff oder Chlorwasserstoff öffnet.</li>
+</ul></p>
+<p id="p0006" num="0006">Das erfindungsgemäße Verfahren gemäß Verfahrensvariante a wird unter Bedingungen durchgeführt, die dem Fachmann wohl bekannt sind.</p>
+<p id="p0007" num="0007">So kann man beispielsweise die Carbonsäuren der allgemeinen Formel II in Gegenwart von Katalysatoren, wie man sie bei der Amidherstellung üblicherweise verwendet (Dicyclohexylcarbodiimid, N,N-Carbonyldiimidazol, N-Äthoxycarbonyl-2-äthoxy-1,2-dihydro- chinolin etc.) mit den Aminen der Formel III umsetzen.</p>
+<p id="p0008" num="0008">Ferner ist es möglich, die Carbonsäuren, beispielsweise mittels Thionylchlorid, in die Säurechloride zu überführen und diese mit den Aminen umzusetzen.<!-- EPO <DP n="6"> --></p>
+<p id="p0009" num="0009">Günstigere Ausbeuten erzielt man meist, wenn man die Carbonsäuren der allgemeinen Formel II - beispielsweise durch Umsetzen mit einen Chlorameisensäurealkylester - in ihre gemischten Anhydride überführt und auf diese die Amine einwirken läßt.</p>
+<p id="p0010" num="0010">Ferner kann man Ester der Carbonsäuren der Formel II (so zum Beispiel Alkylester mit 1 bis 6 Kohlenstoffatomen in der Alkylgruppe) mit den Aminen der allgemeinen Formel III kondensieren. Die Umsetzung kann in polaren oder unpolaren Lösungsmitteln durchgeführt werden. Geeignete Lösungsmittel sind beispielsweise: Benzol, Toluol, Xylol, Tetrahydrofuran, Dioxan, Dimethoxyäthan, Chloroform, Dimethylformamid, Dimethylsulfoxyd oder Hexamethylphosphorsäuretriamid.</p>
+<p id="p0011" num="0011">Die Reaktion wird vorzugsweise bei einer Reaktionstemperatur von -60° C bis +100° C durchgeführt.</p>
+<p id="p0012" num="0012">Das erfindungsgemäße Verfahren gemäß Verfahrenvariante b und c erfolgt ebenfalls unter Bedingungen, die dem Fachmann wohl bekannt sind (siehe beispielsweise die US-Patentschrift 37 18.671).</p>
+<p id="p0013" num="0013">Die neuen Kortikoide der allgemeinen Formel I besitzen eine gute antiphlogistische Wirksamkeit und zeichnen sich durch eine günstige Dissoziation zwischen erwünschter entzündungshemmender Wirksamkeit und unerwünschter systemischen Kortikoidnebenwirkungen aus.</p><!-- EPO <DP n="7"> -->
+<p id="p0014" num="0014">Die neuen Kortikoide sind in Kombination mit den in der galenischen Pharmazie üblichen Trägermitteln gut geeignet zur Behandlung zum Beispiel von
+<ul id="ul0003" list-style="none">
+<li>a) lokal: Kontaktdermatitis, Ekzemen der verschiedensten Art, Neurodermitis, Erythrodermie, Verbrennungen 1. Grades, Pruritus·vulvae et ani, Rosacea, Erythematodes curaneus, Psoriasis, Lichen ruber planus et verrucosus;</li>
+<li>b) oral: Akute und chronische Polyarthritis, Neurodermitis, Asthma bronchiale, Heufieber u.a.</li>
+</ul></p>
+<p id="p0015" num="0015">Darüberhinaus eignen sich die erfindungsgemäßen Kortikoide auch zur Behandlung allergischer Erkrankungen der Atemwege, wie zum beispiel der Rhinitis oder des Bronchialasthmas.</p>
+<p id="p0016" num="0016">Die Herstellung der Arzneimittelspezialitäten erfolgt in üblicher Weise, indem man die Wirkstoffe mit geeigneten Zusätzen, Trägersubstanzen und Geschmackskorrigentien in die gewünschte Applikationsformen wie Tabletten, Dragees, Kapseln, Lösungen, Salben, Inhalationsmitteln usw. überführt.</p><!-- EPO <DP n="8"> -->
+<p id="p0017" num="0017">Für die orale Anwendung eignen sich insbesondere Tabletten, Dragees und Kapseln, welche beispielsweise 0,1 - 50 mg Kortikoid und 50 mg - 2 g eines pharmakologisch unwirksamen Trägers, wie zum Beispiel Laktose, Amylose, Talkum, Gelatine, Magnesi- umstearat und ähnliches, sowie die üblichen Zusätze enthalten. Für die topische Anwendung eignen sich Puder, Salben, Aerosole und ähnliche Zubereitungen, die vorzugsweise 0,01 bis 2% des Kortikoids enthalten.</p>
+<p id="p0018" num="0018">Die nachfolgenden Beispiele dienen zur weiteren Erläuterung der Erfindung.<!-- EPO <DP n="9"> --></p>
+<heading id="h0001">Beispiel 1</heading>
+<p id="p0019" num="0019">In eine Lösung von 1.0 g 6a-Fluor-11ß-hydroxy-16a-methyl-3,20-dioxo-1,4-pregnadien-21-säure-butylester in 25 ml Dimethylformamid wird 30 Stunden ein langsamer Strom von Ammoniak eingeleitet. Die Lösung wird anschließend in Eiswasser eingerührt, der ausgefallene Niederschlag abfiltriert, mit Wasser gewaschen und in Dichlormethan aufgenommen. Die organische Phase wird über Natriumsulfat getrocknet und im Vakuum eingeengt. Der Rückstand wird an 50 g Kieselgel chromatographiert. Mit 33-45% Aceton-Hexan wird das Produkt eluiert und aus Aceton-Benzin (Siedebereich: 60-80 C) umkristallisiert. Ausbeute: 327 mg 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-amid. Schmelzpunkt: 219°C. [α]<sub>D</sub>= +148<sup>0</sup> (Chloroform). UV:ε<sub>241</sub>=18400 (Methanol).</p>
+<heading id="h0002">Beispiel 2</heading>
+<p id="p0020" num="0020">2.0 g 6a-Fluor-11ß-hydroxy-16a-methyl-3,20-dioxo-1,4-pregna- dien-21-säure-butylester werden in 30 ml Hexamethylphosphorsäuretriamid gelöst. Es wird eine Stunde lang ein langsamer Strom von Methylamin eingeleitet und wie im Beispiel 1 beschrieben aufgearbeitet und chromatographiert. Das Reaktionsprodukt wird mit 45-60% Aceton-Hexan eluiert und aus Diethylether-Diisopropylether umkristallisiert. Ausbeute: 888 mg 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregna- dien-21-säure-methylamid. Schmelzpunkt: 209°C. [α]<sub>D</sub>= +144° (Chloroform). UV:ε<sub>242</sub>=19000 (Methanol).</p>
+<heading id="h0003">Beispiel 3</heading>
+<p id="p0021" num="0021">Die Lösung von 1.5 g 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-butylester in einem Gemisch aus 10 ml Hexamethylphosphorsäuretriamid und 10 ml Ethylamin wird 1 Stunde bei Raumtemperatur gerührt und wie im Beispiel 1 beschrieben aufgearbeitet und chromatographiert. Mit 25-32% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Aceton-Benzin (Siedebereich 60-80°C), 890 mg 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-ethyl- amid. Schmelzpunkt: 173°C. [α]<sub>D</sub>= +136<sup>0</sup> (Chloroform). <!-- EPO <DP n="10"> -->UV:ε<sub>242</sub>=18200 (Methanol).</p>
+<heading id="h0004">Beispiel 4</heading>
+<p id="p0022" num="0022">Eine Lösung von 5.0 g 6a-Fluor-11ß-hydroxy-16a-methyl-3,20-dioxo-1,4-pregnadien-21-säure-butylester in 10 ml Butylamin läßt man zwei Stunden bei Raumtemperatur stehen. Anschließend wird die Lösung in essigsäurehaltiges Wasser eingerührt, der Niederschlag abfiltriert und in Dichlormethan aufgenommen. Die organische Phase wird mit Wasser gewaschen, über Natriumsulfat getrocknet und im Vakuum eingeengt. Der Rückstand wird an 250 g Kieselgel chromatographiert. Mit 18-22% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Aceton-Benzin (Siedebereich 60-80 C), 4.11 g 6a-Fluor-11ß-hydroxy-16a-methyl-3,20-dioxo-1,4-preg- nadien-21-säure-butylamid. Schmelzpunkt: 225°C. [α]<sub>D</sub>= ±143° (Chloroform). UV:ε<sub>242</sub>=19800 (Methanol).</p>
+<heading id="h0005">Beispiel 5</heading>
+<p id="p0023" num="0023">Eine Lösung von 1.5 g 6a-Fluor-11ß-hydroxy-16a-methyl-3,20-dioxo-1,4-pregnadien-21-säure-butylester in 10 ml Dimethylformamid und 5 ml Pentylamin wird zwei Stunden bei Raumtemperatur gerührt. Es wird wie im Beispiel 1 beschrieben aufgearbeitet und chromatographiert. Mit 24-30% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Diethylether-Benzin (Siedebereich 60-80°C), 940 mg 6a-Fluor-11ß-hydroxy-16a-methyl-3,20-dioxo-1,4-pregnadien-21-säure-pentylamid. Schmelzpunkt: 170°C. [α]<sub>D</sub>= +140° (Chloroform). UV:ε<sub>242</sub>=19600 (Methanol).</p>
+<heading id="h0006">Beispiel 6</heading>
+<p id="p0024" num="0024">2.0 g 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregna- dien-21-säure-butylester werden in einem Gemisch aus 10 ml Hexamethylphosphorsäuretriamid und 10 ml Hexylamin 90 Minuten bei Raumtemperatur gerührt. Das Reaktionsprodukt wird, wie im Beispiel 1 beschrieben, isoliert und chromatographiert.<!-- EPO <DP n="11"> --></p>
+<p id="p0025" num="0025">Mit 20-25% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Aceton-Benzin (Siedebereich 60-80 C) 1.57 g 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-hexylamid. Schmelzpunkt: 189°C. [α]<sub>D</sub>= +133° (Chloroform). UV:ε<sub>242</sub>=19600 (Methanol).</p>
+<heading id="h0007">Beispiel 7</heading>
+<p id="p0026" num="0026">2.0 g 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-preg- nadien-21-säure-butylester werden in einem Gemisch aus 10 ml Dimethylformamid und 10 ml Cyclohexylamin zwei Stunden bei Raumtemperatur gerührt. Das Reaktionsprodukt wird, wie im Beispiel 1 beschrieben isoliert und chromatographiert. Mit 25-31% Aceton-Hexan erhält, nach dem Umkristallisieren aus Aceton-Benzin (Siedebereich 60-80 C). 1.31 g 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-cyclohexylamid. Schmelzpunkt: 257°C. [α]<sub>D</sub>= +142° (Chloroform). UV:ε<sub>243</sub>=19500 (Methanol).</p>
+<heading id="h0008">Beispiel 8</heading>
+<p id="p0027" num="0027">Eine Lösung von 1.0 g 6α-Fluor-11ß-hydroxy-16α-methyl-3 20-dioxo-1,4-pregnadien-21-säure-butylester in 25 ml Piperidin wird 3 Stunden bei Raumtemperatur gerührt. Das Reaktionsprodukt wird, wie im Beispiel 1 beschrieben, isoliert und chromatographiert. Mit 20-27% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Diethylether-Diisopropylether, 598 mg 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4- pregnadien-21-säure-piperidid. Schmelzpunkt: 184°C. [α]<sub>D</sub> = +117° (Chloroform). ε<sub>242</sub> = 18700 (Methanol).</p>
+<heading id="h0009">Beispiel 9</heading>
+<p id="p0028" num="0028">Eine Lösung von 800 mg 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-butylester in 20 ml Morpholin wird 40 Stunden auf 60°C erhitzt. Das Morpholin wird anschließend im Vakuum bei 60°C abdestilliert und der Rückstand an 50 g Kieselgel chromatographiert. Mit 30-36% Aceton-<!-- EPO <DP n="12"> -->Hexan erhält man, nach dem Umkristallisieren aus Aceton-Diisopropylether, 618 mg 6a-Fluor-11ß-hydroxy-16a-methyl-3,20-dioxo-1,4-pregnadien-21-säure-morpholid. Schmelzpunkt: 106°C. [α]<sub>D</sub>= +111° (Chloroform). UV:ε<sub>242</sub>= 16500 (Methanol).</p>
+<heading id="h0010">Beispiel 10</heading>
+<p id="p0029" num="0029">Eine Lösung von 1.17 g 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure in 30 ml Tetrahydrofuran wird auf -60°C gekühlt und mit 1 ml Triäthylamin versetzt. Zu dieser Lösung läßt man langsam eine Lösung von 0.43 ml Chlorameisensäureisobutylester in 10 ml Tetrahydrofuran tropfen. Nach 30 Minuten versetzt man mit 1 ml Diethylamin und läßt die Temperatur langsam auf 20°C ansteigen. Nach einer Stunde wird mit Wasser versetzt, mit verdünnter Salz- säure angesäuert und mit Dichlormethan extrahiert. Die organische Phase wird mit Wasser gewaschen, über Natriumsulfat getrocknet und im Vakuum eingedampft. Der Rückstand wird an 100 g Kieselgel chromatographiert. Mit 35-41% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Aceton-Hexan, 290 mg 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4- pregnadien-21-säure-diethylamid. Schmelzpunkt: 130°C. [α]<sub>D</sub>= +120° (Chloroform). UV:ε<sub>242</sub>=18200 (Methanol).</p>
+<heading id="h0011">Beispiel 11</heading>
+<p id="p0030" num="0030"><sub>1</sub>.<sub>17</sub> g 6a-Fluor-11ß-hydroxy-16a-methyl-3,20-dioxo-1.4- pregnaden-21-säure werden, wie im Beispiel 10 beschrieben, jedoch mit 1 ml Benzylamin anstelle von Diethylamin zur Reaktion gebracht. Es wird analog aufgearbeitet und an 100 g Kieselgel chromatographiert. Mit 37-43% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Diethyläther, 800 mg 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-benzylamid. Schmelzpunkt 188°C. [α]<sub>D</sub>= +142° (Chloroform). UV:ε<sub>242</sub>=20100 (Methanol).<!-- EPO <DP n="13"> --></p>
+<heading id="h0012">Beispiel 12</heading>
+<p id="p0031" num="0031">1.0 g 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4- pregnadien-21-säure werden, wie im Beispiel 10 beschrieben, jedoch mit 2-Butylamin anstelle von Diethylamin, zur Reaktion gebracht. Es wird entsprechend aufgearbeitet und an 100g Kieselgel chromatographiert. Mit 17-19% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Aceton-Hexan, 388 mg 6a-Fluor-11ß-hydroxy-16a-methyl-3,20-dioxo-1,4-pregnadien-21-säure-2-butylamid. Schmelzpunkt 233°C. [α]<sub>D</sub>= + 142° (Chloroform). UV:ε<sub>242</sub>= 19100 (Methanol).</p>
+<heading id="h0013">Beispiel 13</heading>
+<p id="p0032" num="0032">In eine Lösung von 2.5 g 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-butylester in 25 ml Dimethylformamid wird eine Stunde Dimethylamin eingeleitet. Man läßt die Reaktionsmischung 15 Stunden bei Raumtemperatur stehen, gießt dann in Eiswasser und extrahiert mit Dichlormethan. Der Extrakt wird mit Wasser gewaschen, über Natriumsulfat getrocknet und im Vakuum eingeengt. Der Rückstand wird an Kieselgel chromatographiert. Mit 24-35% Aceton-Dichlormethan erhält man, nach dem Umkristallisieren aus Aceton-Diisopropylether, 105 g 6a-Fluor-llß-hydroxy-16a-methyl-3,20-dioxo-1,4-pregnadien-21-säure-dimethylamid. Schmelzpunkt: 236°C. [α]<sub>D</sub>= +161° (Chloroform). UV:ε<sub>241</sub>=18300 (Methanol).</p>
+<heading id="h0014">Beispiel 14</heading>
+<p id="p0033" num="0033">In eine Lösung von 1.45 g 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure in 50 ml Tetrahydrofuran wird nach Zugabe von 2.15 g N-Ethoxycarbonyl-2-ethoxy-1,2-dihydrochinolin 30 Minuten bei Raumtemperatur Dimethylamin eingeleitet. Das Reaktionsgemisch wird 15 Stunden bei Raumtemperatur stehen gelassen und das Lösungsmittel an<!-- EPO <DP n="14"> -->schließend im Vakuum verdampft. Der Rückstand wird in Dichlormethan gelöst, die Lösung wird mit Wasser gewaschen, über Natriumsulfat getrocknet und im Vakuum eingedampft. Der Rückstand wird an 200 g Kieselgel chromatographiert. Mit 58-69% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Aceton-Diisopropylether, 1.04 g 6α-Fluor-11ß- hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-di- methylamid. Schmelzpunkt: 238°C. [α]<sub>D</sub>= +161° (Chloroform). UV:ε<sub>241</sub>= 18000 (Methanol).</p>
+<heading id="h0015">Beispiel 15</heading>
+<p id="p0034" num="0034">Die Lösung von 1.0 g 6a-Fluor-11ß-hydroxy-16a-methyl-3,20-dioxo-4-pregnen-21-säure-butylester in 10 ml Hexamethylphosphorsäuretriamid wird mit 10 ml Ethylamin versetzt und 4 Stunden bei Raumtemperatur stehen gelassen. Das Reaktionsprodukt wird, wie im Beispiel 1 beschrieben, isoliert und chromatographiert. Mit 42-57% Essigester-Hexan erhält man, nach dem Umkristallisieren aus Ether-Diisopropylethcr, 436 mg 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-4-pregnen-21-säure-ethylamid. Schmelzpunkt: 168°C. [α]<sub>D</sub>= +178° (Chloroform). UV:ε<sub>237</sub>= 18400 (Methanol).</p>
+<heading id="h0016">Beispiel 16</heading>
+<p id="p0035" num="0035">Eine Lösung von 3.0 g 6α-Fluor-16α-methyl-3.11.20-trioxo-1,4-pregnadien-21-säure-butylester in 15 ml Butylamin wird eine Stunde bei Raumtemperatur stehen gelassen und, wie im Beispiel 1 beschrieben, aufgearbeitet. Das Rohprodukt wird aus Aceton-Benzin (Siedebereich 60-80 C) umkristallisiert. Ausbeute: 2.86 g 6α-Fluor-16α-methyl-3,11,20-trioxo-1,4-pregnadien-21-säure-butylamid. Schmelzpunkt: 185°C. [α]<sub>D</sub>= +198° (Chloroform). UV:ε<sub>238</sub>= 19100 (Methanol).</p><!-- EPO <DP n="15"> -->
+<heading id="h0017">Beispiel 17</heading>
+<p id="p0036" num="0036">In die Lösung von 6a-Fluor-16a-methyl-3,11,20-trioxo-1,4-pregnadien-21-säure in 10 ml Hexamethylphosphorsäuretriamid werden bei -15° 2 ml Thionylchlorid eingetropft. Man erwärmt langsam auf Raumtemperatur, leitet 30 Minuten Dimethylamin ein und gießt nach 2 Stunden in Eiswasser. Das ausgefällte Produkt wird abfiltriert, mit Wasser gewaschen, getrocknet und an 50 g Kieselgel chromatographiert. Mit 21-23% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Aceton-Diisopropylether, 350 mg 6α-Fluor-16α-methyl-3,11,20-trioxo-1,4-pregnadien-21-säure-dimethylamid. Schmelzpunkt: 175°C. [α]<sub>D</sub>= +182° (Chloroform). UV:ε<sub>238</sub>=17600 (Methanol).</p>
+<heading id="h0018">Beispiel 18</heading>
+<p id="p0037" num="0037">2.0 g 6α,9α-Difluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4- pregnadien-21-säure-butylester löst man in 30 ml Dimethylformamid und leitet bei Raumtemperatur 20 Stunden Ammoniak ein. Das Reaktionsprodukt wird mit Eiswasser gefällt, abfiltriert, getrocknet und aus Essigester umkristallisiert. Ausbeute: 1.53 g 6a,9a-Difluor-11ß-hydroxy-16a-methyl-3.20-dioxo-1,4-pregnadien-21-säure-amid. Schmelzpunkt:&gt;300°C. [α]<sub>D</sub>= +213° (Pyridin). UV:ε<sub>237</sub>=19000 (Methanol).</p>
+<heading id="h0019">Beispiel 19</heading>
+<p id="p0038" num="0038">In eine Lösung von 5.0 g 6α,9α-Difluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-methylester in 60 ml Hexamethylphosphorsäuretriamid wird 30 Minuten Methylamin eingeleitet. Anschließend läßt man die Lösung eine Stunde bei Raumtemperatur stehen und gießt in Eiswasser. Das ausgefällte Produkt wird abfiltriert, mit Wasser gewaschen, an der Luft getrocknet und aus Aceton-Diisopropylether umkristallisiert. Ausbeute: 3.51 g 6α,9α-Difluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-methylamid. Schmelzpunkt: 234°C. [α]<sub>D</sub>= +131° (Chloroform). UV:ε<sub>238</sub>=19500 (Methanol).</p><!-- EPO <DP n="16"> -->
+<heading id="h0020">Beispiel 20</heading>
+<p id="p0039" num="0039">Eine Lösung von 300 mg 6α,9α-Difluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure in 3 ml Hexamethylphosphorsäuretriamid wird auf -15°C gekühlt. Man setzt 0.54 ml Thionylchlorid hinzu, leitet 15 Minuten Dimethylamin ein und läßt anschließend 5 Stunden bei Raumtemperatur stehen. Das Reaktonsgemisch wird in Eiswasser gegossen, der ausgefallene Niederschlag wird abfiltriert, mit Wasser gewaschen und getrocknet. Das Rohprodukt wird mittels präparativer Schichtchromatographie an Kieselgel gereinigt (Laufmittel: 50% Hexan-Essigester) und aus Aceton-Diisopropylether umkristallisiert. Ausbeute: 164 mg 6α,9α-Difluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4- pregnadien-21-säure-dimethylamid. Schmelzpunkt 269°C. [α]<sub>D</sub>= [α]<sub>D</sub>= +108° (Chloroform). UV:ε<sub>238</sub>=15200 (Methanol).</p>
+<heading id="h0021">Beispiel 21</heading>
+<p id="p0040" num="0040">Eine Lösung von 600 mg 6α,9α-Difluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure in 6 ml Hexamethylphosphorsäuretriamid wird auf -15°C gekühlt und mit 1.1 ml Thionylchlorid sowie 1 ml Die thylamin versetzt. Die Lösung wird 5 Stunden bei Raumtemperatur gerührt und anschließend in Eiswasser eingegossen. Der ausgefallene Niederschlag wird abfiltriert,mit Wasser gewaschen, getrocknet und mittels präparativer Schichtchromatographie an Kieselgel gereinigt (Laufmittel: 50% Hexan-Essigester). Das Produkt wird aus Aceton-Diisopropylether umkristallisiert. Ausbeute: 298 mg 6α,9α-Difluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-diethylamid. Schmelzpunkt: 158°C. [α]<sub>D</sub>= +109° (Chloroform). UV:ε<sub>238</sub>=18700 (Methanol).</p>
+<heading id="h0022">Beispiel 22</heading>
+<p id="p0041" num="0041">1.30 g 9α-Chlor-6α-fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-butylester werden analog Beispiel 18 in 9α-Chlor-6α-fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4- pregnadien-21-säure-amid überführt. Ausbeute: 920 mg, umkristallisiert aus Aceton-Diisopropylether. Schmelzpunkt: 238°C. [α]<sub>D</sub>= +223° (Pyridin). UV:ε<sub>237</sub>=18300 (Methanol).</p><!-- EPO <DP n="17"> -->
+<heading id="h0023">Beispiel 23</heading>
+<p id="p0042" num="0042">In eine Lösung von 2.0 g 9α-Chlor-6α-fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnatrien-21-säure-butylester in 30 ml Hexamethylphosphorsäuretriamid leitet man 2 Stunden Methylamin ein und fällt das Reaktionsprodukt mit Eiswasser. Der Niederschlag wird abfiltriert, gewaschen, getrocknet und an 100 g Kieselgel chromatographiert. Mit 53-67% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Aceton-Diisopropylether, 920 mg 9α-Chlor-6α-fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-methylamid. Schmelzpunkt: 230°C. [α]<sub>D</sub>= +203° (Pyridin). UV:ε<sub>238</sub>= 18400 (Methanol).</p>
+<heading id="h0024">Beispiel 24</heading>
+<p id="p0043" num="0043">Eine Lösung von 1.0 g 9α-Chlor-6α-fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-methylester in 6 ml Morpholin wird 3 Stunden auf 60°C erhitzt. Das Morpholin wird anschließend im Vakuum abdestilliert und der Rückstand an 50 g Kieselgel chromatographiert. Mit 26-35% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Essigester-Diisopropylether, 867 mg 9α-Chlor-6α-fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1 4-pregnadien-21-säure-morpholid. Schmelzpunkt: 216°C. [α] =+132° (Chloroform). UV:ε<sub>238</sub>=18100 (Methanol).</p>
+<heading id="h0025">Beispiel 25</heading>
+<p id="p0044" num="0044">
+<ul id="ul0004" list-style="none">
+<li>a) Eine Lösung von 500 mg 6α-Fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure in 5 ml Hexamethylphosphorsäuretriamid wird auf -15°C gekühlt und mit 0.9 ml Thionylchlorid versetzt. Man erwärmt langsam auf Raumtemperatur und rührt nach 6 Stunden in Eiswasser ein. Der Niederschlag wird avfiltriert, gewaschen, getrocknet und an 50 g Kieselgel chromatographiert. Mit 27-34% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Diethylether, 315 mg 6α-Fluor-16α-methyl-3,20-dioxo-1,4,9(11)-pregnatrien-21-säure-dimethylamid. <!-- EPO <DP n="18"> -->Schmelzpunkt: 136°C. [α]<sub>D</sub>= +49° (Chloroform). UV:ε<sub>238</sub>=18500 (Methanol).</li>
+<li>b) Die Lösung von 150 mg 6α-Fluor-16α-methyl-3,20-dioxo-1,4, 9(11)-pregnatrien-21-säure-dimethylamid in 5.5 ml Dioxan wird mit 1.4 ml Wasser, 550 mg N-Chlorsuccinimid sowie 0.55 ml 70proz. Perchlorsäure versetzt und 10 Minuten bei Raumtemperatur gerührt. Das Reaktionsgemisch wird in Eiswasser gegossen, der ausgefallene Niederschlag abfiltriert, mit Wasser gewaschen und an der Luft getrocknet. Nach dem Umkristallisieren aus Aceton-Diisopropylether erhältman 109 mg 9α-Chlor-6α-fluor-11ß-hydroxy-16α-methyl-3,20-dioxo-1,4- pregnadien-21-säure-dimethylamid. Schmelzpunkt: 228°C. [α]<sub>D</sub> = +169° (Chloroform). UV:ε<sub>238</sub>=18100 (Methanol).</li>
+</ul></p>
+<heading id="h0026">Beispiel 26</heading>
+<p id="p0045" num="0045">
+<ul id="ul0005" list-style="none">
+<li>a) Eine auf -15°C gekühlte Lösung von 3.0 g 6α-Fluor-11ß- hydroxy-16a-methyl-3,20-dioxo-1,4-pregnadien-21-säure in 30 ml Hexamethylphosphorsäuretriamid wird mit 5.4 ml Thionylchlorid und 6.9 ml Diethylamin versetzt. Anschließend läßt man das Reaktionsgemisch 5 Stunden bei Raumtemperatur stehen und fällt mit Eiswasser. Der Niederschlag wird abfiltriert, mit Wasser gewaschen, getrocknet und an 200 g Kieselgel chromatographiert. Mit 22-26% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Aceton-Hexan, 1.50 g 6α-Fluor-16α-methyl-3,20-dioxo-1,4,9(11)-pregnatrien-21- säure-diethylamid. Schmelzpunkt: 144°C. [α]<sub>D</sub>= +59° (Chloroform). UV:ε<sub>238</sub>=18400 (Methanol).</li>
+<li>b) 200 mg 6α-Fluor-16α-methyl-3,20-dioxo-1,4,9(11)-pregna- trien-21-säure-diethylamid werden in 7.4 ml Dioxan gelöst. Die Lösung wird mit 1.85 ml Wasser, 750 mg N-Chlorsuccinimid sowie 0.75 ml 70proz. Perchlorsäure versetzt, 10 Minuten bei Raumtemperatur gerührt und in Eiswasser gegossen. Der ausgefallene Niederschlag wird abfiltriert, mit Wasser gewaschen, an der Luft getrocknet und aus Aceton-Diisopropylether umkristallisiert. Ausbeute: 155 mg 9α-Chlor-6α-fluor-11ß- hydroxy- 6α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-diethylamid. Schmelzpunkt: 198°C. [α]<sub>D</sub>= +165° (Chloroform). UV:ε<sub>238</sub>-17900 (Methanol).</li><!-- EPO <DP n="19"> -->
+</ul></p>
+<heading id="h0027">Beispiel 27</heading>
+<p id="p0046" num="0046">Eine Lösung von 1.0 g 2-Chlor-6α-fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-methylester in 10 ml Pentylamin wird 3 Stunden bei Raumtemperatur stehen gelassen und anschließend, wie im Beispiel 1 beschrieben, aufgearbeitet. Das Rohprodukt wird an 50 g Kieselgel chromatographiert. Mit 20-27% Essigester-Hexan erhält man, nach dem Fällen mit Aceton-Diethylether, 131 mg 2-Chlor-6a-fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure- pentylamid. [α]<sub>D</sub>= +65° (Chloroform). UV:ε<sub>249</sub>=16800 (Methanol).</p>
+<heading id="h0028">Beispiel 28</heading>
+<p id="p0047" num="0047">Eine Lösung von 600 mg 9α-Chlor-6α,11β-difluor-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-methylester in 10 ml Cyclohexylamin wird 3 Stunden bei Raumtemperatur stehen gelassen und anschließend, wie im Beispiel 1 beschrieben, aufgearbeitet. Das Reaktionsprodukt wird an 50 g Kieselgel chromatographiert. Mit 41-82% Essigester-Hexan erhält man, nach dem Umkristallisieren aus Essigester-Diisopropyläther, 425 mg 9α-Chlor-6α,11β-difluor-16α-methyl-3,20-dioxo-1,4- pregnadien-21-säure-cyclohexylamid. Schmelzpunkt: 185°C. [α]<sub>D</sub>= +139<sup>0</sup> (Chloroform). UV:ε<sub>237</sub>=19200 (Methanol).</p>
+<heading id="h0029">Beispiel 29</heading>
+<p id="p0048" num="0048">Eine Lösung von 600 mg 9α,11β-Dichlor-6α-fluor-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-methylester in 5 ml Butylamin wird 5 Stunden bei Raumtemperatur stehen gelassen. Man arbeitet auf und chromatographiert, wie im Beispiel 1 beschrieben. Mit 15-21% Aceton-Hexan wird das Reaktionsprodukt eluiert und aus Diethylether-Benzin (Siedebereich 40-60 C) umkristallisiert. Ausbeute: 544 mg 9a,11ß-Dichlor-6a-fluor-16α-Methyl-3,20-dioxo-1,4-pregnadien-21-säure-butylamid. Schmelzpunkt: 186°C. [α]<sub>D</sub>=+177° (Chloroform). UV:ε<sub>237</sub>= 18700 (Methanol).</p><!-- EPO <DP n="20"> -->
+<heading id="h0030">Beispiel 30</heading>
+<p id="p0049" num="0049">In eine Lösung von 1.5 g 9α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-methylester in 25 ml Dimethylformamid wird 6 Stunden ein langsamer Strom von Ammoniak eingeleitet. Man läßt dann 36 Stunden bei Raumtemperatur stehen und rührt anschließend in Eiswasser ein. Der ausgefallene Niederschlag wird abfiltriert, mit Wasser gewaschen, getrocknet und aus Aceton-Diisopropylether umkristallisiert. Ausbeute: 913 mg 9α-Fluor-11β-hydroxy-16α-methyl-1,4-pregna- dien-21-säure-amid Schmelzpunkt: 266°C. [α]<sub>D</sub>= +235° (Pyridin). UV:ε<sub>238</sub>=17900 (Methanol).</p>
+<heading id="h0031">Beispiel 31</heading>
+<p id="p0050" num="0050">Eine Lösung von 1.0 g 9α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-methyle<sub>E</sub>ter in 20 ml Hexylamin läßt man 3 Stunden bei Raumtemperatur stehen. Das Reaktionsprodukt wird isoliert und chromatographiert, wie im Beispiel 1 beschrieben. Mit 18-22% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Aceton-Diisopropylether, 682 mg 9α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säur-e-hxylamid. Schmelzpunkt: 123<sup>o</sup>C. [α]<sub>D</sub>= +131° (Chloroform). UV:ε<sub>240</sub>=18600 (Methanol).</p>
+<heading id="h0032">Beispiel 32</heading>
+<p id="p0051" num="0051">Eine Lösung von 2.0 g 11β-Hydroxy-3,20-dioxo-1,4-pregnadien-21-säure-butylester in 10 ml Butylamin wird 30 Minuten bei Raumtemperatur stehen gelassen. Das Rohprodukt wird, wie im Beispiel 1 beschrieben, isoliert und chromatographiert. Mit 24-29% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Diethylether-Diisopropylether, 853 mg 11β-Hydroxy-3,20-dioxo-1,4-pregnadien-21-säure-butylamid. Schmelzpunkt: 150°C. [α]<sub>D</sub>= +1850 (Chloroform). UV:ε<sub>243</sub>=18000 (Methanol).<!-- EPO <DP n="21"> --></p>
+<heading id="h0033">Beispiel 33</heading>
+<p id="p0052" num="0052">2.0 g 11β-Hydroxy-3,20-dioxo-1,4-pregnadien-21-säure-butylester versetzt man mit 10 ml Morpholin und erwärmt 4 Stunden auf 60°C. Das Morpholin wird anschließend im Vakuum abdestilliert und der Rückstand an 100 g Kieselgel chromatographiert. Mit 23-30% Aceton-Hexan erhält man, nach dem Umkristallisieren aus Aceton-Benzin (Siedebereich 60-80°C), 1.02 g 11β-Hydroxy-3,20-dioxo-1,4-pregnadien-21-säure- morpholid. Schmelzpunkt: 194°C [α]<sub>D</sub>= +146° (Chloroform). UV:ε<sub>243</sub>=17700 (Methanol).</p>
+<heading id="h0034">Beispiel 34</heading>
+<p id="p0053" num="0053">5.0 g 11ß-Hydroxy-3,20-dioxo-1,4-pregnadien-21-säure- butylester werden analog Beispiel 2 in 11β-Hydroxy-3,20-dioxo-1,4-pregnadien-21-säure-methylamid überführt. Ausbeute: 3.30 g, umkristallisiert aus Aceton. Schmelzpunkt: 147°C. [α]<sub>D</sub>=+255° (Pyridin). UV:ε<sub>243</sub>=17500 (Methanol).</p>
+<heading id="h0035">Beispiel 35</heading>
+<p id="p0054" num="0054">5.0 g 11β-Hydroxy-3,20-dioxo-1,4-pregnadien-21-säure-butylester werden analog Beispiel 1 in 11β-Hydroxy-3,20-dioxo-1,4-pregnadien-21-säureamid überführt. Ausbeute: 1.47 g, umkristallisiert aus Aceton-Diisopropylether. Schmelzpunkt: 194°C. [α]<sub>D</sub>= +263° (Pyridin). UV:ε<sub>241</sub>=16600 (Methanol).</p>
+</description><!-- EPO <DP n="22"> -->
+<claims id="claims01" lang="de">
+<claim id="c-de-0001" num="">
+<claim-text>1. Kortikoide der allgemeinen Formel I
+<chemistry id="chem0006" num="0006"><img id="ib0006" file="imgb0006.tif" wi="125" he="56" img-content="chem" img-format="tif" inline="no"/></chemistry>worin
+<claim-text>die Bindung ...... eine Einfachbindung oder eine Doppelbindung</claim-text>
+<claim-text>R<sub>2</sub> ein Wasserstoffatom oder ein Chloratom,</claim-text>
+<claim-text>R<sub>6</sub> ein Wasserstoffatom oder ein Fluoratom und</claim-text>
+<claim-text>R<sub>16</sub> ein Wasserstoffatom oder eine Methylgruppe bedeuten, worin</claim-text>
+<claim-text>R<sub>9</sub> ein Wasserstoffatom, ein Fluoratom oder ein Chloratom und</claim-text>
+<claim-text>R<sub>11α</sub> und R<sub>11β</sub> gemeinsam eine Oxogruppe oder R<sub>11α</sub> ein Wasserstoff atom und R<sub>11β</sub> eine Hydroxygruppe oder falls R<sub>9</sub> ein Chloratom ist auch ein Fluoratom oder ein Chloratom darstellen und worin</claim-text>
+<claim-text>R<sub>21a</sub> und R<sub>21b</sub> gleich oder verschieden sind und Wasserstoff oder einen gegebenenfalls durch Sauerstoff</claim-text>unterbrochenen 1 bis 8 Kohlenstoffatome enthaltenden Kohlenwasserstoffrest darstellen.</claim-text></claim><!-- EPO <DP n="23"> -->
+<claim id="c-de-0002" num="">
+<claim-text>2. 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-amid.</claim-text></claim>
+<claim id="c-de-0003" num="">
+<claim-text>3. 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-methylamid.</claim-text></claim>
+<claim id="c-de-0004" num="">
+<claim-text>4. 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-ethylaaid.</claim-text></claim>
+<claim id="c-de-0005" num="">
+<claim-text>5. 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-butylamid.</claim-text></claim>
+<claim id="c-de-0006" num="">
+<claim-text>6. 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- saure-pentylamid.</claim-text></claim>
+<claim id="c-de-0007" num="">
+<claim-text>7. 6a-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-hexylamid.</claim-text></claim>
+<claim id="c-de-0008" num="">
+<claim-text>8. 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-cyclohexylamid.</claim-text></claim>
+<claim id="c-de-0009" num="">
+<claim-text>9. 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-piperidid.</claim-text></claim>
+<claim id="c-de-0010" num="">
+<claim-text>10. 6α-Fluor-11β-hydroxy-16-α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-morpholid.</claim-text></claim>
+<claim id="c-de-0011" num="">
+<claim-text>11. 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-diethylamid.</claim-text></claim>
+<claim id="c-de-0012" num="">
+<claim-text>12. 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-benzylamid.</claim-text></claim><!-- EPO <DP n="24"> -->
+<claim id="c-de-0013" num="">
+<claim-text>13. 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-2-butylamid.</claim-text></claim>
+<claim id="c-de-0014" num="">
+<claim-text>14. 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-dimethylamid.</claim-text></claim>
+<claim id="c-de-0015" num="">
+<claim-text>15. 6α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-4-pregnen-21- säure-ethylamid.</claim-text></claim>
+<claim id="c-de-0016" num="">
+<claim-text>16. 6α-Fluor-16α-methyl-3,11,20-trioxo-1,4-pregnadien-21-säure- butylamid.</claim-text></claim>
+<claim id="c-de-0017" num="">
+<claim-text>17. 6α-Fluor-16α-methyl-3,11,20-trioxo-1,4-pregnadien-21-säure- dimethylamid.</claim-text></claim>
+<claim id="c-de-0018" num="">
+<claim-text>18. 6α,9α-Difluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregna- dien-21-säure-amid.</claim-text></claim>
+<claim id="c-de-0019" num="">
+<claim-text>19. 6α,9α-Difluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-methylamid.</claim-text></claim>
+<claim id="c-de-0020" num="">
+<claim-text>20. 6α,9α-Difluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregna- dien-21-säure-dimethylamid.</claim-text></claim>
+<claim id="c-de-0021" num="">
+<claim-text>21. 6α,9α-Difluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregna- dien-21-säure-diethylamid.</claim-text></claim>
+<claim id="c-de-0022" num="">
+<claim-text>22. 9α-Chlor-6α-fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4- pregnadien-21-säure-amid.</claim-text></claim><!-- EPO <DP n="25"> -->
+<claim id="c-de-0023" num="">
+<claim-text>23. 9α-Chlor-6α-fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4 pregnadien-21-säure-methylamid.</claim-text></claim>
+<claim id="c-de-0024" num="">
+<claim-text>24. 9α-Chlor-6α-fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4 pregnadien-21-säure-morpholid.</claim-text></claim>
+<claim id="c-de-0025" num="">
+<claim-text>25. 9α-Chlor-6α-fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4- pregnadien-21-säure-dimethylamid.</claim-text></claim>
+<claim id="c-de-0026" num="">
+<claim-text>26. 9α-Chlor-6α-fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4 pregnadien-21-säure-diethylamid.</claim-text></claim>
+<claim id="c-de-0027" num="">
+<claim-text>27. -2-Chlor-6α-fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4 pregnadien-21-säure-pentylamid.</claim-text></claim>
+<claim id="c-de-0028" num="">
+<claim-text>28. 9α-Chlor-6α-,11β-difluor-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-cyclohexylamid.</claim-text></claim>
+<claim id="c-de-0029" num="">
+<claim-text>29. 9α,11β-Dichlor-6α-fluor-16α-methyl-3,20-dioxo-1,4-pregnadien-21-säure-butylamid.</claim-text></claim>
+<claim id="c-de-0030" num="">
+<claim-text>30. 9α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-amid.</claim-text></claim>
+<claim id="c-de-0031" num="">
+<claim-text>31. 9α-Fluor-11β-hydroxy-16α-methyl-3,20-dioxo-1,4-pregnadien-21- säure-hexylamid.</claim-text></claim>
+<claim id="c-de-0032" num="">
+<claim-text>32. 11β-Hydroxy-3,20-dioxo-1,4-pregnadien-21-säure-butylamid.</claim-text></claim>
+<claim id="c-de-0033" num="">
+<claim-text>33. 11β-Hydroxy-3,20-dioxo-1,4-pregnadien-21-säure-morpholid.</claim-text></claim>
+<claim id="c-de-0034" num="">
+<claim-text>34. 11β-Hydroxy-3,20-dioxo-1,4-pregnadien-21-säure-methylamid.</claim-text></claim>
+<claim id="c-de-0035" num="">
+<claim-text>35. 11β-Hydroxy-3,20-dioxo-1,4-pregnadien-21-säureamid.</claim-text></claim><!-- EPO <DP n="26"> -->
+<claim id="c-de-0036" num="">
+<claim-text>36. Pharmazeutische Präparate enthaltend ein oder mehrere Kortikoide gemäß Anspruch 1 bis 36 als Wirkstoff.</claim-text></claim>
+<claim id="c-de-0037" num="">
+<claim-text>37. Methode zur Behandlung von Entzündungen, dadurch gekennzeichnet, daß man den Patienten ein pharmazeutisches Präparat gemäß Anspruch 37 verabfolgt.</claim-text></claim>
+<claim id="c-de-0038" num="">
+<claim-text>38. Verfahren zur Herstellung von der allgemeinen Formel I
+<chemistry id="chem0007" num="0007"><img id="ib0007" file="imgb0007.tif" wi="133" he="56" img-content="chem" img-format="tif" inline="no"/></chemistry>worin
+<claim-text>die Bindung ...... eine Einfachbindung oder eine Doppelbindung</claim-text>
+<claim-text>R<sub>2</sub> ein Wasserstoffatom oder ein Chloratom,</claim-text>
+<claim-text>R<sub>6</sub> ein Wasserstoffatom oder ein Fluoratom und</claim-text>
+<claim-text>R<sub>16</sub> ein Wasserstoffatom oder eine Methylgruppe bedeuten, worin</claim-text>
+<claim-text>R<sub>9</sub> ein Wasserstoffatom, ein Fluoratom oder ein Chloratom und</claim-text>
+<claim-text>R<sub>11α</sub> und R<sub>11β</sub> gemeinsam eine Oxogruppe oder R<sub>11α</sub> ein Wasserstoffatom und R<sub>11β</sub> eine Hydroxygruppe oder falls R<sub>9</sub> ein Chloratom ist auch ein Fluoratom oder ein Chloratom darstellen und worin</claim-text>  <!-- EPO <DP n="27"> --> 
+<claim-text>R<sub>21a</sub> und R<sub>21b</sub> gleich oder verschieden sind und Wasserstoff oder einen gegebenenfalls durch Sauerstoff oder Stickstoff unterbrochenen 1 bis 8 Kohlenstoffatome enthaltenden Kohlenwasser- stoffrest darstellen, dadurch gekennzeichnet, daß man in an sich bekannter Weise</claim-text>
+<claim-text>a) eine Carbonsäure der allgemeinen Formel II
+<chemistry id="chem0008" num="0008"><img id="ib0008" file="imgb0008.tif" wi="165" he="57" img-content="chem" img-format="tif" inline="no"/></chemistry>worin .....,R<sub>2</sub>, R<sub>6</sub> R<sub>9</sub>, R<sub>11α</sub>, R<sub>11β</sub> und R<sub>16</sub> die obengenannte Bedeutung besitzen, oder ein reaktionsfähiges Derivat dieser Säure mit einer Amin der allgemeinen Formel III
+<chemistry id="chem0009" num="0009"><img id="ib0009" file="imgb0009.tif" wi="99" he="24" img-content="chem" img-format="tif" inline="no"/></chemistry>worin R<sub>21a</sub> und R<sub>21b</sub> die obengenannte Bedeutung besitzen, kondensiert, oder<!-- EPO <DP n="28"> --></claim-text>
+<claim-text>b) zur Herstellung von Kortikoiden mit R<sub>9</sub> in der Bedeutung eines Chloratoms an die 9(11)-Doppelbindung einer Verbindung der allgemeinen Formel IV 
+<chemistry id="chem0010" num="0010"><img id="ib0010" file="imgb0010.tif" wi="149" he="63" img-content="chem" img-format="tif" inline="no"/></chemistry>worin <sup>R</sup><sub>2</sub>, R<sub>6</sub>, R<sub>16</sub>, R<sub>21a</sub> und R<sub>21b</sub> die obengenannte Bedeutung besitzen, unterchlorige Säure, Fluorchlorid oder Chlor anlagert.</claim-text>
+<claim-text>c) Zur Herstellung von Kortikoiden mit R<sub>11β</sub> in der Bedeutung einer Hydroxygruppe und R<sub>9</sub> in der Bedeutung eines Fluoratoms oder eines Chloratoms den 9,11-Epoxydring einer Verbindung der allgemeinen Formel V
+<chemistry id="chem0011" num="0011"><img id="ib0011" file="imgb0011.tif" wi="88" he="62" img-content="chem" img-format="tif" inline="no"/></chemistry>mit Fluorwasserstoff oder Chlorwasserstoff offnet.</claim-text> </claim-text></claim>
+</claims><!-- EPO <DP n="29"> -->
+<search-report-data id="srep" lang="de" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="182" he="263" type="tif"/></search-report-data>
+</ep-patent-document>

@@ -1,0 +1,88 @@
+ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.1//EN" "ep-patent-document-v1-1.dtd" 
+ ......DE....FRGB.................................. B 0006402 EUROPÄISCHE PATENTANMELDUNG A1 19800109 EP 78100234.0 19780626 de de de 19800109 198001 19800109 198001 3  3B 41F  21/05   A  3B 65H   5/14   B de Kurventriebfreier Antrieb eines schwingenden Vorgreifers en Camless drive for an oscillating front gripper fr Entraînement sans cames pour pinces oscillantes Heidelberger Druckmaschinen
+Aktiengesellschaft 00200210 Ew-La(A-273) Kurfürsten-Anlage 52-60
+Postfach 10 29 40 D-69019 Heidelberg DE Thünker, Norbert, Dr. Schillerstrasse 6a D-6945 Grosssachsen DE Stoltenberg, Heinz-Herbert Baldo 00011591 c/o Heidelberger Druckmaschinen AG
+Kurfürsten-Anlage 52-60 D-69115 Heidelberg DE DE FR GB  EPO <DP n="1">  
+ 
+ Für einen in einem kurzen Zylinderkanal zur Anwendung kommenden kurventriebfreien Antrieb eines schwingenden Vorgreifers für Bogenrotationsdruckmaschinen, dessen Antriebselemente ausschließlich durch Drehgelenke verbunden sind, ist ein siebengliedriges Koppelgetriebe vorgesehen. Als Antriebskurbel für die Schwenkbewegung des Vorgreifers (16) dient ein im Maschinengestell zentrisch zur Achse des Druckzylinders gelagertes erstes Zahnrad (3), an dem exzentrisch eine Koppel (5) angelenkt ist. Durch die Rotationsbewegung des ersten Zahnrades (3) erfährt das Koppelgetriebe über die Antriebskurbel (10) eine derartige Bewegung, daß der Vorgreifer (16) in der Bogenübergabestellung genau die Umfangsgeschwindigkeit des Druckzylinders aufweist. Der Vorgreiferträger (15) ist exzentrisch im Gelenkpunkt (30) eines zweiten Zahnrades (17) unmittelbar einer Kurbel (25) nachgeschaltet. 
+ Das zweite Zahnrad (17) steht mit dem ersten in Eingriff und dreht sich mit derselben Winkelgeschwindigkeit wie dieses. Durch die Bewegung des Gelenkpunktes (30) des Vorgreiferträgers auf einer Kreisbahn um den Lagerpunkt (18) des zweiten Zahnrades (17) wird dem Vorgreifer die erforderliche Aushebebewegung erteilt. 
+  EPO <DP n="2">  
+ 
+ Die Erfindung betrifft einen kurventriebfreien Antrieb eines schwingenden Vorgreifers für Bogenrotationsdruckmaschinen, dessen Antriebselemente ausschließlich durch Drehgelenke verbunden sind. 
+ Der Zweck der Erfindung besteht darin, mit der Vorgreifereinrichtung den auf dem Anlegetisch ausgerichteten Bogen passergerecht zu erfassen und ihn nach kurzer Zeit dem Greifersatz des Druckzylinders zu übergeben, wobei insbesondere die-Geschwindigkeitszustände des Vorgreifers in seinen beiden wichtigen Greiferstellungen, in der Bogenübernahme mit v = 0 und in der Bogenübergabe mit v = Druckzylindergeschwindigkeit, exakt eingehalten werden sollen: 
+ Als Stand der Technik sind ausschließlich schwingende Vorgreifer bekannt, die entweder kurventriebfrei mittels Gelenkgetrieben angetrieben werden, wobei diese jedoch kein Ausheben beim Zurückschwingen ermöglichen oder Schwinggreifer, die wohl eine Aushebebewegung beim Zurückschwingen durchführen, in diesem Falle aber nur durch Kurvensteuerungen bzw. kurvengesteuerte Koppelgetriebe angetrieben werden. 
+ So ist in dem deutschen Gebrauchsmuster 71 31 281 ein kurventriebfreier, durch eine Kurbelschwinge angetriebener, schwingender Vorgreifer beschrieben. Da dieser jedoch keine Aushebebewegung beim Zurückschwingen zur Bogenübernahmestellung beim Anlegetisch zuläßt und außerdem die Zeitspanne zwischen der Bogenübergabe an den Druckzylinder und dem Zurückschwenken des Greifers sehr kurz ist, erfordert diese Einrichtung einen extrem breiten Kanal von ca. 200 im Druckzylinder, wodurch wiederum die Länge des maximal zu verarbeitenden Formates stark eingeschränkt wird. Davon abgesehen, sind bei dieser Vorgreifereinrichtung durch einen geringen Übertragungswinkel schlechte Übertragungsverhältnisse gegeben.  EPO <DP n="3">  
+ Bei dem in der deutschen Patentschrift 22 20 343 offenbarten Antrieb eines schwingenden Vorgreifers ist als wesentlicher Nachteil anzuführen, daß diese Vorrichtung mit kraftschlüssig zusammenwirkenden Antriebsteilen versehen ist. Während des Betriebes wird nämlich ein Hebelarm über eine Kurvensteuerung mittels einer Feder ständig gegen eine Rolle angepreßt. Der Nachteil des Kraftschlusses soll also durch Einsatz einer Kurvensteuerung kompensiert werden, wodurch der Bauaufwand zwangsweise erheblich steigt. Außerdem werden die an dem Kraftschluß beteiligten Bauelemente durch die infolge der hohen Winkelgeschwindigkeiten und Beschleunigungen des Vorgreifers hervorgerufenen großen Massenkräfte zwangsweise sehr stark belastet. 
+ Des weiteren ist eine Druckmaschine mit der Typenbezeichnung "Roland Favorit" der Druckmaschinenfabrik Faber & Schleicher, Offenbach mit einem kurvengesteuerten aushebenden Schwinggreifer ausgerüstet, der während des Zurückschwingens in die Bogenübernahmestellung zwar eine Aushebebewegung durchführt, dessen Antrieb jedoch sehr aufwendig über eine Kurvensteuerung erfolgt, die verfahrensmäßig die bereits zuvor genannten Schwierigkeiten birgt. Bei der erforderlichen starken Verzögerung des Vorgreifers von einer hohen Geschwindigkeit auf die Übernahmegeschwindigkeit v = 0 müssen auch starke Federn vorgesehen werden, um ein Abheben der Rolle vom Kurvenglied auszuschließen und somit einen einwandfreien Kraftschluß zu gewährleisten. Außerdem ist die Herstellung der hierbei angewandten Kurvenscheiben äußerst aufwendig und kostspielig. 
+ Demgemäß besteht die Aufgabe der Erfindung darin, einen schwingenden Vorgreifer für einen kurzen Zylinderkanal zur Ausschöpfung eines großen Formatbereiches zu entwickeln, der einerseits kurventriebfrei angetrieben wird und somit die geschilderten Nachteile der relativ teuren Kurventriebe ausschließt und bei dem anderer -   EPO <DP n="4">  seits das Zurückschwingen in seine Bogenübernahmestellung in einer gegenüber der Druckzylinderoberfläche entfernter liegenden Bahn erfolgt, wodurch u. a. hohe Maschinengeschwindigkeiten erzielt werden sollen. Dabei soll insbesondere auf gute Übertragungsverhältnisse, d. h. Übertragungswinkel an den Antriebsgliedern geachtet und der erforderliche Platzbedarf minimal gehalten werden. 
+ Nach der Erfindung wird dieses Problem dadurch gelöst, daß der Antrieb als ein siebengliedriges Koppelgetriebe ausgebildet ist, wobei dieses durch zwei mit gleicher Winkelgeschwindigkeit umlaufende Kurbeln angetrieben wird und wobei der Vorgreifer selbst Teil jener Koppel ist, die der einen Kurbel unmittelbar nachgeschaltet ist. 
+ Bei einem Antrieb der obengenannten Art kann der Kanal des Druckzylinders extrem kurz gehalten und somit die zur Bogenauflage zur Verfügung stehende Umfangsfläche entsprechend vergrößert werden, so daß das Verarbeiten größerer Formate bei gleichem Druckzylinderdurchmesser ermöglicht wird. Außerdem können durch günstige Übertragungsverhältnisse hohe Maschinendrehzahlen gefahren werden. 
+ Eine vorteilhafte Ausgestaltung der Erfindung besteht darin, daß ein Gelenkpunkt des Vorgreiferhebels über eine Koppel mit dem Abtriebsglied einer Kurbelschwinge verbunden ist, wodurch dem Vorgreifer eine Schwingbewegung erteilt wird, und daß ein zweiter Gelenkpunkt des Vorgreiferhebels exzentrisch umlaufend auf einer Kreisbahn geführt wird, wodurch der Vorgreifer beim Zurückschwenken eine Aushebung gegenüber dem Druckzylinder erfährt. Eine derartige Anordnung ist einfach und kostengünstig herzustellen und dynamisch gut zu beherrschen, weshalb auch bei hohen Maschinendrehzahlen und kürzesten Zeitintervallen der Bogenübergabe an den Druckzylinder die exakte Einhaltung der gewünschten Geschwindigkeitszustände des Vorgreifers während der Bogenübernahme am Anlegetisch und Bogenübergabe am Druckzylinder gewährleistet ist. Ein   EPO <DP n="5">  absolut genauer Passer beim Bogentransport vom Anlegetisch zum Druckzylinder ist die Folge. 
+ Die Erfindung wird nachfolgend anhand des in der Zeichnung dargestellten Ausführungsbeispieles näher erläutert. 
+ Es zeigt:
+ 
+ Fig. 1 eine schematische Seitenansicht des Vorgreiferantriebes in der Bogenübernahmestellung am Anlegetisch und 
+ Fig. 2 die gleiche Ansicht wie in Figur 1, jedoch in der Bogenübergabestellung des Vorgreifers an den Druckzylinder. 
+ 
+ Wie in den Figuren 1 und 2 dargestellt, ist im Maschinengestell 1 im Gestellpunkt 2 zentrisch zur Achse des Druckzylinders und mit diesem fest verbunden ein erstes Zahnrad 3 drehbar gelagert. Dieses Zahnrad 3 kann identisch sein mit dem Antriebsrad des Druckzylinders. Im Zahnrad 3 ist außermittig im Kurbelpunkt 4 eine Koppel 5 angelenkt, die über einen Gelenkpunkt 6 Verbindungsglied zu einem im Gestellpunkt 8 gelagerten Abtriebsglied 7 ist. Das im Gestellpunkt 8 gelagerte Abtriebsglied 7 ist als doppelarmiger Schwenkhebel ausgebildet. Die Kurbelschwinge 2,4, 6, 8 wird durch den Kurbelpunkt 4 angetrieben, der bei Drehung des Zahnrades 3 eine Kreisbahn 9 durchläuft, wobei deren Radius Antriebskurbel 10 für die Schwenkbewegung des Vorgreifers 16 ist. 
+ Am freien Ende des Schwenkhebels 7 ist im Gelenkpunkt 11 eine Koppel 12 angelenkt, die über einen Gelenkpunkt 13 die Schwenkbewegung des Schwenkhebels 7 auf einen Vorgreiferhebel 14 überträgt. Mit dem Vorgreiferhebel 14 ist eine Koppel, der Vorgreiferträger 15, fest verbunden. Am freien Ende des Vorgreiferträgers 15 sind die Vorgreifer 16 angeordnet. Der Vorgreiferträger 15 ist exzentrisch im Gelenkpunkt 30 eines zweiten Zahnrades 17 drehbar gelagert.   EPO <DP n="6">  Das im Gestellpunkt 18 gelagerte Zahnrad 17 steht mit dem ersten Zahnrad 3 im Eingriff und dreht sich mit derselben Winkelgeschwindigkeit wie dieses. 
+ Die Wirkungsweise der vorbeschriebenen Erfindung ist nachfolgend näher erläutert:
+ 
+ Ein auf einem Bogenanlegetisch 19 aufliegender Bogen 20 wird in der in Figur 1 gezeigten Bogenübernahmestellung 21 von dem Vorgreifer 16 erfaßt. Dabei hat die Greiferauflage des Vorgreifers 16 exakt die Geschwindigkeit v = 0. Durch die Rotationsbewegung des ersten Zahnrades 3 wird nun über die Antriebskurbel 10 dem Koppelgetriebe 2, 4, 6, 8, 11, 13, 30 eine derartige Bewegung erteilt, daß der Vorgreiferträger 15 verschwenkt wird und bereits nach kurzer Zeit in der Bogenübergabestellung 23 die für die Bogenübergabe an den Druckzylinder erforderliche Geschwindigkeit, nämlich genau dessen Zylinderumfangsgeschwindigkeit, erreicht (Figur 2). 
+ 
+ Dabei wird durch die Bewegung des Gelenkpunktes 30 des Vorgreiferträgers 15 auf einer Kreisbahn 24 um den Gestellpunkt 18, der gleichzeitig Lagerpunkt des zweiten Zahnrades 17 ist, und durch die Bewegung des Gelenkpunktes 13 des Vorgreiferhebels 14 dem Vorgreifer 16 die erforderliche Schwingbewegung erteilt. Der Radius der Kreisbahn 24 gilt dabei als Antriebskurbel 25 für die Aushebebewegung des Vorgreifers 16. 
+ Nach der Bogenübergabe an den Druckzylinder schwingt der Vorgreiferträger 15 solange weiter, bis die Greiferauflage des Vorgreifers 16 den Umkehrpunkt 26 erreicht hat. 
+ Während dieses Weiterschwingens des Vorgreiferträgers 15 wird durch die Führung des Gelenkpunktes 30 auf der Kreisbahn 24 eine   EPO <DP n="7">  Aushebebewegung des Vorgreifers 16 bis zu einer maximalen Aushebung 27 eingeleitet, so daß dann die Greiferauflage des Vorgreifers 16 auf einer gegenüber der Oberfläche des Druckzylinders höher liegenden Bahn in die Bogenübernahmestellung 21 zurückgeschwenkt wird und die Bogenzuführungsbahn 28 erst sehr spät berührt, wodurch eine Verarbeitung von sehr großen Formaten - bezogen auf den Druckzylinderumfang - möglich ist. 
+ In den Figuren 1 und 2 ist die durch den Bewegungsablauf der Greiferauflage des Vorgreifers 16 während einer Umdrehung des Druckzylinders bzw. der Vorgreifertrommel durchfahrende Kurvenbahn 29 gestrichelt dargestellt. Das Maß der größten Aushebung 27 der Greiferauflage von der Bogenzuführungsbahn 28 entspricht dabei dem Durchmesser der Kreisbahn 24, die der Gelenkpunkt 30 während einer Umdrehung des zweiten Zahnrades 17 beschreibt. 
+ Es versteht sich von selbst, daß Abweichungen hinsichtlich der Getriebeanordnung von der in den Figuren dargestellten und in der Beschreibung als Beispiel niedergelegten Ausführungsform der Erfindung denkbar sind, die in deren abgesteckten Rahmen liegen. So ist es beispielsweise durchaus möglich, den Gestellpunkt 2 für die Antriebskurbel 10 unter Berücksichtigung einer maßstäblichen Veränderung der Kurbelschwinge 2,4, 6, 8 entsprechend der sich verändernden Gestellänge beliebig an einer anderen Stelle, also nicht am Druckzylinder, anzuordnen.  EPO <DP n="8">  
+ TEILELISTE 
+ 
+ 
+ 1 Maschinengestell 
+ 2 Gestellpunkt 
+ 3 Zahnrad 
+ 4 - Kurbelpunkt 
+ 5 Koppel 
+ 6 Gelenkpunkt 
+ 7 Abtriebsglied 
+ 8 Gestellpunkt 
+ 9 Kreisbahn 
+ 10 Antriebskurbel 
+ 11 Gelenkpunkt 
+ 12 Koppel 
+ 13 Gelenkpunkt 
+ 14 Vorgreiferhebel 
+ 15 Vorgreiferträger 
+ 16 Vorgreifer 
+ 17 Zahnrad 
+ 18 Gestellpunkt 
+ 19 Bogenanlegetisch 
+ 20 Bogen 
+ 21 Bogenübernahmestellung 
+ 22 
+ 23 Bogenübergabestellung 
+ 24 Kreisbahn 
+ 2 5 Antriebskurbel 
+ 26 Umkehrpunkt 
+ 27 Aushebung 
+ 28 Bogenzuführungsbahn 
+ 29 Kurvenbahn 
+ 30 Gelenkpunkt 
+ 
+  EPO <DP n="9">  
+ 
+ 
+ 1. Kurventriebfreier Antrieb eines schwingenden Vorgreifers (16) für Bogenrotationsdruckmaschinen, dessen Antriebselemente ausschließlich durch Drehgelenke verbunden sind,  
+dadurch gekennzeichnet,  
+daß der Antrieb als ein siebengliedriges Koppelgetriebe (2, 4, 6, 8,11,13, 30) ausgebildet ist, wobei dieses durch zwei mit gleicher Winkelgeschwindigkeit umlaufende Kurbeln (10, 25) angetrieben wird und wobei der Vorgreifer (16) selbst Teil jener Koppel (15) ist, die der einen Kurbel (25) unmittelbar nachgeschaltet ist. 
+ 
+ 2. Kurventriebfreier Antrieb nach Anspruch 1,  
+dadurch gekennzeichnet,  
+daß ein Gelenkpunkt (13) des Vorgreiferhebels (14) über eine Koppel (12) mit dem Abtriebsglied (7) einer Kurbelschwinge (2, 4, 6,8) verbunden ist, wodurch dem Vorgreifer (16) eine Schwingbewegung erteilt wird,  
+und daß ein zweiter Gelenkpunkt (30) des Vorgreiferhebels (14) exzentrisch umlaufend auf einer Kreisbahn (24) geführt wird, wodurch der Vorgreifer (16) beim Zurückschwenken eine Aushebung (27) gegenüber dem Druckzylinder erfährt. 
+  EPO <DP n="10">  
+ 
+  EPO <DP n="11">  
+ 
+  EPO <DP n="12">  
+ 

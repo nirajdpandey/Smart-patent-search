@@ -1,0 +1,115 @@
+ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.1//EN" "ep-patent-document-v1-1.dtd" 
+ ....CHDE....FRGB..IT.............................. B 0006102 EUROPÄISCHE PATENTANMELDUNG A1 19800109 EP 79100068.0 19790111 de de de 2825547 19780610 DE 19800109 198001 19800109 198001 3  3C 07D 233/60   A  3C 07D 233/64   B  3A 61K  31/415  -  3C 08K   5/34   -  3C 10M   1/32   - // A61K31/415, C08K5/34, C10M1/32 de 1-Hydroxymethylimidazole, Verfahren zu ihrer Herstellung und ihre Verwendung als chemische Zwischenprodukte en 1-Hydroxymethylimidazoles, their preparation and use as chemical intermediates fr 1-Hydroxyméthylimidazoles, procédés pour leur préparation et leur application comme intermédiaires chimiques BASF Aktiengesellschaft 00200000 O.Z.0050/033220 Carl-Bosch-Strasse 38 67063 Ludwigshafen DE Dockner, Toni, Dr. Grossgasse 6 D-6701 Meckenheim DE Frank, Anton Bannwasserstrasse 72 D-6700 Ludwigshafen DE Kempe, Uwe, Dr. Moenchhofstrasse 3 b D-6900 Heidelberg DE Wetzler, Matthias Liebermannstrasse 7 D-6700 Ludwigshafen DE Karn, Helmut Sternstrasse 120 D-6700 Ludwigshafen DE CH DE FR GB IT  EPO <DP n="1">  
+ 
+ 1-Hydroxymethylimidazole der Formel
+ in der R ein Wasserstoffatom oder einen Alkylrest mit 1 bis 18 C-Atomen bedeutet, ihre Herstellung und ihre Verwendung als chemische Zwischenprodukte, beispielsweise für weitere Imidazolderivate oder für das Arzneimittel Cimetidin. 
+  EPO <DP n="2">  
+ 
+ Die Erfindung betrifft gegebenenfalls in 2-Stellung alkylsubstituierte 1-Hydroxymethylimidazole, ihre Herstellung und ihre Verwendung als chemische Zwischenprodukte. 
+ Es wurde gefunden, daß 1-Hydroxymethylimidazole der Formel 1
+ in der R ein Wasserstoffatom oder einen Alkylrest mit 1 bis 18 C-Atomen bedeutet, chemische Zwischenprodukte mit wertvollen Eigenschaften darstellen. 
+ Von den Verbindungen der Formel 1 sind insbesondere die Verbindungen, in denen R einen Alkylrest mit 1 bis 4 C-Atomen bedeutet, hervorzuheben und als besonders bevorzugt ist die Verbindung, in der R ein Wasserstoffatom bedeutet, zu nennen.  EPO <DP n="3">  
+ "Die Verbindungen der Formel 1 werden hergestellt, indem man ein Imidazol der Formel 2
+ in der R die oben angegebenen Bedeutungen hat, mit Paraformaldehyd oder Trioxan bei Temperaturen von 40 bis 150°C direkt oder in Gegenwart eines aromatischen Kohlenwasserstoffs als Lösungsmittel umsetzt. 
+ Die Ausgangsverbindungen werden zweckmäßigerweise in einem Molverhältnis von 0,8 bis 1 : 1 bis 0,8, wobei der Paraformaldehyd oder das Trioxan auf monomeren Formaldehyd bezogen wird und das besonders bevorzugte Molverhältnis bei 1 : 1 liegt, verwendet. 
+ Die bevorzugten Temperaturen liegen bei 50 bis 70°C. Bei der direkten Umsetzung erfolgt die Reaktion in der Schmelze der Ausgangsstoffe. Wird die Reaktion in Gegenwart eines Lösungsmittels durchgeführt, sind Alkylbenzole, wie Toluol oder Xylol, Chlorbenzol oder Nitrobenzol zweckmäßige Lösungsmittel. In der Regel ist die Reaktion innerhalb von 10 bis 20 Stunden beendet, wenn ein Lösungsmittel verwendet wird, während die direkte Umsetzung in der Schmelze innerhalb von 1 bis 2 Stunden beendet ist. 
+ Das Herstellungsverfahren der direkten Hydroxymethylierung am Stickstoffatom 1 erfolgt in hoher Ausbeute und ohne störende Nebenreaktionen. Dieses Ergebnis ist überraschend und war nicht ohne weiteres voraussehbar. Vielmehr währe zu erwarten gewesen, daß neben der 5-Hydroxymethylverbindung Dihydrazopyrazin-Derivate nach der in   EPO <DP n="4">  "Chemical and Pharmaceutical Bulletin" 22, 1975, S. 2 359 ' - 64 beschriebenen Gleichung
+ in beträchtlichen Mengen gebildet werden. 
+ Die erfindungsgemäßen Verbindungen sind wertvolle chemische Verbindungen, die beispielsweise für die Härtung von Epoxidharzen, als Emulgatoren für Wasser-öl-Emulsionen, als Schmiermittelzusätze oder als Zwischenprodukte für Arzneimittel der Human- oder Tiermedizin verwendet werden können. 
+ Das 4-Methyl-l-hydroxymethylimidazol ist eine neue Ausgangsverbindung für die Herstellung von 4-Methyl-5-[(2-aminoäthyl)-thiomethyl]-imidazol, welches ein wichtiges Zwischenprodukt für die Herstellung des Arzneimittels Cimetidin (N-Cyan-N'-methyl-N"-[2-((4-methyl-5-imidazolyl)-methylmercapto)-äthyl]-guanidin) darstellt, wie es beispielsweise in den DE-OS 23 44 779 und 26 49 059 beschrieben wird. 
+ Hierzu wird das 4-Methyl-1-hydroxymethylimidazol mit Cysteamin in konzentrierter Salzsäure umgesetzt, indem man 4-Methyl-1-hydroxymethylimidazol und Cysteamin in   EPO <DP n="5">  der 2- bis 5-fach molaren Menge konzentrierter Salzsäure 10 bis 20 Stunden lang zum Sieden erhitzt, die überschüssige Salzsäure unter vermindertem Druck abdestilliert und das so erhaltene rohe 4-Methyl-5-[(2-aminoäthyl)-thiome- thylj-imidazol-dihydrochlorid durch Umkristallisation aus Alkohol reinigt. 
+ Weiterhin lassen sich die 1-Hydroxymethylimidazole der Formel 1 gezielt durch Erhitzen in wäßriger Salzsäure von 10 bis 37, bevorzugt 13 bis 25 Gew.% Chlorwasserstoff in hoher Ausbeute in die entsprechenden 5-Hydroxymethylimidazole umlagern. In wäßriger Salzsäure tritt in dem bevorzugten Bereich praktisch keine Chlormethylierung als Nebenreaktion ein. 
+ Diese Umlagerungsreaktion erfolgt bei Normaldruck durch Erhitzen zweckmäßigerweise auf 80°C bis zu den Siedetemperaturen der Lösung und ist in der Regel nach 10 bis 120 Stunden beendet. Gegebenenfalls ist es zweckmäßig, in einem geschlossenen Gefäß bei geringem Überdruck bis zu 2 bar und bei Temperaturen bis 125°C zu arbeiten. Gegebenenfalls kann diese Umlagerungsreaktion in wäßrig-alkoholischer Chlorwasserstofflösung erfolgen, wobei bis zu 50 Vol% Äthylalkohol zweckmäßig sind. 
+ Diese überraschend glatt verlaufende Umlagerung schafft ein Verfahren zur Herstellung von 5-Hydroxymethylimidazolen der Formel 3
+    EPO <DP n="6">   in der R die oben angegebenen Bedeutungen hat. 
+ Es ist bekannt, daß die 5-Hydroxymethylimidazole unter Umständen nur schwierig hergestellt werden können. Beispielsweise wird das 4-Methyl-5-hydroxymethylimidazol aus 4-Methylimidazol-5-carbonsäureestern durch Reduktion mit Lithiumaluminiumhydrid [J. Med. Chem. 19, 923 - 928 (1976)] oder mit Alkalimetallen oder Calcium in flüssigem Ammoniak (DE-OS 26 37 670) in recht umständlicher Weise hergestellt. 
+ Das durch Umlagerung aus der 1-Hydroxymethylverbindung erhaltene 4-Methyl-5-hydroxymethylimidazol läßt sich in an sich üblicher Weise mit Cysteamin in siedender konzentrierter wäßriger Salzsäure zum 4-Methyl-5-[(2-aminoäthyl)-thiomethyl]-imidazol, dem bekannten Cimetidin-Zwischenprodukt, umsetzen. In einer besonders vorteilhaften und wirtschaftlicheren Ausführungsform erfolgt die Umsetzung mit 2,2-Dimethylthiazolidin anstelle des Cysteamins. 
+ Beispiel 1 
+ 1-Hydroxymethyl-4-methylimldazol 
+ 
+ 
+  EPO <DP n="7">  
+ Elementaranalyse:
+ 
+ 
+ Beispiel 2 
+ 
+ 
+ 
+ Beispiel 3 
+ 
+ 
+  EPO <DP n="8">  
+ "Beispiel 4 
+ 
+ 
+ 
+ Beispiel 5 
+ 4-Methyl-5-hydroxymethylimidazol-hydrochlorid 
+ 
+ 
+  EPO <DP n="9">  
+ Die Gesamtausbeute von 580 g 4-Methyl-5-hydroxymethylimidazol-hydrochlorid, das 5 bis 10 % Chlormethylverbindung enthält, entspricht in etwa einer Ausbeute von 71 % der Theorie. 
+ Beispiel 6 
+ 2-Äthyl-4-methyl-5-hydroxymethylimidazol 
+ 
+ 
+ 
+ Beispiel 7 
+ 
+ 
+  EPO <DP n="10">  
+ Beispiel 8 
+ 4-Methyl-5- [(2-aminoäthyl)-thiomethyl] -imidazol-dihydrochlorid 
+ 
+ 
+ 
+ Beispiel 9 
+ 
+ 
+  EPO <DP n="11">  
+ 
+ 
+ Dünnschichtchromatographie: 
+ 
+ 
+ 
+ Beispiel 10 
+ 4-Methyl-5-[(2-aminoäthyl)-thiomethyl]-imidazol-dihydrochlorid 
+ Zu 
+ 
+  EPO <DP n="12">  
+ 
+ 
+ Beispiel 11 (Vergleichsbeispiel) 
+ 
+ 
+ 
+ Das Vergleichsbeispiel zeigt, daß bei dieser Umsetzung die gewünschte Verbindung nur in geringer Menge entsteht. 
+ Beispiel 12 
+ 
+ 
+  EPO <DP n="13">  
+ 
+ 
+ Beispiel 13 
+ 
+ 
+ 
+  EPO <DP n="14">  
+ 
+ 
+ 1. 1-Hydroxymethylimidazole der Formel 1
+ in der R ein Wasserstoffatom oder einen Alkylrest mit 1 bis 18 C-Atomen bedeutet. 
+ 
+ 2. 4-Methyl-l-hydroxymethyllmidazol. 
+ 
+ 3. Verfahren zur Herstellung von Verbindungen der Formel 1, indem man ein Imidazol der Formel 2
+ in der R die in Anspruch 1 angegebenen Bedeutungen hat, mit Paraformaldehyd oder Trioxan bei Temperaturen von 40 bis 150°C direkt oder in Gegenwart eines aromatischen Kohlenwasserstoffs als Lösungsmittel umsetzt. 
+ 
+ 4. Verfahren zur Herstellung von Verbindungen der Formel 1, indem man ein Imidazol der Formel 2
+    EPO <DP n="15">   in der R die in Anspruch 1 angegebenen Bedeutungen hat, mit Paraformaldehyd oder Trioxan bei Temperaturen von 40 bis 150°C direkt oder in Gegenwart eines aromatischen Kohlenwasserstoffs als Lösungsmittel umsetzt und das erhaltene 1-Hydroxymethylimidazol gewünschtenfalls durch Erhitzen in wäßriger Salzsäure zum 5-Hydroxymethylimidazol umlagert. 
+ 
+ 5. Verfahren zur Herstellung von 4-Methyl-l-hydroxymethylimidazol nach Anspruch 3 und Umsetzung der erhaltenen Verbindung mit Cysteamin in konzentrierter wäßriger Salzsäure in der Siedehitze zum 4-Methyl-5[(2-aminoäthyl)-thiomethy] -imidazol-dihydrochlorid. 
+  EPO <DP n="16">  
+ 
