@@ -22,8 +22,7 @@ Develop a prototype which can support following requirements
 ### Data 
 
 The glimpse of data can be seen in the folder called data. However, that;s not complete corpus. 
-If you wish to download complete set here is the [link](https://publication.epo.org/raw-
-data/download/files/2019/03/27/1553702348281/EP_full_text_backfile_sample_data_1980.zip). 
+If you wish to download complete set here is the [link](https://publication.epo.org/raw-data/download/files/2019/03/27/1553702348281/EP_full_text_backfile_sample_data_1980.zip)
 
 ### Approach
 
