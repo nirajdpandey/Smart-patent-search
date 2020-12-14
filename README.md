@@ -30,6 +30,12 @@ If you wish to download complete set here is the [link](https://publication.epo.
 
 ***
 
+### Embedding File
+
+You can either train your own (which in my view is better) or if you are lazy :) download it from [here](https://github.com/mmihaltz/word2vec-GoogleNews-vectors)
+
+
+***
 ### Approach
 
 ```
