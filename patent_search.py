@@ -3,7 +3,7 @@
 
 __Author__ = 'Niraj Dev Pandey'
 __Date__ = '04 June 2020'
-__Purpose__ = 'Case study data scientist for Allymatch GmbH'
+
 
 # Import dependencies
 import os
